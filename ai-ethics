@@ -1,0 +1,78 @@
+{
+	"label": "Books on artificial intelligence and ethics",
+	"description": "A selection of new titles on artificial intelligence and ethics available as e-books from the European Parliament Library.",
+	"list": [{
+			"label": "Artificial Intelligence for a Better Future",
+			"isbns": [
+				"9783030699772"
+			]
+		},
+		{
+			"label": "The Oxford Handbook of Ethics of AI",
+			"isbns": [
+				"9780190067397"
+			]
+		},
+		{
+			"label": "Artificial Intelligence: Robot Law, Policy and Ethics",
+			"isbns": [
+				"9789004458093"
+			]
+		},
+
+		{
+			"label": "Robotics, AI, and Humanity",
+			"isbns": [
+				"9783030541729"
+			]
+		},
+		{
+			"label": "An Introduction to Ethics in Robotics and AI",
+			"isbns": [
+				"9783030511098"
+			]
+		},
+		{
+			"label": "Handbuch Maschinenethik",
+			"isbns": [
+				"9783658174828"
+			]
+		},
+		{
+			"label": "On the Path to AI",
+			"isbns": [
+				"9783030435813"
+			]
+		},
+		{
+			"label": "Identity, Institutions and Governance in an AI World",
+			"isbns": [
+				"9783030361808"
+			]
+		},
+		{
+			"label": "The Virtual Public Servant",
+			"isbns": [
+				"9783030540838"
+			]
+		},
+		{
+			"label": "Roboter in der Gesellschaft",
+			"isbns": [
+				"9783662577646"
+			]
+		},
+		{
+			"label": "International Handbook on Responsible Innovation",
+			"isbns": [
+				"9781784718855"
+			]
+		},
+		{
+			"label": "Dehumanisierung der Kriegführung",
+			"isbns": [
+				"9783662578551"
+			]
+		}
+	]
+}
