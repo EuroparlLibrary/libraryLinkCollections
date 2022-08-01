@@ -1,0 +1,78 @@
+{
+	"label": "Books on Africa",
+	"description": "A selection of new titles on Africa available as e-books from the European Parliament Library.",
+	"list": [{
+			"label": "Revisiting EU-Africa Relations in a Changing World",
+			"isbns": [
+				"9781839109812",
+				"9781839109829"
+			]
+		},
+		{
+			"label": "The Palgrave Handbook of Africa and the Changing Global Order",
+			"isbns": [
+				"9783030774806",
+				"9783030774813"
+			]
+		},
+		{
+			"label": "Artificial Intelligence and the Law",
+			"isbns": [
+				"9781839701030"
+			]
+		},
+		{
+			"label": "The Future of Copyright in the Age of Artificial Intelligence",
+			"isbns": [
+				"9781839103148",
+				"9781839103155"
+			]
+		},
+		{
+			"label": "African Foreign Policies",
+			"isbns": [
+				"9781000048339",
+				"9780367348281"
+			]
+		},
+		{
+			"label": "Africa-Europe Relationships",
+			"isbns": [
+				"9780367467197",
+				"9781000072778"
+			]
+		},
+		{
+			"label": "The Routledge Handbook of EU-Africa Relations",
+			"isbns": [
+				"9781138047303",
+				"9781351693288",
+				"9781315170916"
+			]
+		},
+		{
+			"label": "Great Powers and US Foreign Policy Towards Africa",
+			"isbns": [
+				"9783319940953",
+				"9783319940960",
+				"9783030067946"
+			]
+		},
+		{
+			"label": "Brazil-Africa Relations in the 21st Century",
+			"isbns": [
+				"9783030557195",
+				"9783030557201",
+				"9783030557225"
+			]
+		},
+		{
+			"label": "Neo-Colonialism and the Poverty of 'Development' in Africa",
+			"isbns": [
+				"9783319585703",
+				"9783319585710",
+				"9783319864303"
+			]
+		}
+	]
+}
