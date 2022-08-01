@@ -1,0 +1,77 @@
+{
+	"label": "Books on European Citizenship",
+	"description": "A selection of new titles on European citizenship available as e-books from the European Parliament Library.",
+	"list": [{
+			"label": "European Union Citizenship Law and Policy",
+			"isbns": [
+				"9781786431585",
+				"9781786431592"
+			]
+		},
+		{
+			"label": "European Papers on EU Citizenship and Rights",
+			"isbns": [
+				"9789004433076",
+				"9789004422452"
+			]
+		},
+		{
+			"label": "EU Citizenship and Free Movement Rights",
+			"isbns": [
+				"9789004411784",
+				"9789004411777"
+			]
+		},
+		{
+			"label": "European Citizenship and Identity Outside of the European Union",
+			"isbns": [
+				"9781138543638",
+				"9781351006309"
+			]
+		},
+		{
+			"label": "Boundaries of European Social Citizenship",
+			"isbns": [
+				"9780367249830",
+				"9781000697940"
+			]
+		},
+		{
+			"label": "European Citizenship in Perspective",
+			"isbns": [
+				"9781786435798",
+				"9781786435804"
+			]
+		},
+		{
+			"label": "Debating European Citizenship",
+			"isbns": [
+				"9783319899046",
+				"9783319899053",
+				"9783030078911"
+			]
+		},
+		{
+			"label": "Challenging European Citizenship",
+			"isbns": [
+				"9783030222802",
+				"9783030222819"
+			]
+		},
+		{
+			"label": "The EU Citizenship Directive: a Commentary",
+			"isbns": [
+				"9780198849384",
+				"9780191885440"
+			]
+		},
+		{
+			"label": "The Politics of Mobile Citizenship in Europe",
+			"isbns": [
+				"9783030490539",
+				"9783030490515",
+				"9783030490508"
+			]
+		}
+	]
+}
