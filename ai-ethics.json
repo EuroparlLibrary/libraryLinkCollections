@@ -4,7 +4,9 @@
 	"list": [{
 			"label": "Artificial Intelligence for a Better Future",
 			"isbns": [
-				"9783030699772"
+				"9783030699772",
+				"3-030-69978-1",
+				"3-030-69977-3"
 			]
 		},
 		{
@@ -16,62 +18,84 @@
 		{
 			"label": "Artificial Intelligence: Robot Law, Policy and Ethics",
 			"isbns": [
-				"9789004458093"
+				"9789004458093",
+				"9004458107",
+				"9789004458109",
+				"9004458093"
 			]
 		},
 
 		{
 			"label": "Robotics, AI, and Humanity",
 			"isbns": [
-				"9783030541729"
+				"9783030541729",
+				"3-030-54173-8",
+				"3-030-54172-X"
 			]
 		},
 		{
 			"label": "An Introduction to Ethics in Robotics and AI",
 			"isbns": [
-				"9783030511098"
+				"9783030511098",
+				"3-030-51110-3",
+				"3-030-51109-X"
 			]
 		},
 		{
 			"label": "Handbuch Maschinenethik",
 			"isbns": [
-				"9783658174828"
+				"9783658174828",
+				"3-658-17483-8",
+				"3-658-17482-X"
 			]
 		},
 		{
 			"label": "On the Path to AI",
 			"isbns": [
-				"9783030435813"
+				"9783030435813",
+				"3-030-43582-2",
+				"3-030-43581-4"
 			]
 		},
 		{
 			"label": "Identity, Institutions and Governance in an AI World",
 			"isbns": [
-				"9783030361808"
+				"9783030361808",
+				"3-030-36181-0",
+				"3-030-36180-2"
 			]
 		},
 		{
 			"label": "The Virtual Public Servant",
 			"isbns": [
-				"9783030540838"
+				"9783030540838",
+				"3-030-54084-7",
+				"3-030-54083-9"
 			]
 		},
 		{
 			"label": "Roboter in der Gesellschaft",
 			"isbns": [
-				"9783662577646"
+				"9783662577646",
+				"3-662-57765-8",
+				"3-662-57764-X"
 			]
 		},
 		{
 			"label": "International Handbook on Responsible Innovation",
 			"isbns": [
-				"9781784718855"
+				"9781784718855",
+				"9781784718862",
+				"1-78471-886-6",
+				"1-78471-885-8"
 			]
 		},
 		{
 			"label": "Dehumanisierung der Kriegführung",
 			"isbns": [
-				"9783662578551"
+				"9783662578551",
+				"3-662-57856-5",
+				"3-662-57855-7"
 			]
 		}
 	]
