@@ -5,14 +5,7 @@
 			"label": "Atlas of AI",
 			"isbns": [
 				"9780300209570",
-        "9780300252392"
-			]
-		},
-		{
-			"label": "Research Handbook on the Law of Artificial Intelligence",
-			"isbns": [
-				"9781786439048",
-        "9781786439055"
+        			"9780300252392"
 			]
 		},
 		{
@@ -25,50 +18,50 @@
 			"label": "The Future of Copyright in the Age of Artificial Intelligence",
 			"isbns": [
 				"9781839103148",
-        "9781839103155"
+        			"9781839103155"
 			]
 		},
 		{
 			"label": "Artificial Intelligence and the Law : Cybercrime and Criminal Liability",
 			"isbns": [
 				"9780367347970",
-        "9781000210644"
+        			"9781000210644"
 			]
 		},
 		{
 			"label": "Economics and Law of Artificial Intelligence",
 			"isbns": [
 				"9783030642532",
-        "9783030642549",
-        "9783030642563"
+       				"9783030642549",
+        			"9783030642563"
 			]
 		},
 		{
 			"label": "Life and the Law in the Era of Data-Driven Agency",
 			"isbns": [
 				"9781788971997",
-        "9781788972000"
+        			"9781788972000"
 			]
 		},
 		{
 			"label": "Law and Autonomous Machines",
 			"isbns": [
 				"9781786436580",
-        "9781786436597"
+        			"9781786436597"
 			]
 		},
 		{
 			"label": "Autonomous Vehicles and the Law",
 			"isbns": [
 				"9781788115100",
-        "9781788115117"
+        			"9781788115117"
 			]
 		},
 		{
 			"label": "Research Handbook in Data Science and Law",
 			"isbns": [
 				"9781788111294",
-        "9781788111300"
+        			"9781788111300"
 			]
 		}
 	]
