@@ -2,13 +2,6 @@
 	"label": "Books on artificial intelligence and ethics",
 	"description": "A selection of new titles on artificial intelligence and ethics available as e-books from the European Parliament Library.",
 	"list": [{
-			"label": "Artificial Intelligence for a Better Future",
-			"isbns": [
-				"9783030699772",
-				"9783030699789"
-			]
-		},
-		{
 			"label": "The Oxford Handbook of Ethics of AI",
 			"isbns": [
 				"9780190067397"
@@ -21,14 +14,6 @@
 				"9789004458109"
 			]
 		},
-
-		{
-			"label": "Robotics, AI, and Humanity",
-			"isbns": [
-				"9783030541729",
-				"9783030541736"
-			]
-		},
 		{
 			"label": "An Introduction to Ethics in Robotics and AI",
 			"isbns": [
@@ -37,17 +22,10 @@
 			]
 		},
 		{
-			"label": "On the Path to AI",
-			"isbns": [
-				"9783030435813",
-				"9783030435820"
-			]
-		},
-		{
 			"label": "Identity, Institutions and Governance in an AI World",
 			"isbns": [
-				"9783030361808",
-				"9783030361815"
+				"9783030361839",
+				"9783030361808"
 			]
 		},
 		{
