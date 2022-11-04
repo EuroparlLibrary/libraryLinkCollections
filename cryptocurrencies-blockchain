@@ -1,0 +1,60 @@
+{
+	"label": "Books on cryptocurrencies and blockchain",
+	"description": "A selection of titles on cryptocurrencies and blockchain available as from the European Parliament Library.",
+	"list": [{
+			"label": "Bitcoin, Blockchain, and Cryptoassets: a comprehensive introduction",
+			"isbns": [
+				"9780262539166"
+			]
+		},
+		{
+			"label": "The Cambridge Handbook of Smart Contracts, Blockchain Technology and Digital Platforms",
+			"isbns": [
+				"9781108492560"
+			]
+		},
+		{
+			"label": "Blockchain et actifs numériques",
+			"isbns": [
+				"9782711030491"
+			]
+		},
+		{
+			"label": "Cryptoassets: legal, regulatory, and monetary perspectives",
+			"isbns": [
+				"9780190077327"
+			]
+		},
+		{
+			"label": "Blockchain : la révolution de la confiance",
+			"isbns": [
+				"9782212566659"
+			]
+		},
+		{
+			"label": "Bits to Bitcoin: how our digital stuff works",
+			"isbns": [
+				"9780262037938"
+			]
+		},
+		{
+			"label": "The truth machine: the blockchain and the future of everything",
+			"isbns": [
+				"9780008301774"
+			]
+		},
+		{
+			"label": "Blockchain and the Law: the rule of code",
+			"isbns": [
+				"9780674976429"
+			]
+		},
+		{
+			"label": "Investigating Cryptocurrencies",
+			"isbns": [
+				"9781119480587"
+			]
+		}
+
+	]
+}
