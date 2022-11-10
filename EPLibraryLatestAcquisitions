@@ -1,7 +1,7 @@
 {
   "label": "Latest acquisitions of the EP Library",
   "description": "Latest acquisitions of the EP Library",
-  "rank": true,
+  "rank": false,
   "isbns": [
       "9780198859260",
       "9780198729099",
