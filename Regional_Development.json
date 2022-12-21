@@ -1,0 +1,57 @@
+{
+	"label": "Books on children's Regional Development",
+	"description": "A selection of new titles on Regional Development available as books from the European Parliament Library.",
+	"list": [{
+			"label": "Culture et politique régionale de l'Union européenne : stratégies et pratiques d'acteurs de Bruxelles à la Sicile",
+			"isbns": [
+				"9782807606586"
+			]
+		},
+		{
+			"label": "Le développement économique local",
+			"isbns": [
+				"9782701320236"
+			]
+		},
+		{
+			"label": "The Contribution of Migration to Regional Development",
+			"isbns": [
+				"9789264676312"
+			]
+		},
+
+		{
+			"label": "Human Capital and Regional Development in Europe",
+			"isbns": [
+				"9783030908577",
+				"9783030908584"
+			]
+		},
+		{
+			"label": "Clusters, Digital Transformation and Regional Development in Germany",
+			"isbns": [
+				"9780367435158",
+				"9781000406351"
+			]
+		},
+		{
+			"label": "Family Business and Regional Development",
+			"isbns": [
+				"9780429058097"
+			]
+		},
+		{
+			"label": "Handbook on Regional Economic Resilience",
+			"isbns": [
+				"9781785360855",
+				"9781785360862"
+			]
+		},
+		{
+			"label": "Dilemmas of Regional and Local Development",
+			"isbns": [
+				"9780429433863"
+			]
+		}
+	]
+}
