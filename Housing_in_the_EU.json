@@ -1,0 +1,46 @@
+{
+	"label": "E-books on Housing in the EU",
+	"description": "A selection of titles on Housing in the EU available from the European Parliament Library.",
+	"list": [{
+			"label": "Ways out of the European Housing Crisis",
+			"isbns": [
+				"9781800377431",
+				"9781800377448"
+			]
+		},
+		{
+			"label": "Cities and Affordable Housing",
+			"isbns": [
+				"9781003172949"
+			]
+		},
+		{
+			"label": "The Routledge Handbook of Housing Policy and Planning",
+			"isbns": [
+				"9781138188433",
+				"9781317282693"
+			]
+		},
+		{
+			"label": "Housing for Degrowth : Principles, Models, Challenges and Opportunities",
+			"isbns": [
+				"9781138558052",
+				"9781351365239"
+			]
+		},
+		{
+			"label": "Remaking Housing Policy",
+			"isbns": [
+				"9781138193956",
+				"9781317272977"
+			]
+		},
+		{
+			"label": "Tenancy Law and Housing Policy in Europe",
+			"isbns": [
+				"9781788113977",
+				"9781788113984"
+			]
+		}
+	]
+}
