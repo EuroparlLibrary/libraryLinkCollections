@@ -1,0 +1,54 @@
+{
+	"label": "Books on Rural Development",
+	"description": "A selection of titles on Housing in the EU available from the European Parliament Library.",
+	"list": [{
+			"label": "Rural Revitalization Through State-led Programs Planning, Governance and Challenge",
+			"isbns": [
+				"981151660X",
+				"9811516596"
+			]
+		},
+		{
+			"label": "Global opportunities and challenges for rural and mountain tourism",
+			"isbns": [
+				"9781799813026",
+				"9781799813033"
+			]
+		},
+		{
+			"label": "The Routledge Companion to Rural Planning",
+			"isbns": [
+				"9781138104051",
+				"9781351591874"
+			]
+		},
+		{
+			"label": "The Changing Status of Arable Habitats in Europe",
+			"isbns": [
+				"9783030598747",
+				"9783030598754"
+			]
+		},
+		{
+			"label": "Neoendogenous Development in European Rural Areas",
+			"isbns": [
+				"978-3-030-33462-8",
+				"978-3-030-33463-5"
+			]
+		},
+		{
+			"label": "Farm and Rural Community Management in Less Favored Areas",
+			"isbns": [
+				"978-981-15-7351-4",
+				"978-981-15-7352-1"
+			]
+		},
+		{
+			"label": "A Research Agenda for Global Rural Development",
+			"isbns": [
+				"9781788974189",
+				"9781788974196"
+			]
+		}
+	]
+}
