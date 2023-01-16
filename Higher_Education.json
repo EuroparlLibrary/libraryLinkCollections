@@ -1,0 +1,44 @@
+{
+	"label": "Books on Higher Education in the EU",
+	"description": "A selection of titles on Higher Education in the EU available from the European Parliament Library.",
+	"list": [{
+			"label": "L'organisation et la valorisation de la recherche",
+			"isbns": [
+				"9782807614659"
+			]
+		},
+		{
+			"label": "Engaged learning in Europe",
+			"isbns": [
+				"9789046610923"
+			]
+		},
+		{
+			"label": "Exzellent!? : zur Lage der deutschen Universität",
+			"isbns": [
+				"9783406776908"
+			]
+		},
+		{
+			"label": "The Knowledge Triangle",
+			"isbns": [
+				"9783030813451",
+				"9783030813468"
+			]
+		},
+		{
+			"label": "The Social Dimension of Higher Education in Europe",
+			"isbns": [
+				"9789004446298",
+				"9789004446304"
+			]
+		},
+		{
+			"label": "European Higher Education Area",
+			"isbns": [
+				"9783030563158",
+				"9783030563165"
+			]
+		}
+	]
+}
