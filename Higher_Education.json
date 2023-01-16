@@ -8,15 +8,17 @@
 			]
 		},
 		{
-			"label": "Engaged learning in Europe",
+			"label": "Higher Education: Handbook of Theory and Research",
 			"isbns": [
-				"9789046610923"
+				"9783319724898",
+				"9783319724904"
 			]
 		},
 		{
-			"label": "Exzellent!? : zur Lage der deutschen Universität",
+			"label": "The Doctorate As Experience in Europe and Beyond",
 			"isbns": [
-				"9783406776908"
+				"9780815380283",
+				"9781351213578"
 			]
 		},
 		{
@@ -42,3 +44,5 @@
 		}
 	]
 }
+
+
