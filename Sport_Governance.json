@@ -1,0 +1,52 @@
+{
+	"label": "Books on Sport Governance",
+	"description": "A selection of titles on Sport Governance available from the European Parliament Library.",
+	"list": [{
+			"label": "Governing the society of competition : cycling, doping and the law",
+			"isbns": [
+				"9781509936564"
+			]
+		},
+		{
+			"label": "Research Handbook on Sports and Society",
+			"isbns": [
+				"9781789903591",
+				"9781789903607"
+			]
+		},
+		{
+			"label": "Die Konsolidierung des Politikfelds Sport durch die Europäische Kommission (2001-2011)",
+			"isbns": [
+				"9783658313920"
+			]
+		},
+		{
+			"label": "Functions of Sports Clubs in European Societies",
+			"isbns": [
+				"9783030485344",
+				"9783030485351"
+			]
+		},
+		{
+			"label": "Sport, welfare and social policy in the European Union",
+			"isbns": [
+				"9780815360513",
+				"0815360517"
+			]
+		},
+		{
+			"label": "Routledge Handbook of Sport Governance",
+			"isbns": [
+				"9781138341234",
+				"9780429802478"
+			]
+		},
+		{
+			"label": "Historical Perspectives on Sports Economics",
+			"isbns": [
+				"9781788977838",
+				"9781788977845"
+			]
+		}
+	]
+}
