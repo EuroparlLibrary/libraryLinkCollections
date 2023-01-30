@@ -1,0 +1,57 @@
+{
+	"label": "Urban Development",
+	"description": "A selection of titles on Urban Development available from the European Parliament Library.",
+	"list": [{
+			"label": "Désastres urbains : les villes meurent aussi",
+			"isbns": [
+				"9782348041716"
+			]
+		},
+		{
+			"label": "The creative arts in governance of urban renewal and development",
+			"isbns": [
+				"9781138675131",
+				"113867513X"
+			]
+		},
+		{
+			"label": "Territories of faith : religion, urban planning and demographic change in post-war Europe",
+			"isbns": [
+				"9789462703094",
+				"9462703094"
+			]
+		},
+		{
+			"label": "Citizen Participation in the Information Society",
+			"isbns": [
+				"9783030999391",
+				"9783030999421"
+			]
+		},
+		{
+			"label": "Densifying the City?",
+			"isbns": [
+				"9781789904932",
+				"9781789904949"
+			]
+		},
+		{
+			"label": "Urban Platforms and the Future City : Transformations in Infrastructure, Governance, Knowledge and Everyday Life",
+			"isbns": [
+				"9780367334185",
+				"9781000220643"
+			]
+		},
+		{
+			"label": "Governance for Urban Services",
+			"isbns": [
+				"9789811529726",
+				"9789811529733"
+			]
+		}
+	]
+}
+
+
+
+
