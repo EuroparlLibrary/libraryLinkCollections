@@ -1,0 +1,56 @@
+{
+	"label": "Urban Transport",
+	"description": "A selection of titles on Urban Transport available from the European Parliament Library.",
+	"list": [{
+			"label": "Nature-based solutions for more sustainable cities : a framework approach for planning and evaluation",
+			"isbns": [
+				"9781800436374"
+			]
+		},
+		{
+			"label": "Eco-cities and green transport",
+			"isbns": [
+				"9780128215166"
+			]
+		},
+		{
+			"label": "Understanding urban cycling : exploring the relationship between mobility, sustainability and capital",
+			"isbns": [
+				"9781138543225",
+				"1138543225"
+			]
+		},
+		{
+			"label": "Transport in Human Scale Cities",
+			"isbns": [
+				"9781800370500",
+				"9781800370517"
+			]
+		},
+		{
+			"label": "Handbook of Public Transport Research",
+			"isbns": [
+				"9781788978651",
+				"9781788978668"
+			]
+		},
+		{
+			"label": "The Robomobility Revolution of Urban Public Transport",
+			"isbns": [
+				"9783030729752",
+				"9783030729769"
+			]
+		},
+		{
+			"label": "Solving Urban Infrastructure Problems Using Smart City Technologies : Handbook on Planning, Design, Development, and Regulation",
+			"isbns": [
+				"9780128168165",
+				"9780128168172"
+			]
+		}
+	]
+}
+
+
+
+
