@@ -1,0 +1,53 @@
+{
+	"label": "Public-Private Partnership",
+	"description": "A selection of titles on Public-Private Partnership available from the European Parliament Library.",
+	"list": [{
+			"label": "Die Kontrolle von Public Private Partnerships im Beschaffungswesen im Rahmen des europäischen Beihilfen- und Vergaberechts",
+			"isbns": [
+				"9783631760703"
+			]
+		},
+		{
+			"label": "A Research Agenda for Public–Private Partnerships and the Governance of Infrastructure",
+			"isbns": [
+				"9781839105876",
+				"9781839105883"
+			]
+		},
+		{
+			"label": "Public-Private Collaborations for Long-Term Investments",
+			"isbns": [
+				"9781802205602",
+				"9781802205619"
+			]
+		},
+		{
+			"label": "Public-Private Partnerships for Infrastructure : Principles of Policy and Finance",
+			"isbns": [
+				"9780081007662",
+				"9780081007679"
+			]
+		},
+		{
+			"label": "The Renegotiations of Public Private Partnerships in Transportation",
+			"isbns": [
+				"9783030612573",
+				"9783030612580"
+			]
+		},
+		{
+			"label": "Public Private Partnerships: Principles for Sustainable Contracts",
+			"isbns": [
+				"9783030654344",
+				"9783030654351"
+			]
+		},
+		{
+			"label": "Rethinking Public Private Partnerships",
+			"isbns": [
+				"9781789906394",
+				"9781789906400"
+			]
+		}
+	]
+}
