@@ -1,13 +1,15 @@
-	"description": "A selection of titles on Euro: First 20 Years and Beyond available from the European Parliament Library.",
+{
+	"label": "Public Procurement",
+	"description": "A selection of titles on Public Procurement available from the European Parliament Library.",
 	"list": [{
-			"label": "Reshaping Europe : Towards a Political, Economic and Monetary Union, 1984-1989",
+			"label": "Foundations of Public Contracts",
 			"isbns": [
-				"9783848766741",
-				"9783748907855"
+				"9781800880917",
+				"9781800880924"
 			]
 		},
 		{
-			"label": "The Economics of Monetary Unions : Past Experiences and the Eurozone",
+			"label": "The Challenges of Public Procurement Reforms",
 			"isbns": [
 				"9780367347864",
 				"9781000036855"
