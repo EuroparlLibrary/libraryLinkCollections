@@ -1,0 +1,51 @@
+	"description": "A selection of titles on Euro: First 20 Years and Beyond available from the European Parliament Library.",
+	"list": [{
+			"label": "Reshaping Europe : Towards a Political, Economic and Monetary Union, 1984-1989",
+			"isbns": [
+				"9783848766741",
+				"9783748907855"
+			]
+		},
+		{
+			"label": "The Economics of Monetary Unions : Past Experiences and the Eurozone",
+			"isbns": [
+				"9780367347864",
+				"9781000036855"
+			]
+		},
+		{
+			"label": "Public Support for the Euro",
+			"isbns": [
+				"9783030860233",
+				"9783030860240"
+			]
+		},
+		{
+			"label": "The Currency of Solidarity : Constitutional Transformation During the Euro Crisis",
+			"isbns": [
+				"9781108836364",
+				"9781108877114"
+			]
+		},
+		{
+			"label": "The Euro Crisis and Constitutional Pluralism",
+			"isbns": [
+				"9781800371583",
+				"9781800371590"
+			]
+		},
+		{
+			"label": "The Future of Money : How the Digital Revolution Is Transforming Currencies and Finance",
+			"isbns": [
+				"9780674258440",
+				"9780674270091"
+			]
+		},
+		{
+			"label": "Il faut achever l'euro : tout ce que vous avez toujours voulu savoir sur l'euro (sans jamais oser le demander)",
+			"isbns": [
+				"9782702165355"
+			]
+		}
+	]
+}
