@@ -1,0 +1,53 @@
+{
+	"label": "Public Health",
+	"description": "A selection of titles on Public Health: Nutrition-Related Conditions and its Prevention available from the European Parliament Library.",
+	"list": [{
+			"label": "Raw Veganism : The Philosophy of the Human Diet",
+			"isbns": [
+				"9780367435028",
+				"9781000037944"
+			]
+		},
+		{
+			"label": "Routledge Handbook of Critical Obesity Studies",
+			"isbns": [
+				"9780367362447",
+				"9781000511390"
+			]
+		},
+		{
+			"label": "Biochemical Parameters and the Nutritional Status of Children : Novel Tools for Assessment",
+			"isbns": [
+				"9780367419813",
+				"9781000073812"
+			]
+		},
+		{
+			"label": "Molecular Nutrition : Mother and Infant",
+			"isbns": [
+				"9780128138625",
+				"9780128138632"
+			]
+		},
+		{
+			"label": "Nutrition: Infants, Children and Adults",
+			"isbns": [
+				"9781536170443",
+				"9781536170450"
+			]
+		},
+		{
+			"label": "Public Health Nutrition : Rural, Urban, and Global Community-Based Practice",
+			"isbns": [
+				"9780826146847",
+				"9780826146854"
+			]
+		},
+		{
+			"label": "Nutrition and cancer prevention : from molecular mechanisms to dietary recommendations",
+			"isbns": [
+				"9781788013413"
+			]
+		}
+	]
+}
