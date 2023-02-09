@@ -1,0 +1,54 @@
+{
+	"label": "Public Procurement",
+	"description": "A selection of titles on Public Procurement available from the European Parliament Library.",
+	"list": [{
+			"label": "Foundations of Public Contracts",
+			"isbns": [
+				"9781800880917",
+				"9781800880924"
+			]
+		},
+		{
+			"label": "The Challenges of Public Procurement Reforms",
+			"isbns": [
+				"9780367902674",
+				"9781000173116"
+			]
+		},
+		{
+			"label": "Public Procurement and Human Rights",
+			"isbns": [
+				"9781788116305",
+				"9781788116312"
+			]
+		},
+		{
+			"label": "Green Public Procurement under WTO Law",
+			"isbns": [
+				"9783030482138",
+				"9783030482145"
+			]
+		},
+		{
+			"label": "Centralising Public Procurement",
+			"isbns": [
+				"9781800370401",
+				"9781800370418"
+			]
+		},
+		{
+			"label": "Contract Modifications in EU Procurement Law",
+			"isbns": [
+				"9781800379664",
+				"9781800379671"
+			]
+		},
+		{
+			"label": "EU Public Procurement and Innovation",
+			"isbns": [
+				"9781800371569",
+				"9781800371576"
+			]
+		}
+	]
+}
