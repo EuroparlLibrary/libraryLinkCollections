@@ -1,14 +1,42 @@
 {
 	"label": "Books on Global Food Security",
 	"description": "A selection of titles on Money Laundering available as from the European Parliament Library.",
-	"isbns": [
-		"9782759231324",
-		"9781138729186",
-		"9782759228799",
-		"9780128126875",
-		"9789251315705",
-		"9781138222748",
-		"9781786431509"
+	"isbns": [{
+			"label": "Food security policy, evaluation and impact assessment",
+			"isbns": [
+				"9781351019828"
+			]
+		},
+		{
+			"label": "Handbook on Urban Food Security in the Global South",
+			"isbns": [
+				"9781786431516"
+			]
+		},
+{
+			"label": "How to Feed the World",
+			"isbns": [
+				"9781610918831"
+			]
+		},
+{
+			"label": "GM agriculture and food security",
+			"isbns": [
+				"9781786392237"
+			]
+		},
+{
+			"label": "Water for food security, nutrition and social justice",
+			"isbns": [
+				"9781138729186"
+			]
+		},
+{
+			"label": "Sustainable Diets: Linking Nutrition and Food Systems",
+			"isbns": [
+				"9781786392848"
+			]
+		}
 
 	]
 }
