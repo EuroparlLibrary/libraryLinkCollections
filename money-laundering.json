@@ -1,14 +1,60 @@
 {
-	"label": "E-books on Money Laundering",
-	"description": "A selection of titles on Money Laundering available as from the European Parliament Library.",
-	"isbns": [
-		"9789004470927",
-		"9781788974837",
-		"9780367861421",
-		"9781536168372",
-		"9783030514518",
-		"9781137523976",
-		"9783030183295"
+	"label": "Books on Money Laundering",
+	"description": "A selection of titles on Money Laundering available from the European Parliament Library.",
+	"list": [{
+			"label": "National and International Anti-Money Laundering Law",
+			"isbns": [
+				"9781780689548"
+			]
+		},
+		{
+			"label": "Kleptopia",
+			"isbns": [
+				"9780008308384"
+			]
+		},
+		{
+			"label": "Individual criminal responsibility for the financing of entities involved in core crimes",
+			"isbns": [
+				"9789004470934"
+			]
+		},
+		{
+			"label": "Anti-Money Laundering Regulation and Compliance",
+			"isbns": [
+				"9781788974837"
+			]
+		},
+		{
+			"label": "Regulating and Combating Money Laundering and Terrorist Financing",
+			"isbns": [
+				"9780367861421"
+			]
+		},
+		{
+			"label": "Preventing Money Laundering and Terrorist Financing",
+			"isbns": [
+				"9781464818523"
+			]
+		},
+		{
+			"label": "Corporate Responses to Financial Crime",
+			"isbns": [
+				"9783030514518"
+			]
+		},
+		{
+			"label": "Deconstructing money laundering risk",
+			"isbns": [
+				"9783031075087"
+			]
+		},
+		{
+			"label": "Technology-Enhanced Methods of Money Laundering",
+			"isbns": [
+				"9783030183295"
+			]
+		}
 
 	]
 }
