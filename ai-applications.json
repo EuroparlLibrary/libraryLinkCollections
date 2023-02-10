@@ -1,0 +1,42 @@
+{
+	"label": "Books on the applications of artificial intelligence",
+	"description": "A selection of titles on the applications of artificial intelligence available as from the European Parliament Library.",
+	"list": [{
+			"label": "A citizen's guide to artificial intelligence",
+			"isbns": [
+				"9780262044813"
+			]
+		},
+		{
+			"label": "Law and Artificial Intelligence",
+			"isbns": [
+				"9789462655225"
+			]
+		},
+		{
+			"label": "Advanced artificial intelligence and robo-justice",
+			"isbns": [
+				"9783030982065",
+				"9783030982058"
+			]
+		},
+{
+			"label": "Artificial intelligence in urban planning and design",
+			"isbns": [
+				"9780128239421"
+			]
+		},
+{
+			"label": "Artificial intelligence and the media",
+			"isbns": [
+				"9781839109973"
+			]
+		},
+{
+			"label": "Machine learning for criminology and crime research",
+			"isbns": [
+				"9781000596557"
+			]
+		}
+	]
+}
