@@ -1,0 +1,120 @@
+{
+	"label": "New titles in the EP Library",
+	"description": "A selection of new titles available at the European Parliament Library",
+	"list": [{
+			"label": "Facing terrorism in France",
+			"isbns": [
+				"9783030941635"
+			]
+		},
+		{
+			"label": "Before the UN sustainable development goals",
+			"isbns": [
+				"9780192664983"
+			]
+		},
+		{
+			"label": "Fintech: a revolution or a transitory hype?",
+			"isbns": [
+				"9781802206340"
+			]
+		},
+		{
+			"label": "A Multidisciplinary Approach to Pandemics: COVID-19 and Beyond",
+			"isbns": [
+				"9780192652669"
+			]
+		},
+		{
+			"label": "Financial cold war",
+			"isbns": [
+				"9781119862789"
+			]
+		},
+		{
+			"label": "Towards a circular economy",
+			"isbns": [
+				"9783030942939"
+			]
+		},
+		{
+			"label": "Contemporary far-right thinkers and the future of liberal democracy",
+			"isbns": [
+				"9781000431964"
+			]
+		},
+		{
+			"label": "Applied mass communication theory",
+			"isbns": [
+				"9781000453584"
+			]
+		},
+		{
+			"label": "A Pluralist Theory of Constitutional Justice",
+			"isbns": [
+				"9780192607379"
+			]
+		},
+		{
+			"label": "Managing environmental data",
+			"isbns": [
+				"9781003131953"
+			]
+		},
+		{
+			"label": "The Political Economy of Climate Finance",
+			"isbns": [
+				"9783031126192"
+			]
+		},
+		{
+			"label": "A new history of vaccines for infectious diseases",
+			"isbns": [
+				"9780128127544"
+			]
+		},
+		{
+			"label": "Plastics and the ocean",
+			"isbns": [
+				"9781119768418"
+			]
+		},
+		{
+			"label": "Comparative election law",
+			"isbns": [
+				"9781788119023"
+			]
+		},
+		{
+			"label": "AgroTech: AI, Big Data, IoT",
+			"isbns": [
+				"9789811935558"
+			]
+		},
+		{
+			"label": "Security through cooperation",
+			"isbns": [
+				"9781000531138"
+			]
+		},
+		{
+			"label": "Capital and capitalism",
+			"isbns": [
+				"9781000434262"
+			]
+		},
+		{
+			"label": "On inequality and freedom",
+			"isbns": [
+				"9780197583043"
+			]
+		},
+		{
+			"label": "The Oxford handbook of digital media sociology",
+			"isbns": [
+				"9780197510650"
+			]
+		}
+
+	]
+}
