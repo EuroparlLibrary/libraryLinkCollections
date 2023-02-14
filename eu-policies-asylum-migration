@@ -1,0 +1,65 @@
+{
+	"label": "Books on EU Policies on Migration and Asylum",
+	"description": "A selection of titles on EU policies on migration and asylum available from the European Parliament Library.",
+	"list": [{
+			"label": "Handbook of migration and global justice",
+			"isbns": [
+				"9781789905663"
+			]
+		},
+		{
+			"label": "Migration and the crisis of democracy in contemporary Europe",
+			"isbns": [
+				"9783030640699"
+			]
+		},
+		{
+			"label": "Research handbook on the law and politics of migration",
+			"isbns": [
+				"9781789902266"
+			]
+		},
+		{
+			"label": "EU migration agencies",
+			"isbns": [
+				"9781839109348"
+			]
+		},
+		{
+			"label": "The EU migration system of governance",
+			"isbns": [
+				"9783030539979"
+			]
+		},
+		{
+			"label": "The role of EU agencies in the Eurozone and migration crisis",
+			"isbns": [
+				"9783030513832"
+			]
+		},
+		{
+			"label": "Asylum Matters",
+			"isbns": [
+				"9783030615123"
+			]
+		},
+		{
+			"label": "The Routledge handbook of the politics of migration in Europe",
+			"isbns": [
+				"9781315512853"
+			]
+		},
+		{
+			"label": "Asylum Determination in Europe",
+			"isbns": [
+				"9783319947495"
+			]
+		},
+		{
+			"label": "Die Grenzen der EU",
+			"isbns": [
+				"9783658332136"
+			]
+		}
+	]
+}
