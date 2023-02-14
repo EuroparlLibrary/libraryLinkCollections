@@ -1,20 +1,71 @@
 {
-                "label": "Books on Terrorism and the EU Counter-Terrorism Policies",
-                "description": "A selection of titles on Terrorism and the EU Counter-Terrorism Policies available as from the European Parliament Library.",
-                "isbns": [
-                                "9789004424623",
-                                "9781138317635",
-                                "9781788972215",
-                                "9789462653542",
-                                "9781784715267",
-                                "9781789909982",
-                                "9781509540754",
-                                "9781527539518",
-                                "9781526133847",
-                                "9781544342931",
-                                "9781138655317",
-                                "9781783266548"
-
-                ]
+	"label": "Books on Russia's War on Ukraine: Its Origins and Geopolitical Context",
+	"description": "A selection of titles on Russia's War on Ukraine: Its Origins and Geopolitical Context available from the European Parliament Library.",
+	"list": [{
+			"label": "The new EU counter-terrorism offences",
+			"isbns": [
+				"9789004424623"
+			]
+		},
+		{
+			"label": "Terrorism and counterterrorism",
+			"isbns": [
+				"9781138317635"
+			]
+		},
+		{
+			"label": "Research handbook on international law and terrorism",
+			"isbns": [
+				"9781788972222"
+			]
+		},
+		{
+			"label": "Human Dignity and Human Security in Times of Terrorism",
+			"isbns": [
+				"9789462653559"
+			]
+		},
+		{
+			"label": "Global counter-terrorist financing and soft law",
+			"isbns": [
+				"9781789909999"
+			]
+		},
+		{
+			"label": "How should democracies fight terrorism?",
+			"isbns": [
+				"9781509540754"
+			]
+		},
+		{
+			"label": "Preventing radicalisation and terrorism in Europe",
+			"isbns": [
+				"9781527539518"
+			]
+		},
+		{
+			"label": "The European Union's fight against terrorism",
+			"isbns": [
+				"9781526133847"
+			]
+		},
+		{
+			"label": "Essentials of terrorism",
+			"isbns": [
+				"9781544342931"
+			]
+		},
+		{
+			"label": "Terrorism: law and policy",
+			"isbns": [
+				"9781138655317"
+			]
+		},
+		{
+			"label": "Avoiding the terrorist trap",
+			"isbns": [
+				"9781783266548"
+			]
+		}
+	]
 }
-
