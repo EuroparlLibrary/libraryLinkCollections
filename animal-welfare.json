@@ -1,0 +1,55 @@
+{
+	"label": "Books on animal welfare",
+	"description": "A selection of titles on animal welfare available from the European Parliament Library.",
+	"list": [{
+			"label": "The Routledge handbook of animal ethics",
+			"isbns": [
+				"9781315105840"
+			]
+		},
+		{
+			"label": "The welfare of cattle",
+			"isbns": [
+				"9781315282442"
+			]
+		},
+
+		{
+			"label": "Animals in international law",
+			"isbns": [
+				"9789004466258"
+			]
+		},
+		{
+			"label": "Food and animal welfare",
+			"isbns": [
+				"9780857857378"
+			]
+		},
+		{
+			"label": "Animal Welfare",
+			"isbns": [
+				"9781119857082"
+			]
+		},
+		{
+			"label": "Animal welfare and international environmental law",
+			"isbns": [
+				"9781788113939"
+			]
+		},
+		{
+			"label": "The Economics of Farm Animal Welfare",
+			"isbns": [
+				"9781786392312"
+			]
+		},
+		{
+			"label": "Routledge Handbook of Animal Welfare",
+			"isbns": [
+				"9781003182351"
+			]
+		}
+
+	]
+}
