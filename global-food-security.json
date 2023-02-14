@@ -1,7 +1,7 @@
 {
 	"label": "Books on Global Food Security",
 	"description": "A selection of titles on global food security available as from the European Parliament Library.",
-	"isbns": [{
+	"list": [{
 			"label": "Food security policy, evaluation and impact assessment",
 			"isbns": [
 				"9781351019828"
