@@ -1,0 +1,72 @@
+{
+	"label": "Books on Cybersecurity",
+	"description": "A selection of titles on cybersecurity available from the European Parliament Library.",
+	"list": [{
+			"label": "Cyberdiplomacy",
+			"isbns": [
+				"9781509535934"
+			]
+		},
+		{
+			"label": "Inside the dark web",
+			"isbns": [
+				"9781000005462"
+			]
+		},
+		{
+			"label": "Cyber arms: security in cyberspace",
+			"isbns": [
+				"9781000081039"
+			]
+		},
+		{
+			"label": "Routledge Handbook of International Cybersecurity",
+			"isbns": [
+				"9781351038881"
+			]
+		},
+		{
+			"label": "Cyber risk, intellectual property theft and cyberwarfare",
+			"isbns": [
+				"9780429453199"
+			]
+		},
+		{
+			"label": "Cyber security politics",
+			"isbns": [
+				"9781003110224"
+			]
+		},
+		{
+			"label": "Cybersecurity in the COVID-19 Pandemic",
+			"isbns": [
+				"9781003104124"
+			]
+		},
+		{
+			"label": "Cyber Security, Artificial Intelligence, Data Protection and the Law",
+			"isbns": [
+				"9789811616655"
+			]
+		},
+		{
+			"label": "Semi-State Actors in Cybersecurity",
+			"isbns": [
+				"9780197579305"
+			]
+		},
+		{
+			"label": "Cyber Security Politics",
+			"isbns": [
+				"9781003110224"
+			]
+		},
+		{
+			"label": "Routledge companion to global cyber-security strategy",
+			"isbns": [
+				"9780429399718"
+			]
+		}
+
+	]
+}
