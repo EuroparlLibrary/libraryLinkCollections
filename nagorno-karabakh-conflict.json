@@ -1,0 +1,54 @@
+{
+	"label": "Books on the Nagorno-Karabakh Conflict",
+	"description": "A selection of titles on the Nagorno-Karabakh conflict available from the European Parliament Library.",
+	"list": [{
+			"label": "Unrecognized States and Secession in the 21st Century",
+			"isbns": [
+				"9783319569130"
+			]
+		},
+		{
+			"label": "The EU’s Neighbourhood Policy towards the South Caucasus",
+			"isbns": [
+				"9783319657929"
+			]
+		},
+		{
+			"label": "The Nagorno-Karabakh deadlock",
+			"isbns": [
+				"9783658251994"
+			]
+		},
+		{
+			"label": "The Nagorno-Karabakh conflict",
+			"isbns": [
+				"9781000608496"
+			]
+		},
+		{
+			"label": "Russia's interventions in ethnic conflicts",
+			"isbns": [
+				"9783030595739"
+			]
+		},
+		{
+			"label": "Cultural Contestation",
+			"isbns": [
+				"9783319919140"
+			]
+		},
+		{
+			"label": "Armenia's Future, Relations with Turkey, and the Karabagh Conflict",
+			"isbns": [
+				"9783319589169"
+			]
+		},
+		{
+			"label": "The International Politics of the Armenian-Azerbaijani Conflict",
+			"isbns": [
+				"9781137600066"
+			]
+		}
+
+	]
+}
