@@ -1,1 +1,72 @@
+{
+	"label": "Books on Women's Rights and Gender Equality",
+	"description": "A selection of titles on women's rights and gender equality available from the European Parliament Library.",
+	"list": [{
+			"label": "Gender, Institutions and Political Representation",
+			"isbns": [
+				"9781137011770"
+			]
+		},
+		{
+			"label": "New directions in women, peace, and security",
+			"isbns": [
+				"9781529207774"
+			]
+		},
+		{
+			"label": "Companion to feminist studies",
+			"isbns": [
+				"9781119314929"
+			]
+		},
+		{
+			"label": "Gender inequality and welfare states in Europe",
+			"isbns": [
+				"9781788111263"
+			]
+		},
+		{
+			"label": "International law and violence against women",
+			"isbns": [
+				"9781000032499"
+			]
+		},
+		{
+			"label": "Feminist framing of Europeanisation",
+			"isbns": [
+				"9783030527709"
+			]
+		},
+		{
+			"label": "Gender and human rights",
+			"isbns": [
+				"9781800372856"
+			]
+		},
+		{
+			"label": "Routledge handbook of feminist peace research",
+			"isbns": [
+				"9780429659201"
+			]
+		},
+		{
+			"label": "Retiring women",
+			"isbns": [
+				"9781783477166"
+			]
+		},
+		{
+			"label": "Gender, crime and justice",
+			"isbns": [
+				"9783030874889"
+			]
+		},
+		{
+			"label": "Gender, power and restorative justice",
+			"isbns": [
+				"9783030908270"
+			]
+		}
 
+	]
+}
