@@ -1,0 +1,48 @@
+{
+	"label": "Books on Assisted Dying",
+	"description": "A selection of titles on assisted dying available from the European Parliament Library.",
+	"list": [{
+			"label": "Law, palliative care and dying",
+			"isbns": [
+				"9781351716727"
+			]
+		},
+		{
+			"label": "Euthanasia and assisted suicide",
+			"isbns": [
+				"9781107198869"
+			]
+		},
+		{
+			"label": "Death, Dying, and Bereavement in a Changing World",
+			"isbns": [
+				"9781351401692"
+			]
+		},
+		{
+			"label": "Assistierter Suizid: Der Stand der Wissenschaft",
+			"isbns": [
+				"9783662526699"
+			]
+		},
+		{
+			"label": "Dying with dignity",
+			"isbns": [
+				"9781440830983"
+			]
+		},
+		{
+			"label": "Sterben und Tod in Deutschland",
+			"isbns": [
+				"9783531188737"
+			]
+		},
+		{
+			"label": "Cultural Contestation",
+			"isbns": [
+				"9783319919140"
+			]
+		}
+
+	]
+}
