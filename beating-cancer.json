@@ -1,0 +1,59 @@
+{
+	"label": "Books on Beating Cancer",
+	"description": "A selection of titles on beating cancer available from the European Parliament Library.",
+	"list": [{
+			"label": "Pained",
+			"isbns": [
+				"9780197510391"
+			]
+		},
+		{
+			"label": "Clinical Handbook of Air Pollution-Related Diseases",
+			"isbns": [
+				"9783319627311"
+			]
+		},
+		{
+			"label": "Personalized Medicine in Healthcare Systems",
+			"isbns": [
+				"9783030164652"
+			]
+		},
+		{
+			"label": "Health effects of pesticides",
+			"isbns": [
+				"9780429608872"
+			]
+		},
+		{
+			"label": "A comprehensive guide to genetic counseling",
+			"isbns": [
+				"9781536169768"
+			]
+		},
+		{
+			"label": "Equitable access to high-cost pharmaceuticals",
+			"isbns": [
+				"9780128119624"
+			]
+		},
+		{
+			"label": "Networking of Mutagens in Environmental Toxicology",
+			"isbns": [
+				"9783319965116"
+			]
+		},
+		{
+			"label": "Public Regulation of Tumor Banks",
+			"isbns": [
+				"9783319905631"
+			]
+		},
+		{
+			"label": "Cancer and society",
+			"isbns": [
+				"9783030058555"
+			]
+		}
+	]
+}
