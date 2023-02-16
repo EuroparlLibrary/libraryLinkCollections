@@ -3,12 +3,6 @@
 	"label": "Books on Tax Havens and Tax Avoidance",
 	"description": "A selection of titles on tax havens and tax avoidance available from the European Parliament Library.",
 	"list": [{
-			"label": "The economics of transfer pricing",
-			"isbns": [
-				"9781784716325"
-			]
-		},
-		{
 			"label": "Capital without borders",
 			"isbns": [
 				"9780674743809"
