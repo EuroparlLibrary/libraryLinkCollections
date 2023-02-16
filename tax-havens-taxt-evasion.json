@@ -1,0 +1,61 @@
+
+{
+	"label": "Books on Tax Havens and Tax Evasion",
+	"description": "A selection of titles on tax havens and tax evasion available from the European Parliament Library.",
+	"list": [{
+			"label": "The economics of transfer pricing",
+			"isbns": [
+				"9781784716325"
+			]
+		},
+		{
+			"label": "Capital without borders",
+			"isbns": [
+				"9780674743809"
+			]
+		},
+		{
+			"label": "Corporate social responsibility, the fight against corruption and tax behaviour",
+			"isbns": [
+				"9783662637357"
+			]
+		},
+		{
+			"label": "Estimating illicit financial flows",
+			"isbns": [
+				"9780192596550"
+			]
+		},
+		{
+			"label": "Tax justice and global inequality",
+			"isbns": [
+				"9781786998118"
+			]
+		},
+		{
+			"label": "Countering tax crime in the European Union",
+			"isbns": [
+				"9781509937974"
+			]
+		},
+		{
+			"label": "Combating fiscal fraud and empowering regulators",
+			"isbns": [
+				"9780192597045"
+			]
+		},
+		{
+			"label": "Exploring the roots of systematic tax avoidance in Greece",
+			"isbns": [
+				"9783030719791"
+			]
+		},
+		{
+			"label": "Tax avoidance and European law",
+			"isbns": [
+				"9781000634686"
+			]
+		}
+
+	]
+}
