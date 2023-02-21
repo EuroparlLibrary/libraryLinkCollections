@@ -1,0 +1,51 @@
+{
+	"label": "Energy Saving",
+	"description": "A selection of titles on Energy Saving available from the European Parliament Library.",
+	"list": [{
+			"label": "Energy Saving Coating Materials: Design, Process, Implementation and Recent Developments",
+			"isbns": [
+				"9780128221037"
+			]
+		},
+		{
+			"label": "Energy Efficient Building Design",
+			"isbns": [
+				"9783030406707"
+			]
+		},
+		{
+			"label": "Energy Management: Conservation and Audits",
+			"isbns": [
+				"9780367343835"
+			]
+		},
+		{
+			"label": "Modular Systems for Energy Usage Management"
+			"isbns": [
+				"9780367407964"
+			]
+		},
+		{
+			"label": "Design of Energy-Efficient Buildings",
+			"isbns": [
+				"9781536178623"
+			]
+		},
+		{
+			"label": "Willingness to Pay Framework",
+			"isbns": [
+				"9780367643768"
+			]
+		},
+		{
+			"label": "Energy Conservation for IoT Devices: Concepts, Paradigms and Solutions",
+			"isbns": [
+				"9789811373985"
+			]
+		}
+	]
+}
+
+
+
+
