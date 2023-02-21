@@ -1,0 +1,50 @@
+{
+	"label": "Consumer Protection",
+	"description": "A selection of titles on Consumer Protection available from the European Parliament Library.",
+	"list": [{
+			"label": "Consumer Protection, Automated Shopping Platforms and EU Law",
+			"isbns": [
+				"9781472424273"
+			]
+		},
+		{
+			"label": "Legal Pluralism in European Contract Law",
+			"isbns": [
+				"9780198854487"
+			]
+		},
+		{
+			"label": "Algorithmic marketing and EU law on unfair commercial practices",
+			"isbns": [
+				"9783031136023",
+				"9783031136030"
+			]
+		},
+		{
+			"label": "The consumer welfare hypothesis in law and economics : towards a synthesis for the 21st century",
+			"isbns": [
+				"9781800379640",
+				"9781800379657"
+			]
+		},
+		{
+			"label": "Public and Private Enforcement of Consumer Law - Insights for Luxembourg",
+			"isbns": [
+				"9783848785681",
+				"9783748929888"
+			]
+		},
+		{
+			"label": "Verbraucherrechtsdurchsetzung",
+			"isbns": [
+				"9783161545887"
+			]
+		},
+		{
+			"label": "Vulnerable Consumers and the Law",
+			"isbns": [
+				"9781000209747"
+			]
+		}
+	]
+}
