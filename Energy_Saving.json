@@ -1,54 +1,47 @@
 {
-	"label": "Public-Private Partnership",
-	"description": "A selection of titles on Public-Private Partnership available from the European Parliament Library.",
+	"label": "Energy Saving",
+	"description": "A selection of titles on Energy Saving available from the European Parliament Library.",
 	"list": [{
-			"label": "Die Kontrolle von Public Private Partnerships im Beschaffungswesen im Rahmen des europäischen Beihilfen- und Vergaberechts",
+			"label": "Energy Saving Coating Materials: Design, Process, Implementation and Recent Developments",
 			"isbns": [
-				"9783631760703"
+				"9780128221037"
 			]
 		},
 		{
-			"label": "A Research Agenda for Public–Private Partnerships and the Governance of Infrastructure",
+			"label": "Energy Efficient Building Design",
 			"isbns": [
-				"9781839105876",
-				"9781839105883"
+				"9783030406707"
 			]
 		},
 		{
-			"label": "Public-Private Collaborations for Long-Term Investments",
+			"label": "Energy Management: Conservation and Audits",
 			"isbns": [
-				"9781802205602",
-				"9781802205619"
+				"9780367343835"
 			]
 		},
 		{
-			"label": "Public-Private Partnerships for Infrastructure : Principles of Policy and Finance",
+			"label": "Modular Systems for Energy Usage Management",
 			"isbns": [
-				"9780081007662",
-				"9780081007679"
+				"9780367407964"
 			]
 		},
 		{
-			"label": "The Renegotiations of Public Private Partnerships in Transportation",
+			"label": "Design of Energy-Efficient Buildings",
 			"isbns": [
-				"9783030612573",
-				"9783030612580"
+				"9781536178623"
 			]
 		},
 		{
-			"label": "Public Private Partnerships: Principles for Sustainable Contracts",
+			"label": "Willingness to Pay Framework",
 			"isbns": [
-				"9783030654344",
-				"9783030654351"
+				"9780367643768"
 			]
 		},
 		{
-			"label": "Rethinking Public Private Partnerships",
+			"label": "Energy Conservation for IoT Devices: Concepts, Paradigms and Solutions",
 			"isbns": [
-				"9781789906394",
-				"9781789906400"
+				"9789811373985"
 			]
 		}
 	]
 }
-
