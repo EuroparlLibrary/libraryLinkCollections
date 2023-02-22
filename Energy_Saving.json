@@ -2,21 +2,10 @@
 	"label": "Energy Saving",
 	"description": "A selection of titles on Energy Saving available from the European Parliament Library.",
 	"list": [{
-			"label": "Energy Saving Coating Materials: Design, Process, Implementation and Recent Developments",
-			"isbns": [
-				"9780128221037"
-			]
-		},
-		{
-			"label": "Energy Efficient Building Design",
-			"isbns": [
-				"9783030406707"
-			]
-		},
-		{
 			"label": "Energy Management: Conservation and Audits",
 			"isbns": [
-				"9780367343835"
+				"9780367343835",
+				"9781000068375"
 			]
 		},
 		{
