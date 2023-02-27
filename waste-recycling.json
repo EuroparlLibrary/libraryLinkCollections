@@ -1,0 +1,54 @@
+{
+	"label": "Books on Waste Recycling",
+	"description": "A selection of titles on waste recycling available from the European Parliament Library.",
+	"list": [{
+			"label": "Food waste recovery",
+			"isbns": [
+				"9780128225929"
+			]
+		},
+		{
+			"label": "Electronic waste management and treatment technology",
+			"isbns": [
+				"9780128165911"
+			]
+		},
+		{
+			"label": "Beyond recycling",
+			"isbns": [
+				"9781000381856"
+			]
+		},
+		{
+			"label": "Unmaking waste in production and consumption",
+			"isbns": [
+				"9781787146198"
+			]
+		},
+		{
+			"label": "Circular economy",
+			"isbns": [
+				"9781119777069"
+			]
+		},
+		{
+			"label": "The Routledge handbook of waste, resources and the circular economy",
+			"isbns": [
+				"9781000259636"
+			]
+		},
+		{
+			"label": "From Waste to Energy",
+			"isbns": [
+				"9789462368101"
+			]
+		},
+		{
+			"label": "Resource recovery from waste",
+			"isbns": [
+				"9781138016552"
+			]
+		}
+
+	]
+}
