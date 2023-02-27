@@ -1,0 +1,90 @@
+{
+	"label": "Books on Rule of Law",
+	"description": "A selection of titles on rule of law available from the European Parliament Library.",
+	"list": [{
+			"label": "The Cambridge companion to the rule of law",
+			"isbns": [
+				"9781108454438"
+			]
+		},
+		{
+			"label": "The international rule of law : rise or decline?",
+			"isbns": [
+				"9780198843603"
+			]
+		},
+		{
+			"label": "The rule of law at the national and international levels",
+			"isbns": [
+				"9781108844635"
+			]
+		},
+		{
+			"label": "Rule of law, common values, and illiberal constitutionalism",
+			"isbns": [
+				"9780367512125"
+			]
+		},
+		{
+			"label": "The tribalization of Europe",
+			"isbns": [
+				"9781509541683"
+			]
+		},
+		{
+			"label": "The international rule of law scope, subjects, requirements",
+			"isbns": [
+				"9781789907421"
+			]
+		},
+		{
+			"label": "Rule of law vs majoritarian democracy",
+			"isbns": [
+				"9781509936878"
+			]
+		},
+		{
+			"label": "The EU and the rule of law in international economic relations",
+			"isbns": [
+				"9781839103353"
+			]
+		},
+		{
+			"label": "The rule of law, economic development, and corporate governance",
+			"isbns": [
+				"9781789900736"
+			]
+		},
+		{
+			"label": "The politics of the rule of law in the EU polity",
+			"isbns": [
+				"9783030973674"
+			]
+		},
+		{
+			"label": "Fundamental rights challenges",
+			"isbns": [
+				"9783030727987"
+			]
+		},
+		{
+			"label": "The legal limits of direct democracy",
+			"isbns": [
+				"9781800372801"
+			]
+		},
+		{
+			"label": "Post-democracy after the crises",
+			"isbns": [
+				"9781509541584"
+			]
+		},
+		{
+			"label": "Illiberal Trends and Anti-EU Politics in East Central Europe",
+			"isbns": [
+				"9783030546748"
+			]
+		}
+
+	]
+}
