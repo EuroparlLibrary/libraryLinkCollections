@@ -1,0 +1,36 @@
+{
+	"label": "Books on Plastic Waste Pollution",
+	"description": "A selection of titles on plastic waste pollution available from the European Parliament Library.",
+	"list": [{
+			"label": "Plastic free",
+			"isbns": [
+				"9780231552721"
+			]
+		},
+		{
+			"label": "Analysis of nanoplastics and microplastics in food",
+			"isbns": [
+				"9780429891229"
+			]
+		},
+		{
+			"label": "Marine pollution",
+			"isbns": [
+				"9780128137376"
+			]
+		},
+		{
+			"label": "The terminology of marine pollution by plastics and microplastics",
+			"isbns": [
+				"9781527541214"
+			]
+		},
+		{
+			"label": "Hazardous Chemicals Associated with Plastics in the Marine Environment",
+			"isbns": [
+				"9783319955681"
+			]
+		}
+
+	]
+}
