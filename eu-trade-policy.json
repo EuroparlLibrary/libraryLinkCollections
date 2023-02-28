@@ -1,0 +1,54 @@
+{
+	"label": "Books on EU Trade Policy",
+	"description": "A selection of titles on EU Trade Policy available from the European Parliament Library.",
+	"list": [{
+			"label": "Social standards in EU and US trade agreements",
+			"isbns": [
+				"9781138079526"
+			]
+		},
+		{
+			"label": "The pursuit of sustainable agriculture in EU free trade agreements",
+			"isbns": [
+				"9789086863464"
+			]
+		},
+		{
+			"label": "EU regional trade agreements",
+			"isbns": [
+				"9781000374780"
+			]
+		},
+		{
+			"label": "Free trade agreements and global labour governance",
+			"isbns": [
+				"9780429522307"
+			]
+		},
+		{
+			"label": "Global Politics and EU Trade Policy",
+			"isbns": [
+				"9783030345884"
+			]
+		},
+		{
+			"label": "The Australia-European union free trade agreement",
+			"isbns": [
+				"9783030914486"
+			]
+		},
+		{
+			"label": "A geo-economic turn in trade policy?",
+			"isbns": [
+				"9783030812812"
+			]
+		},
+		{
+			"label": "The trade-security nexus in EU external action",
+			"isbns": [
+				"9783030907969"
+			]
+		}
+
+	]
+}
