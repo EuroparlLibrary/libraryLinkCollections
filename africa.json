@@ -4,61 +4,49 @@
 	"list": [{
 			"label": "Revisiting EU-Africa Relations in a Changing World",
 			"isbns": [
-				"9781839109812",
 				"9781839109829"
 			]
 		},
 		{
 			"label": "The Palgrave Handbook of Africa and the Changing Global Order",
 			"isbns": [
-				"9783030774806",
 				"9783030774813"
 			]
 		},
 		{
 			"label": "African Foreign Policies",
 			"isbns": [
-				"9781000048339",
-				"9780367348281"
+				"9781000048339"
 			]
 		},
 		{
 			"label": "Africa-Europe Relationships",
 			"isbns": [
-				"9780367467197",
 				"9781000072778"
 			]
 		},
 		{
 			"label": "The Routledge Handbook of EU-Africa Relations",
 			"isbns": [
-				"9781138047303",
-				"9781351693288",
-				"9781315170916"
+				"9781351693288"
 			]
 		},
 		{
 			"label": "Great Powers and US Foreign Policy Towards Africa",
 			"isbns": [
-				"9783319940953",
-				"9783319940960",
-				"9783030067946"
+				"9783319940960"
 			]
 		},
 		{
 			"label": "Brazil-Africa Relations in the 21st Century",
-			"isbns": [
-				"9783030557195",
-				"9783030557201",
-				"9783030557225"
+			"isbns": [				
+				"9783030557201"
 			]
 		},
 		{
 			"label": "Neo-Colonialism and the Poverty of 'Development' in Africa",
 			"isbns": [
-				"9783319585703",
-				"9783319585710",
-				"9783319864303"
+				"9783319585710"
 			]
 		}
 	]
