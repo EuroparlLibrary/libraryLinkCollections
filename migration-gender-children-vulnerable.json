@@ -1,0 +1,54 @@
+{
+	"label": "Books on Migration: Gender, Childrens Right and Protecting the Vulnerable",
+	"description": "A selection of titles on migration: gender, childrens right and protecting the vulnerable available from the European Parliament Library.",
+	"list": [{
+			"label": "Responding to women migrant's needs",
+			"isbns": [
+				"9783030637354"
+			]
+		},
+		{
+			"label": "Handbook of culture and migration",
+			"isbns": [
+				"9781789903461"
+			]
+		},
+		{
+			"label": "Protecting migrant children",
+			"isbns": [
+				"9781786430267"
+			]
+		},
+		{
+			"label": "Migration und Engagement",
+			"isbns": [
+				"9783658250966"
+			]
+		},
+		{
+			"label": "Migration and inequality",
+			"isbns": [
+				"9781509522149"
+			]
+		},
+		{
+			"label": "Children, human rights and temporary labour migration",
+			"isbns": [
+				"9781003028000"
+			]
+		},
+		{
+			"label": "Immigration, social cohesion and political reaction",
+			"isbns": [
+				"9783030527082"
+			]
+		},
+		{
+			"label": "Handbook on human security, borders and migration",
+			"isbns": [
+				"9781839108907"
+			]
+		}
+
+	]
+}
