@@ -1,0 +1,42 @@
+{
+	"label": "Books on Light and Noise Pollution",
+	"description": "A selection of titles on light and noise pollution available from the European Parliament Library.",
+	"list": [{
+			"label": "Nuisances sonores aéroportuaires",
+			"isbns": [
+				"9782364937239"
+			]
+		},
+		{
+			"label": "Green aviation",
+			"isbns": [
+				"9781118866351"
+			]
+		},
+		{
+			"label": "Lichtverschmutzung in Metropolen",
+			"isbns": [
+				"9783658229740"
+			]
+		},
+		{
+			"label": "Basic concepts in environmental biotechnology",
+			"isbns": [
+				"9781000431193"
+			]
+		},
+		{
+			"label": "Transportation, energy use and environmental impacts",
+			"isbns": [
+				"9780128134559"
+			]
+		},
+		{
+			"label": "Introduction to Environmental Management",
+			"isbns": [
+				"9781000385595"
+			]
+		}
+
+	]
+}
