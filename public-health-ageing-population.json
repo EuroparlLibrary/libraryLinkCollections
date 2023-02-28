@@ -1,0 +1,42 @@
+{
+	"label": "Books on Public Health: Ageing Population",
+	"description": "A selection of titles on public health: ageing population available from the European Parliament Library.",
+	"list": [{
+			"label": "Empowering the Elderly?",
+			"isbns": [
+				"9783839452110"
+			]
+		},
+		{
+			"label": "Aging Welfare and Social Policy",
+			"isbns": [
+				"9783030108953"
+			]
+		},
+		{
+			"label": "New challenges to ageing in the rural North",
+			"isbns": [
+				"9783030206031"
+			]
+		},
+		{
+			"label": "Elderly care: current issues and challenges",
+			"isbns": [
+				"9781536185393"
+			]
+		},
+		{
+			"label": "The future of long-term care",
+			"isbns": [
+				"9781536193961"
+			]
+		},
+		{
+			"label": "Measuring, Understanding and Improving Wellbeing Among Older People",
+			"isbns": [
+				"9789811523533"
+			]
+		}
+
+	]
+}
