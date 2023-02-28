@@ -1,0 +1,36 @@
+{
+	"label": "Books on ACP-EU Relations",
+	"description": "A selection of titles on ACP-EU relations available from the European Parliament Library.",
+	"list": [{
+			"label": "Africa-Europe relationships",
+			"isbns": [
+				"9780367467197"
+			]
+		},
+		{
+			"label": "The Routledge handbook of EU-Africa relations",
+			"isbns": [
+				"9781315170916"
+			]
+		},
+		{
+			"label": "Africa-Europe relationships",
+			"isbns": [
+				"9780367467197"
+			]
+		},
+		{
+			"label": "Revisiting EU-Africa relations in a changing world",
+			"isbns": [
+				"9781839109829"
+			]
+		},
+		{
+			"label": "Negotiating trade in uncertain worlds",
+			"isbns": [
+				"9781351402538"
+			]
+		}
+
+	]
+}
