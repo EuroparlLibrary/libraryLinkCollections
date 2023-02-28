@@ -2,12 +2,6 @@
 	"label": "Books on Light and Noise Pollution",
 	"description": "A selection of titles on light and noise pollution available from the European Parliament Library.",
 	"list": [{
-			"label": "Nuisances sonores aéroportuaires",
-			"isbns": [
-				"9782364937239"
-			]
-		},
-		{
 			"label": "Green aviation",
 			"isbns": [
 				"9781118866351"
