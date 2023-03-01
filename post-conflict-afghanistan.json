@@ -1,0 +1,42 @@
+{
+	"label": "Books on International Players and Post-Conflict Afghanistan ",
+	"description": "A selection of titles on international players and post-conflict Afghanistan available from the European Parliament Library.",
+	"list": [{
+			"label": "Afghanistan : What everyone needs to know",
+			"isbns": [
+				"9780190496630"
+			]
+		},
+		{
+			"label": "Spectre of Afghanistan",
+			"isbns": [
+				"9781788317672"
+			]
+		},
+		{
+			"label": "Negotiating cultural diversity in Afghanistan",
+			"isbns": [
+				"9781000760743"
+			]
+		},
+		{
+			"label": "Rebuilding Afghanistan in times of crisis",
+			"isbns": [
+				"9781351334013"
+			]
+		},
+		{
+			"label": "The war on drugs and Anglo-American relations",
+			"isbns": [
+				"9781474421096"
+			]
+		},
+		{
+			"label": "Poppies, politics, and power",
+			"isbns": [
+				"9781501738340"
+			]
+		}
+
+	]
+}
