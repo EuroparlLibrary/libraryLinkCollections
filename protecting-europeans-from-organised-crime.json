@@ -1,0 +1,72 @@
+{
+	"label": "Books on Protecting Europeans from Organised Crime",
+	"description": "A selection of titles on protecting Europeans from organised crime available from the European Parliament Library.",
+	"list": [{
+			"label": "Crime, security and global politics",
+			"isbns": [
+				"9781137467997"
+			]
+		},
+		{
+			"label": "Contemporary organized crime",
+			"isbns": [
+				"9783030565923"
+			]
+		},
+		{
+			"label": "Vertragliche Umsetzungskontrolle Im Transnationalen Strafrecht",
+			"isbns": [
+				"9783662632772"
+			]
+		},
+		{
+			"label": "Exploiting People for Profit",
+			"isbns": [
+				"9781137434135"
+			]
+		},
+		{
+			"label": "Technology in human smuggling and trafficking",
+			"isbns": [
+				"9783030427689"
+			]
+		},
+		{
+			"label": "Disaster and human trafficking",
+			"isbns": [
+				"9789811616303"
+			]
+		},
+		{
+			"label": "Crime and power",
+			"isbns": [
+				"9783030573140"
+			]
+		},
+		{
+			"label": "Understanding recruitment to organized crime and terrorism",
+			"isbns": [
+				"9783030366391"
+			]
+		},
+		{
+			"label": "Transnational crime and black spots",
+			"isbns": [
+				"9781137496706"
+			]
+		},
+		{
+			"label": "Politicising and policing organised crime",
+			"isbns": [
+				"9781351657464"
+			]
+		},
+		{
+			"label": "Organized crime : causes and consequences",
+			"isbns": [
+				"9781536158656"
+			]
+		}
+
+	]
+}
