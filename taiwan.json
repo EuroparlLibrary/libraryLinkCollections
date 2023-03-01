@@ -1,0 +1,42 @@
+{
+	"label": "Books on Taiwan",
+	"description": "A selection of titles on Taiwan available from the European Parliament Library.",
+	"list": [{
+			"label": "Maritime issues and regional order in the Indo-Pacific",
+			"isbns": [
+				"9783030680381"
+			]
+		},
+		{
+			"label": "The United States' subnational relations with divided China",
+			"isbns": [
+				"9781000388671"
+			]
+		},
+		{
+			"label": "Taiwan's economic and diplomatic challenges and opportunities",
+			"isbns": [
+				"9781000377347"
+			]
+		},
+		{
+			"label": "Difficult choices",
+			"isbns": [
+				"9780815738343"
+			]
+		},
+		{
+			"label": "Deliberative democracy in Taiwan",
+			"isbns": [
+				"9781000264241"
+			]
+		},
+		{
+			"label": "The trouble with Taiwan",
+			"isbns": [
+				"9781786995247"
+			]
+		}
+
+	]
+}
