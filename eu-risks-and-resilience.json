@@ -1,0 +1,54 @@
+{
+	"label": "Books on EU Risks and Resilience ",
+	"description": "A selection of titles on EU risks and resilience available from the European Parliament Library.",
+	"list": [{
+			"label": "The end of Europe?",
+			"isbns": [
+				"9781793634238"
+			]
+		},
+		{
+			"label": "Europe reinvented",
+			"isbns": [
+				"9789463882750"
+			]
+		},
+		{
+			"label": "Socioeconomic Impact of COVID-19 on Eastern European Countries",
+			"isbns": [
+				"9781003211891"
+			]
+		},
+		{
+			"label": "Populism and the politicization of the COVID-19 crisis in Europe",
+			"isbns": [
+				"9783030660116"
+			]
+		},
+		{
+			"label": "The Flight of Icarus",
+			"isbns": [
+				"9781509933839"
+			]
+		},
+		{
+			"label": "Post-truth, post-press, post-Europe",
+			"isbns": [
+				"9783030555719"
+			]
+		},
+		{
+			"label": "Security and safety in the era of global risks",
+			"isbns": [
+				"9781000403190"
+			]
+		},
+		{
+			"label": "Europe's crisis of legitimacy",
+			"isbns": [
+				"9780192517456"
+			]
+		}
+
+	]
+}
