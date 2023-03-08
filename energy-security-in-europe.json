@@ -1,0 +1,66 @@
+{
+	"label": "Books on Energy Security in Europe",
+	"description": "A selection of titles on energy security in Europe available from the European Parliament Library.",
+	"list": [{
+			"label": "The European Union's energy security and Turkey's role in the Southern Gas Corridor",
+			"isbns": [
+				"9783631744789"
+			]
+		},
+		{
+			"label": "International networks, advocacy and EU energy policy-making",
+			"isbns": [
+				"9783030495053"
+			]
+		},
+		{
+			"label": "External energy security in the European Union",
+			"isbns": [
+				"9781351106528"
+			]
+		},
+		{
+			"label": "Perspectives on energy poverty in post-communist Europe",
+			"isbns": [
+				"9781000198935"
+			]
+		},
+		{
+			"label": "A strategic evaluation of energy security in the Eastern Mediterranean",
+			"isbns": [
+				"9781536193466"
+			]
+		},
+		{
+			"label": "Russian energy chains",
+			"isbns": [
+				"9780231552196"
+			]
+		},
+		{
+			"label": "Nord Stream 2 - das Beharren Auf Widerlegten Argumenten",
+			"isbns": [
+				"9783658354107"
+			]
+		},
+		{
+			"label": "Romania as an energy actor in the EU",
+			"isbns": [
+				"9781000176599"
+			]
+		},
+		{
+			"label": "Energy cooperation in South Asia ",
+			"isbns": [
+				"9781000057096"
+			]
+		},
+		{
+			"label": "The belt and road initiative and global governance",
+			"isbns": [
+				"9781789906226"
+			]
+		}
+
+	]
+}
