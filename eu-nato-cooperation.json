@@ -1,0 +1,42 @@
+{
+	"label": "Books on EU-NATO Cooperation",
+	"description": "A selection of titles on EU-NATO cooperation available from the European Parliament Library.",
+	"list": [{
+			"label": "The End of European Security Institutions?",
+			"isbns": [
+				"9783030421601"
+			]
+		},
+		{
+			"label": "Defending Eastern Europe",
+			"isbns": [
+				"9781526147578"
+			]
+		},
+		{
+			"label": "Multinational Rapid Response Mechanisms",
+			"isbns": [
+				"9781351005340"
+			]
+		},
+		{
+			"label": "NATO's democratic retrenchment",
+			"isbns": [
+				"9780429999673"
+			]
+		},
+		{
+			"label": "NATO and the Crisis in the International Order",
+			"isbns": [
+				"9781351118378"
+			]
+		},
+		{
+			"label": "The future of the American military presence in Europe",
+			"isbns": [
+				"9781536137026"
+			]
+		}
+
+	]
+}
