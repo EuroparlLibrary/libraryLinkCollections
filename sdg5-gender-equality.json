@@ -1,0 +1,42 @@
+{
+	"label": "Books on Sustainable Development Goal 5: Gender Equality",
+	"description": "A selection of titles on Sustainable Development Goal 5: Gender Equality available from the European Parliament Library.",
+	"list": [{
+			"label": "SDG5 gender equality and empowerment of women and girls",
+			"isbns": [
+				"9781789735239"
+			]
+		},
+		{
+			"label": "Handbook on gender and violence",
+			"isbns": [
+				"9781788114691"
+			]
+		},
+		{
+			"label": "International Human Rights Law and Structural Discrimination",
+			"isbns": [
+				"9783662586778"
+			]
+		},
+		{
+			"label": "Harmful Traditional Practices",
+			"isbns": [
+				"9781137533128"
+			]
+		},
+		{
+			"label": "Gender in world perspective",
+			"isbns": [
+				"9781509538997"
+			]
+		},
+		{
+			"label": "Gender equality and public policy",
+			"isbns": [
+				"9781108423359"
+			]
+		}
+
+	]
+}
