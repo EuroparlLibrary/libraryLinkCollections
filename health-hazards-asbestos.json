@@ -1,0 +1,36 @@
+{
+	"label": "Books on Health Hazards from Asbestos and other Construction Products",
+	"description": "A selection of titles on health hazards from asbestos and other construction products available from the European Parliament Library.",
+	"list": [{
+			"label": "Dust inside",
+			"isbns": [
+				"9781789209327"
+			]
+		},
+		{
+			"label": "Environmental toxicants",
+			"isbns": [
+				"9781119438908"
+			]
+		},
+		{
+			"label": "Environmental mechanochemistry",
+			"isbns": [
+				"9783030752248"
+			]
+		},
+		{
+			"label": "Emerging Halogenated Flame Retardants in the Environment",
+			"isbns": [
+				"9780444643407"
+			]
+		},
+		{
+			"label": "Environmental health - theory and practice",
+			"isbns": [
+				"9783030644802"
+			]
+		}
+
+	]
+}
