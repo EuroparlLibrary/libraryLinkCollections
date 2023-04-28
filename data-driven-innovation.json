@@ -1,0 +1,36 @@
+{
+	"label": "Books on Books on Data-Driven Innovation",
+	"description": "A selection of titles on data-driven innovation available from the European Parliament Library.",
+	"list": [{
+			"label": "Be data driven",
+			"isbns": [
+				"9781398606128"
+			]
+		},
+		{
+			"label": "Data and analytics strategy for business",
+			"isbns": [
+				"9781398606050"
+			]
+		},
+		{
+			"label": "Life and the law in the era of data-driven agency",
+			"isbns": [
+				"9781788971997"
+			]
+		},
+		{
+			"label": "Innovation in real places",
+			"isbns": [
+				"9780197508138"
+			]
+		},
+		{
+			"label": "Big data for entrepreneurship and sustainable development",
+			"isbns": [
+				"9781000454444"
+			]
+		}
+
+	]
+}
