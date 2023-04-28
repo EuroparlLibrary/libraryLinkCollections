@@ -1,0 +1,49 @@
+{
+	"label": "Books on Digital Infrastructure and Emerging Technologies",
+	"description": "A selection of titles on digital infrastructure and emerging technologies available from the European Parliament Library.",
+	"list": [{
+			"label": "Breakthrough: the promise of frontier technologies for sustainable development",
+			"isbns": [
+				"9780815739661"
+			]
+		},
+		{
+			"label": "Nano technology for battery recycling, remanufacturing, and reusing",
+			"isbns": [
+				"9780323984935"
+			]
+		},
+		{
+			"label": "Autonomous vehicles",
+			"isbns": [
+				"9789811592553"
+			]
+		},
+		{
+			"label": "Emerging military technologies",
+			"isbns": [
+				"9789004507951"
+			]
+		},
+		{
+			"label": "Emerging technologies for disaster resilience",
+			"isbns": [
+				"9789811603600"
+			]
+		},
+		{
+			"label": "Regulating the metaverse",
+			"isbns": [
+				"9781003355861"
+			]
+		},
+		{
+			"label": "Everyday Automation: Experiencing and Anticipating Emerging Technologies",
+			"isbns": [
+				"9780367773380"
+			]
+		}
+
+	]
+}
+
