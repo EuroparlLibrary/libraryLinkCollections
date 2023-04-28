@@ -1,0 +1,48 @@
+{
+	"label": "Books on Sustainable Development Goal 2: Zero Hunger",
+	"description": "A selection of titles on Sustainable Development Goal 2: Zero Hunger available from the European Parliament Library.",
+	"list": [{
+			"label": "Food security issues and challenges",
+			"isbns": [
+				"9781685071318"
+			]
+		},
+		{
+			"label": "The right to food",
+			"isbns": [
+				"9783030602550"
+			]
+		},
+		{
+			"label": "Food as a human right",
+			"isbns": [
+				"9781440861789"
+			]
+		},
+		{
+			"label": "Feeding the hungry",
+			"isbns": [
+				"9781501751172"
+			]
+		},
+		{
+			"label": "Sustainable development goals for society",
+			"isbns": [
+				"9783030709525"
+			]
+		},
+		{
+			"label": "Handbook on Urban Food Security in the Global South",
+			"isbns": [
+				"9781786431516"
+			]
+		},
+		{
+			"label": "Food & power",
+			"isbns": [
+				"9789353883775"
+			]
+		}
+
+	]
+}
