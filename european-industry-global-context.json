@@ -1,0 +1,30 @@
+{
+	"label": "Books on European Industry in a Global Context",
+	"description": "A selection of titles on European industry in a global context available from the European Parliament Library.",
+	"list": [{
+			"label": "EU industrial policy in the multipolar economy",
+			"isbns": [
+				"9781800372634"
+			]
+		},
+		{
+			"label": "The Automotive Industry and European Integration",
+			"isbns": [
+				"9783030174316"
+			]
+		},
+		{
+			"label": "Regulations in the Energy Industry",
+			"isbns": [
+				"9783030322960"
+			]
+		},
+		{
+			"label": "A research agenda for manufacturing industries in the global economy",
+			"isbns": [
+				"9781789908510"
+			]
+		}
+
+	]
+}
