@@ -1,0 +1,48 @@
+{
+	"label": "Books on Sustainable Development Goal 1: Eradication of Extreme Poverty",
+	"description": "A selection of titles on Sustainable Development Goal 1: Eradication of Extreme Poverty available from the European Parliament Library.",
+	"list": [{
+			"label": "Research handbook on human rights and poverty",
+			"isbns": [
+				"9781788977517"
+			]
+		},
+		{
+			"label": "Poverty and human rights",
+			"isbns": [
+				"9781839102110"
+			]
+		},
+		{
+			"label": "Alleviating poverty through profitable partnerships",
+			"isbns": [
+				"9781000765779"
+			]
+		},
+		{
+			"label": "Financial crises, poverty and environmental sustainability",
+			"isbns": [
+				"9783030874179"
+			]
+		},
+		{
+			"label": "Reshaping Global Value Chains in Light of COVID-19",
+			"isbns": [
+				"9781464818226"
+			]
+		},
+		{
+			"label": "Whatever Happened to the Third World?",
+			"isbns": [
+				"9783030396138"
+			]
+		},
+		{
+			"label": "Poverty reduction for inclusive sustainable growth in developing Asia",
+			"isbns": [
+				"9789811611070"
+			]
+		}
+
+	]
+}
