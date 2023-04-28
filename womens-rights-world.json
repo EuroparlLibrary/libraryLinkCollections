@@ -1,0 +1,66 @@
+{
+	"label": "Books on Women's Rights in the World",
+	"description": "A selection of titles on women's rights in the world available from the European Parliament Library.",
+	"list": [{
+			"label": "Equality for women = prosperity for all",
+			"isbns": [
+				"9781250051189"
+			]
+		},
+		{
+			"label": "Conceptualizing femicide as a human rights violation",
+			"isbns": [
+				"9781803920443"
+			]
+		},
+		{
+			"label": "Women and the UN",
+			"isbns": [
+				"9781003036708"
+			]
+		},
+		{
+			"label": "Advancing the legal status of women in Islamic law",
+			"isbns": [
+				"9789004446953"
+			]
+		},
+		{
+			"label": "Legal capacity & gender",
+			"isbns": [
+				"9783030634933"
+			]
+		},
+		{
+			"label": "Women's access, representation and leadership in the United Nations",
+			"isbns": [
+				"9783030835378"
+			]
+		},
+		{
+			"label": "Women, matrimonial litigation and alternative dispute resolution (ADR)",
+			"isbns": [
+				"9789811610158"
+			]
+		},
+		{
+			"label": "Engendering democracy in Africa",
+			"isbns": [
+				"9781003147879"
+			]
+		},
+		{
+			"label": "Women, religion, and peace-building",
+			"isbns": [
+				"9783030897277"
+			]
+		},
+		{
+			"label": "Substantive Representation of Women in Asian Parliaments",
+			"isbns": [
+				"9781003275961"
+			]
+		}
+
+	]
+}
