@@ -1,0 +1,41 @@
+{
+	"label": "Books on Sustainable Development Goal 16: Peace, Justice and Strong Institutions",
+	"description": "A selection of titles on Sustainable Development Goal 16: Peace, Justice and Strong Institutions available from the European Parliament Library.",
+	"list": [{
+			"label": "Post-conflict institutional design",
+			"isbns": [
+				"9781786997890"
+			]
+		},
+		{
+			"label": "Fulfilling the sustainable development goals",
+			"isbns": [
+				"9781000421286"
+			]
+		},
+		{
+			"label": "World Public Sector Report 2019",
+			"isbns": [
+				"9789210041409"
+			]
+		},
+		{
+			"label": "Exploring Peace Formation",
+			"isbns": [
+				"9781317330868"
+			]
+		},
+		{
+			"label": "Post-conflict Security, Peace and Development",
+			"isbns": [
+				"9783030017408"
+			]
+		},
+		{
+			"label": "Risks, Violence, Security and Peace in Latin America",
+			"isbns": [
+				"9783319738086"
+			]
+		}
+	]
+}
