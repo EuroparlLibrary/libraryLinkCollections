@@ -1,0 +1,36 @@
+{
+	"label": "Books on Sustainable Development Goal 4: Quality Education",
+	"description": "A selection of titles on Sustainable Development Goal 4: Quality Education available from the European Parliament Library.",
+	"list": [{
+			"label": "Femmes et le Savoir : Women and Knowledge",
+			"isbns": [
+				"9782406096795"
+			]
+		},
+		{
+			"label": "Social justice for children and young people",
+			"isbns": [
+				"9781108427685"
+			]
+		},
+		{
+			"label": "Universities as Living Labs for Sustainable Development",
+			"isbns": [
+				"9783030156046"
+			]
+		},
+		{
+			"label": "The sustainable development goals in higher education",
+			"isbns": [
+				"9783030735753"
+			]
+		},
+		{
+			"label": "Education and Development",
+			"isbns": [
+				"9783030405663"
+			]
+		}		
+
+	]
+}
