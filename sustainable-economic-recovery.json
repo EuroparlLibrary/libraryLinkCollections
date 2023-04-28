@@ -1,0 +1,60 @@
+{
+	"label": "Books on Sustainable Economic Recovery",
+	"description": "A selection of titles on sustainable economic recovery available from the European Parliament Library.",
+	"list": [{
+			"label": "A circular economy handbook",
+			"isbns": [
+				"9781789665314"
+			]
+		},
+		{
+			"label": "The 99 percent economy",
+			"isbns": [
+				"9780190931889"
+			]
+		},
+		{
+			"label": "The neoliberal imagination",
+			"isbns": [
+				"9780367186913"
+			]
+		},
+		{
+			"label": "Global economic prospects",
+			"isbns": [
+				"9781464816130"
+			]
+		},
+		{
+			"label": "Preventing the next financial crisis",
+			"isbns": [
+				"9781000375299"
+			]
+		},
+		{
+			"label": "Macroeconomic Responses to the COVID-19 Pandemic",
+			"isbns": [
+				"9783030754440"
+			]
+		},
+		{
+			"label": "Economic policies for a post-neoliberal world",
+			"isbns": [
+				"9783030567354"
+			]
+		},
+		{
+			"label": "What really counts",
+			"isbns": [
+				"9780231549189"
+			]
+		},
+		{
+			"label": "The proportionality of state intervention",
+			"isbns": [
+				"9783030756765"
+			]
+		}
+
+	]
+}
