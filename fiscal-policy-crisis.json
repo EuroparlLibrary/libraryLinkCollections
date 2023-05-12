@@ -1,0 +1,41 @@
+{
+	"label": "Books on Fiscal Policy in Times of Crisis",
+	"description": "A selection of titles on fiscal policy in times of crisis available from the European Parliament Library.",
+	"list": [{
+			"label": "EU Fiscal Capacity",
+			"isbns": [
+				"9780198874256"
+			]
+		},
+		{
+			"label": "European Central Banking Law",
+			"isbns": [
+				"9783030345648"
+			]
+		},
+		{
+			"label": "COVID-19 and the global political economy",
+			"isbns": [
+				"9781003250432"
+			]
+		},
+		{
+			"label": "The paradox of fiscal austerity",
+			"isbns": [
+				"9781498571937"
+			]
+		},
+		{
+			"label": "Economic policy and the Covid-19 crisis",
+			"isbns": [
+				"9781000461640"
+			]
+		},
+		{
+			"label": "Why fiscal stimulus programs fail, Volume 1",
+			"isbns": [
+				"9783030656751"
+			]
+		}
+	]
+}
