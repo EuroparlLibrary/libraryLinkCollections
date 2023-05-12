@@ -1,0 +1,42 @@
+{
+	"label": "Books on Social Economy",
+	"description": "A selection of titles on social economy available from the European Parliament Library.",
+	"list": [{
+			"label": "The new economics: a manifesto",
+			"isbns": [
+				"9781509545285"
+			]
+		},
+		{
+			"label": "Head hand heart",
+			"isbns": [
+				"9780141990415"
+			]
+		},
+		{
+			"label": "The Cooperative Economy",
+			"isbns": [
+				"9781000832389"
+			]
+		},
+		{
+			"label": "Social cohesion and welfare states",
+			"isbns": [
+				"9780429503870"
+			]
+		},
+		{
+			"label": "Governance and business models for sustainable capitalism",
+			"isbns": [
+				"9781315454931"
+			]
+		},
+		{
+			"label": "Integrating social responsibility and sustainable development",
+			"isbns": [
+				"9783030599751"
+			]
+		}
+
+	]
+}
