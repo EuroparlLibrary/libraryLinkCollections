@@ -1,0 +1,54 @@
+{
+	"label": "Books on Economic Theory",
+	"description": "A selection of titles on economic theory available from the European Parliament Library.",
+	"list": [{
+			"label": "Classical economic theory and the modern economy",
+			"isbns": [
+				"9781786433572"
+			]
+		},
+		{
+			"label": "Cogs and Monsters",
+			"isbns": [
+				"9780691231037"
+			]
+		},
+		{
+			"label": "The General Economic Theory",
+			"isbns": [
+				"9783030562045"
+			]
+		},
+		{
+			"label": "An Introduction to Economics",
+			"isbns": [
+				"9789811510564"
+			]
+		},
+		{
+			"label": "Why ethical behavior is good for the economy",
+			"isbns": [
+				"9781782549451"
+			]
+		},
+		{
+			"label": "Economic policies for a post-neoliberal world",
+			"isbns": [
+				"9783030567354"
+			]
+		},
+		{
+			"label": "How Is Critical Economic Theory Possible?",
+			"isbns": [
+				"9789004518483"
+			]
+		},
+		{
+			"label": "The logic of capital : an introduction to Marxist economic theory",
+			"isbns": [
+				"9781009032308"
+			]
+		}
+
+	]
+}
