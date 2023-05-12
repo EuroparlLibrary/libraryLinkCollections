@@ -1,0 +1,36 @@
+{
+	"label": "Books on EU Research and Innovation",
+	"description": "A selection of titles on EU research and innovation available from the European Parliament Library.",
+	"list": [{
+			"label": "Innovation im Wohlfahrtsstaat",
+			"isbns": [
+				"9783848781348"
+			]
+		},
+		{
+			"label": "European Union Research Policy",
+			"isbns": [
+				"9783030413958"
+			]
+		},
+		{
+			"label": "Regions and innovation policies in Europe",
+			"isbns": [
+				"9781789904161"
+			]
+		},
+		{
+			"label": "Regional innovation impact of universities",
+			"isbns": [
+				"9781839100536"
+			]
+		},
+		{
+			"label": "Big science and research infrastructures in Europe",
+			"isbns": [
+				"9781839100017"
+			]
+		}
+
+	]
+}
