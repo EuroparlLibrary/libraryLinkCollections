@@ -1,0 +1,48 @@
+{
+	"label": "Books on Blue Economy",
+	"description": "A selection of titles on blue economy available from the European Parliament Library.",
+	"list": [{
+			"label": "The empty sea",
+			"isbns": [
+				"9783030518981"
+			]
+		},
+		{
+			"label": "Blue economy",
+			"isbns": [
+				"9781000823301"
+			]
+		},
+		{
+			"label": "Blue Economy: An Ocean Science Perspective",
+			"isbns": [
+				"9789811950650"
+			]
+		},
+		{
+			"label": "Developing the blue economy",
+			"isbns": [
+				"9783030842161"
+			]
+		},
+		{
+			"label": "Sustainability in the maritime domain",
+			"isbns": [
+				"9783030693251"
+			]
+		},
+		{
+			"label": "The law of the seabed",
+			"isbns": [
+				"9789004391567"
+			]
+		},
+		{
+			"label": "Preparing a workforce for the new blue economy",
+			"isbns": [
+				"9780128214329"
+			]
+		}
+
+	]
+}
