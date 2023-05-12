@@ -1,0 +1,36 @@
+{
+	"label": "Books on State Aid",
+	"description": "A selection of titles on state aid available from the European Parliament Library.",
+	"list": [{
+			"label": "Research handbook on European state aid law",
+			"isbns": [
+				"9781789909258"
+			]
+		},
+		{
+			"label": "The role of state aid in the European fiscal integration",
+			"isbns": [
+				"9783030887353"
+			]
+		},
+		{
+			"label": "Weaponizing EU State Aid Law to Impact the Future of EU Investment Policy in the Global Context",
+			"isbns": [
+				"9783031101083"
+			]
+		},
+		{
+			"label": "EU state aid law",
+			"isbns": [
+				"9781788975254"
+			]
+		},
+		{
+			"label": "European state aid law and policy",
+			"isbns": [
+				"9781782259329"
+			]
+		}
+
+	]
+}
