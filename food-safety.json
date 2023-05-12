@@ -1,0 +1,36 @@
+{
+	"label": "Books on Food Safety",
+	"description": "A selection of titles on food safety available from the European Parliament Library.",
+	"list": [{
+			"label": "Food safety: saving lives",
+			"isbns": [
+				"9781534568822"
+			]
+		},
+		{
+			"label": "Food safety, from farm to fork",
+			"isbns": [
+				"9781527560567"
+			]
+		},
+		{
+			"label": "Effective governance designs of food safety regulation in the EU",
+			"isbns": [
+				"9783030827939"
+			]
+		},
+		{
+			"label": "Present Knowledge in Food Safety",
+			"isbns": [
+				"9780128231548"
+			]
+		},
+		{
+			"label": "Food safety and technology governance",
+			"isbns": [
+				"9781000627251"
+			]
+		}
+
+	]
+}
