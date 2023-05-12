@@ -1,0 +1,26 @@
+{
+	"label": "Books on Public Debt",
+	"description": "A selection of titles on public debt available from the European Parliament Library.",
+	"list": [{
+			"label": "Debt in times of crisis",
+			"isbns": [
+				"9783030741624"
+			]
+		},
+		{
+			"label": "The debt delusion",
+			"isbns": [
+				"9781509532933",
+				"9781509532964"
+			]
+		},
+		{
+			"label": "Economic Growth and Structural Reforms in Europe",
+			"isbns": [
+				"9781108803144",
+				"9781108479110"
+			]
+		}
+
+	]
+}
