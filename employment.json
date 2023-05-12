@@ -1,0 +1,42 @@
+{
+	"label": "Books on Employment",
+	"description": "A selection of titles on employment available from the European Parliament Library.",
+	"list": [{
+			"label": "Employment discrimination",
+			"isbns": [
+				"9780190085438"
+			]
+		},
+		{
+			"label": "The future of the employment contract",
+			"isbns": [
+				"9781783479689"
+			]
+		},
+		{
+			"label": "Contemporary work and the future of employment in developed countries",
+			"isbns": [
+				"9781351034890"
+			]
+		},
+		{
+			"label": "European employment law",
+			"isbns": [
+				"9781839701511"
+			]
+		},
+		{
+			"label": "The new world of work",
+			"isbns": [
+				"9781800888050"
+			]
+		},
+		{
+			"label": "Work and labour relations in global platform capitalism",
+			"isbns": [
+				"9781802205138"
+			]
+		}
+
+	]
+}
