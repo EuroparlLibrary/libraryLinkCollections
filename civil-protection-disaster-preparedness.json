@@ -1,0 +1,42 @@
+{
+	"label": "Books on Civil Protection and Disaster Preparedness",
+	"description": "A selection of titles on civil protection and disaster preparedness available from the European Parliament Library.",
+	"list": [{
+			"label": "Disaster preparedness and response",
+			"isbns": [
+				"9780197580165"
+			]
+		},
+		{
+			"label": "Enhancing Disaster Preparedness",
+			"isbns": [
+				"9780128190791"
+			]
+		},
+		{
+			"label": "Epidemic risk reduction: a civil protection approach",
+			"isbns": [
+				"9781000598032"
+			]
+		},
+		{
+			"label": "Disaster and emergency management methods",
+			"isbns": [
+				"9781000411102"
+			]
+		},
+		{
+			"label": "Emerging technologies for disaster resilience",
+			"isbns": [
+				"9789811603600"
+			]
+		},
+		{
+			"label": "Routledge handbook of environmental hazards and society",
+			"isbns": [
+				"9780367854584"
+			]
+		}
+
+	]
+}
