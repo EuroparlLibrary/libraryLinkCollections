@@ -1,0 +1,36 @@
+{
+	"label": "Books on Industry 4.0",
+	"description": "A selection of titles on industry 4.0 available from the European Parliament Library.",
+	"list": [{
+			"label": "Handbook Industry 4.0",
+			"isbns": [
+				"9783662644485"
+			]
+		},
+		{
+			"label": "Industry 4.0 : fighting climate change in the economy of the future",
+			"isbns": [
+				"9783030794965"
+			]
+		},
+		{
+			"label": "Handbuch Industrie 4.0: Recht, Technik, Gesellschaft",
+			"isbns": [
+				"9783662584743"
+			]
+		},
+		{
+			"label": "A Roadmap to industry 4.0",
+			"isbns": [
+				"9783030145446"
+			]
+		},
+		{
+			"label": "Sustainable Logistics and Production in Industry 4.0",
+			"isbns": [
+				"9783030333690"
+			]
+		}
+
+	]
+}
