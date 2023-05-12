@@ -1,0 +1,66 @@
+{
+	"label": "Books on EU Welfare Systems and the Challenges of Poverty, Inequalities and Social Justice",
+	"description": "A selection of titles on EU welfare systems and the challenges of poverty, inequalities and social justice available from the European Parliament Library.",
+	"list": [{
+			"label": "Combating poverty and social exclusion in European Union Law",
+			"isbns": [
+				"9781000563504"
+			]
+		},
+		{
+			"label": "Welfare state legitimacy in times of crisis and austerity",
+			"isbns": [
+				"9781788976305"
+			]
+		},
+		{
+			"label": "Austerity, retrenchment and the welfare state",
+			"isbns": [
+				"9781789903713"
+			]
+		},
+		{
+			"label": "Poverty, Crisis and Resilience",
+			"isbns": [
+				"9781788973205"
+			]
+		},
+		{
+			"label": "Faith-Based Organizations and Social Welfare",
+			"isbns": [
+				"9783030447076"
+			]
+		},
+		{
+			"label": "Regimes of inequality",
+			"isbns": [
+				"9781107001688"
+			]
+		},
+		{
+			"label": "Local welfare and the organization of social services",
+			"isbns": [
+				"9783030661281"
+			]
+		},
+		{
+			"label": "Soziale Armut",
+			"isbns": [
+				"9783658361419"
+			]
+		},
+		{
+			"label": "Welfare states in the 21st century",
+			"isbns": [
+				"9781800370791"
+			]
+		},
+		{
+			"label": "Rethinking welfare and the welfare state",
+			"isbns": [
+				"9781800885127"
+			]
+		}
+
+	]
+}
