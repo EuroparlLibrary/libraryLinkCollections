@@ -1,0 +1,25 @@
+{
+	"label": "Books on Posted Workers",
+	"description": "A selection of titles on posetd workers available from the European Parliament Library.",
+	"list": [{
+			"label": "Cross-Border EU Employment and Its Enforcement",
+			"isbns": [
+				"9783031188541",
+				"9783031188534"
+			]
+		},
+		{
+			"label": "Contemporary work and the future of employment in developed countries",
+			"isbns": [
+				"9781351034890"
+			]
+		},
+		{
+			"label": "Family life in transition",
+			"isbns": [
+				"9780429658556"
+			]
+		}
+
+	]
+}
