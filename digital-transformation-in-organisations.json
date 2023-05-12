@@ -1,0 +1,30 @@
+{
+	"label": "Books on Digital Transformation in Organisations",
+	"description": "A selection of titles on digital transformation in organisations available from the European Parliament Library.",
+	"list": [{
+			"label": "Digital Transformation and New Approaches in Trade, Economics, Finance and Banking",
+			"isbns": [
+				"9783631887523"
+			]
+		},
+		{
+			"label": "Pandemic, lockdown, and digital transformation",
+			"isbns": [
+				"9783030862749"
+			]
+		},
+		{
+			"label": "Public Innovation and Digital Transformation",
+			"isbns": [
+				"9781003230854"
+			]
+		},
+		{
+			"label": "The innovation ultimatum",
+			"isbns": [
+				"9781119615446"
+			]
+		}
+
+	]
+}
