@@ -1,0 +1,66 @@
+{
+	"label": "Books on Economic and Monetary Union",
+	"description": "A selection of titles on Economic and Monetary Union available from the European Parliament Library.",
+	"list": [{
+			"label": "An introduction to the law of economic and monetary union",
+			"isbns": [
+				"9781800883000"
+			]
+		},
+		{
+			"label": "New challenges for the Eurozone governance",
+			"isbns": [
+				"9783030623722"
+			]
+		},
+		{
+			"label": "The European Monetary Union",
+			"isbns": [
+				"9781108840873"
+			]
+		},
+		{
+			"label": "Accountability in the Economic and Monetary Union",
+			"isbns": [
+				"9780198845263"
+			]
+		},
+		{
+			"label": "The European Monetary Union after the crisis",
+			"isbns": [
+				"9780367496616"
+			]
+		},
+		{
+			"label": "Monnaie, pouvoir et Etats",
+			"isbns": [
+				"9782406110583"
+			]
+		},
+		{
+			"label": "The new economic governance of the Eurozone",
+			"isbns": [
+				"9781009216623"
+			]
+		},
+		{
+			"label": "Monetary Economics, Banking and Policy",
+			"isbns": [
+				"9781000804843"
+			]
+		},
+		{
+			"label": "The Routledge handbook of European integrations",
+			"isbns": [
+				"9780429262081"
+			]
+		},
+		{
+			"label": "Policy learning and the Euro",
+			"isbns": [
+				"9783031042645"
+			]
+		}
+
+	]
+}
