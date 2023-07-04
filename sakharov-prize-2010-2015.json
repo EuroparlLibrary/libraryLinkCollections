@@ -1,0 +1,54 @@
+{
+	"label": "Books on Sakharov Prize Laureates and their Causes (2010-2015)",
+	"description": "A selection of titles on Sakharov Prize laureates and their causes (2010-2015) available from the European Parliament Library.",
+	"list": [{
+			"label": "Denis Mukwege: la voix du Nobel",
+			"isbns": [
+				"9798672475172"
+			]
+		},
+		{
+			"label": "Routledge handbook of Persian Gulf politics",
+			"isbns": [
+				"9780429510656"
+			]
+		},
+		{
+			"label": "Sexual Violence Crimes and Gendered Power Relations",
+			"isbns": [
+				"9781000214611"
+			]
+		},
+		{
+			"label": "The Asian yearbook of human rights and humanitarian law",
+			"isbns": [
+				"9789004466180"
+			]
+		},
+		{
+			"label": "Understanding revolutions: opening acts in Tunisia",
+			"isbns": [
+				"9780755644735"
+			]
+		},
+		{
+			"label": "A cruel theatre of self-immolations",
+			"isbns": [
+				"9780429607745"
+			]
+		},
+		{
+			"label": "The Internet, Warts and All",
+			"isbns": [
+				"9781108381161"
+			]
+		},
+		{
+			"label": "Research handbook on human rights and digital technology",
+			"isbns": [
+				"9781785367724"
+			]
+		}
+
+	]
+}
