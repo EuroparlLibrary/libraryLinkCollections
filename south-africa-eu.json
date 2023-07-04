@@ -1,0 +1,30 @@
+{
+	"label": "Books on South Africa and Its Relations with the EU",
+	"description": "A selection of titles on South Africa and its relations with the EU available from the European Parliament Library.",
+	"list": [{
+			"label": "Handbook of BRICS and emerging economies",
+			"isbns": [
+				"9780198827535"
+			]
+		},
+		{
+			"label": "Changing perceptions of the EU at times of Brexit",
+			"isbns": [
+				"9780367276669"
+			]
+		},
+		{
+			"label": "Neoliberalism and resistance in South Africa",
+			"isbns": [
+				"9783030697662"
+			]
+		},
+		{
+			"label": "The Routledge handbook of EU-Africa relations",
+			"isbns": [
+				"9781351693288"
+			]
+		}
+
+	]
+}
