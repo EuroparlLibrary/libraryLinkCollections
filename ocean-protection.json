@@ -1,0 +1,42 @@
+{
+	"label": "Books on Ocean Protection",
+	"description": "A selection of titles on ocean protection available from the European Parliament Library.",
+	"list": [{
+			"label": "The brilliant abyss",
+			"isbns": [
+				"9781472966872"
+			]
+		},
+		{
+			"label": "Perspectives on deep-sea mining",
+			"isbns": [
+				"9783030879822"
+			]
+		},
+		{
+			"label": "Ocean acidification and marine wildlife",
+			"isbns": [
+				"9780128223314"
+			]
+		},
+		{
+			"label": "Research handbook on ocean acidification law and policy",
+			"isbns": [
+				"9781789900149"
+			]
+		},
+		{
+			"label": "Climate change and maritime boundaries",
+			"isbns": [
+				"9781009058629"
+			]
+		},
+		{
+			"label": "Plastics and the ocean",
+			"isbns": [
+				"9781119768395"
+			]
+		}
+
+	]
+}
