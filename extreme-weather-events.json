@@ -1,0 +1,42 @@
+{
+	"label": "Books on Extreme Weather Events",
+	"description": "A selection of titles on extreme weather events available from the European Parliament Library.",
+	"list": [{
+			"label": "Extreme weather forecasting",
+			"isbns": [
+				"9780128202432"
+			]
+		},
+		{
+			"label": "Climate change and extreme events",
+			"isbns": [
+				"9780128232880"
+			]
+		},
+		{
+			"label": "Extreme events and climate change",
+			"isbns": [
+				"9781119413745"
+			]
+		},
+		{
+			"label": "Climate impacts on extreme weather",
+			"isbns": [
+				"9780323904209"
+			]
+		},
+		{
+			"label": "Flood Damage Assessment and Management",
+			"isbns": [
+				"9783030500535"
+			]
+		},
+		{
+			"label": "Drought early warning and forecasting",
+			"isbns": [
+				"9780128140123"
+			]
+		}
+
+	]
+}
