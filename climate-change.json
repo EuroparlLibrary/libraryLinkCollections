@@ -1,0 +1,55 @@
+{
+	"label": "Books on Climate Change",
+	"description": "A selection of titles on climate change available from the European Parliament Library.",
+	"list": [{
+			"label": "Ecological Footprints of Climate Change",
+			"isbns": [
+				"9783031155017"
+			]
+		},
+		{
+			"label": "The Paris Agreement on climate change",
+			"isbns": [
+				"9781788979191"
+			]
+		},
+		{
+			"label": "Climate change: The Social and Scientific Construct",
+			"isbns": [
+				"9783030862909"
+			]
+		},
+		{
+			"label": "Essential EU climate law",
+			"isbns": [
+				"9781788971300"
+			]
+		},
+		{
+			"label": "Research handbook on climate change law and loss & damage",
+			"isbns": [
+				"9781788974028"
+			]
+		},
+		{
+			"label": "Climate change law",
+			"isbns": [
+				"9781839101304"
+			]
+		},
+		{
+			"label": "Climate change litigation",
+			"isbns": [
+				"9789004447615"
+			]
+		},
+		{
+			"label": "Towards sustainable welfare states in Europe",
+			"isbns": [
+				"9781839104633"
+			]
+		}
+
+
+	]
+}
