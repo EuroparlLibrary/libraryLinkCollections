@@ -1,0 +1,25 @@
+{
+	"label": "Books on Green Deal and Agriculture",
+	"description": "A selection of titles on Green Deal and agriculture available from the European Parliament Library.",
+	"list": [{
+			"label": "Routledge handbook on the Green New Deal",
+			"isbns": [
+				"9781003110880",
+				"9780367628048"
+			]
+		},
+		{
+			"label": "Bio-economy and agri-production",
+			"isbns": [
+				"9780128211434"
+			]
+		},
+		{
+			"label": "La croissance verte contre la nature",
+			"isbns": [
+				"9782348068096"
+			]
+		}
+
+	]
+}
