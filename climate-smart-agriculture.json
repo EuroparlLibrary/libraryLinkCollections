@@ -1,0 +1,30 @@
+{
+	"label": "Books on Climate-Smart Agriculture",
+	"description": "A selection of titles on climate-smart agriculture available from the European Parliament Library.",
+	"list": [{
+			"label": "Climate-smart agriculture : reducing food insecurity",
+			"isbns": [
+				"9783030931117"
+			]
+		},
+		{
+			"label": "Climate smart agriculture : concepts, challenges, and opportunities",
+			"isbns": [
+				"9789811591327"
+			]
+		},
+		{
+			"label": "Plant growth regulators for climate-smart agriculture",
+			"isbns": [
+				"9781000408546"
+			]
+		},
+		{
+			"label": "Conservation Agriculture in Africa",
+			"isbns": [
+				"9781789245769"
+			]
+		}
+
+	]
+}
