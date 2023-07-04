@@ -1,0 +1,36 @@
+{
+	"label": "Books on India-EU Relations",
+	"description": "A selection of titles on India and its relations with the EU available from the European Parliament Library.",
+	"list": [{
+			"label": "EU-India relations",
+			"isbns": [
+				"9783030650445"
+			]
+		},
+		{
+			"label": "India's trade policy in the 21st century",
+			"isbns": [
+				"9781000584950"
+			]
+		},
+		{
+			"label": "India, Europe and Asia",
+			"isbns": [
+				"9789813346086"
+			]
+		},
+		{
+			"label": "Free Trade Agreements : India and the World",
+			"isbns": [
+				"9780198875932"
+			]
+		},
+		{
+			"label": "Resource efficiency, sustainability, and globalization",
+			"isbns": [
+				"9781000292206"
+			]
+		}
+
+	]
+}
