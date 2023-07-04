@@ -1,0 +1,48 @@
+{
+	"label": "Books on International Sanctions and EU Restrictive Measures",
+	"description": "A selection of titles on international sanctions and EU restrictive measures available from the European Parliament Library.",
+	"list": [{
+			"label": "The economic weapon",
+			"isbns": [
+				"9780300262520"
+			]
+		},
+		{
+			"label": "Sanctions as war",
+			"isbns": [
+				"9789004501201"
+			]
+		},
+		{
+			"label": "Research handbook on economic sanctions",
+			"isbns": [
+				"9781839102721"
+			]
+		},
+		{
+			"label": "Research handbook on unilateral and extraterritorial sanctions",
+			"isbns": [
+				"9781839107856"
+			]
+		},
+		{
+			"label": "Backfire : how sanctions reshape the world against US interests",
+			"isbns": [
+				"9780231199902"
+			]
+		},
+		{
+			"label": "Sanctions",
+			"isbns": [
+				"9780197530337"
+			]
+		},
+		{
+			"label": "The political economy of sanctions",
+			"isbns": [
+				"9783031040559"
+			]
+		}
+
+	]
+}
