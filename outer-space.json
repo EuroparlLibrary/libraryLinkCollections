@@ -1,0 +1,42 @@
+{
+	"label": "Books on Outer Space: Geopolitics, Security and Law",
+	"description": "A selection of titles on outer space: geopolitics, security and law available from the European Parliament Library.",
+	"list": [{
+			"label": "Legal aspects of planetary defence",
+			"isbns": [
+				"9789004467606"
+			]
+		},
+		{
+			"label": "European integration and space policy",
+			"isbns": [
+				"9781000317886"
+			]
+		},
+		{
+			"label": "International space law and space laws of the United States",
+			"isbns": [
+				"9781788117890"
+			]
+		},
+		{
+			"label": "Commercial and Military Uses of Outer Space",
+			"isbns": [
+				"9789811589249"
+			]
+		},
+		{
+			"label": "The cold war, the space race, and the law of outer space",
+			"isbns": [
+				"9781000410853"
+			]
+		},
+		{
+			"label": "A research agenda for space policy",
+			"isbns": [
+				"9781800374744"
+			]
+		}
+
+	]
+}
