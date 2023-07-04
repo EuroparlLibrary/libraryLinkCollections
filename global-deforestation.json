@@ -1,0 +1,30 @@
+{
+	"label": "Books on Global Deforestation",
+	"description": "A selection of titles on global deforestation available from the European Parliament Library.",
+	"list": [{
+			"label": "Rainforest",
+			"isbns": [
+				"9781642830729"
+			]
+		},
+		{
+			"label": "Forest governance",
+			"isbns": [
+				"9783030991845"
+			]
+		},
+		{
+			"label": "Factfulness sustainability",
+			"isbns": [
+				"9783662655580"
+			]
+		},
+		{
+			"label": "Environmental degradation",
+			"isbns": [
+				"978-3-030-95542-7"
+			]
+		}
+
+	]
+}
