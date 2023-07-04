@@ -1,0 +1,84 @@
+{
+	"label": "Books on Renewable Energy",
+	"description": "A selection of titles on renewable energy available from the European Parliament Library.",
+	"list": [{
+			"label": "New challenges and solutions for renewable energy",
+			"isbns": [
+				"9783030545147"
+			]
+		},
+		{
+			"label": "The political economy of coal",
+			"isbns": [
+				"9781003044543"
+			]
+		},
+		{
+			"label": "Renewable Energy Law",
+			"isbns": [
+				"9781509936465"
+			]
+		},
+		{
+			"label": "Renewable fuels: sources, conversion, and utilization",
+			"isbns": [
+				"9781009080941"
+			]
+		},
+		{
+			"label": "Routledge handbook of energy transitions",
+			"isbns": [
+				"9781000806335"
+			]
+		},
+		{
+			"label": "Energy autonomy: from the notion to the concepts",
+			"isbns": [
+				"9781394164066"
+			]
+		},
+		{
+			"label": "Fundamentals of Renewable Energy",
+			"isbns": [
+				"9781000505962"
+			]
+		},
+		{
+			"label": "Storing energy",
+			"isbns": [
+				"9780128245118"
+			]
+		},
+		{
+			"label": "Hybrid renewable energy systems",
+			"isbns": [
+				"9781119555636"
+			]
+		},
+		{
+			"label": "Emerging nanotechnologies for renewable energy",
+			"isbns": [
+				"9780128213575"
+			]
+		},
+		{
+			"label": "Renewable energy crash course",
+			"isbns": [
+				"9783030700492"
+			]
+		},
+		{
+			"label": "Advanced introduction to law and renewable energy",
+			"isbns": [
+				"9781789906875"
+			]
+		},
+		{
+			"label": "Economics of renewable energy",
+			"isbns": [
+				"9783030908041"
+			]
+		}
+
+	]
+}
