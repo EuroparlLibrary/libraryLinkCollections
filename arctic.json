@@ -1,0 +1,48 @@
+{
+	"label": "Books on Arctic Climate Change and Geopolitics",
+	"description": "A selection of titles on Arctic climate change and geopolitics available from the European Parliament Library.",
+	"list": [{
+			"label": "Geoecological and geopolitical risks for the oil and gas industry in the Arctic",
+			"isbns": [
+				"9783030959104"
+			]
+		},
+		{
+			"label": "Arctic fever: political, economic & environmental aspects",
+			"isbns": [
+				"9789811696169"
+			]
+		},
+		{
+			"label": "Arctic governance (Vol. III): Norway, Russia and Asia",
+			"isbns": [
+				"9781838600112"
+			]
+		},
+		{
+			"label": "Blue governance in the Arctic and Antarctic",
+			"isbns": [
+				"9783030725853"
+			]
+		},
+		{
+			"label": "Renewable economies in the Arctic",
+			"isbns": [
+				"9781003172406"
+			]
+		},
+		{
+			"label": "Threats to the Arctic",
+			"isbns": [
+				"9780128232293"
+			]
+		},
+		{
+			"label": "Energy of the Russian Arctic",
+			"isbns": [
+				"9789811928178"
+			]
+		}
+
+	]
+}
