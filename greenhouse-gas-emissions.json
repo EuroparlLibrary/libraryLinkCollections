@@ -1,0 +1,48 @@
+{
+	"label": "Books on Greenhouse Gas Emissions",
+	"description": "A selection of titles on greenhouse gas emissions available from the European Parliament Library.",
+	"list": [{
+			"label": "Reducing greenhouse gas emissions from livestock production",
+			"isbns": [
+				"9781786764423"
+			]
+		},
+		{
+			"label": "Carbon footprint case studies",
+			"isbns": [
+				"9789811595776"
+			]
+		},
+		{
+			"label": "Balancing greenhouse gas budgets",
+			"isbns": [
+				"9780128149539"
+			]
+		},
+		{
+			"label": "Energy Futures",
+			"isbns": [
+				"9783031153815"
+			]
+		},
+		{
+			"label": "Green deals in the making",
+			"isbns": [
+				"9781803926780"
+			]
+		},
+		{
+			"label": "Greenhouse gases : sources, sinks and mitigation",
+			"isbns": [
+				"9789811644825"
+			]
+		},
+		{
+			"label": "The decarbonization imperative",
+			"isbns": [
+				"9781503614789"
+			]
+		}
+
+	]
+}
