@@ -1,0 +1,36 @@
+{
+	"label": "Books on EU-China Trade",
+	"description": "A selection of titles on EU-China trade available from the European Parliament Library.",
+	"list": [{
+			"label": "Unpacking EU policy-making towards China",
+			"isbns": [
+				"9789811593673"
+			]
+		},
+		{
+			"label": "Linkage Power Europe",
+			"isbns": [
+				"9781003355915"
+			]
+		},
+		{
+			"label": "Making Sense of China's Economy",
+			"isbns": [
+				"9781000861310"
+			]
+		},
+		{
+			"label": "China and the West",
+			"isbns": [
+				"9781800374980"
+			]
+		},
+		{
+			"label": "China's foreign trade",
+			"isbns": [
+				"9789811957031"
+			]
+		}
+
+	]
+}
