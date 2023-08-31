@@ -1,0 +1,60 @@
+{
+	"label": "Books on Turkey",
+	"description": "A selection of titles on Turkey available from the European Parliament Library.",
+	"list": [{
+			"label": "Critical readings of Turkey's foreign policy",
+			"isbns": [
+				"9783030976378"
+			]
+		},
+		{
+			"label": "EU-Turkey Relations",
+			"isbns": [
+				"9781788113687"
+			]
+		},
+		{
+			"label": "EU-Turkey Relations: Theories, Institutions, and Policies",
+			"isbns": [
+				"9783030708900"
+			]
+		},
+		{
+			"label": "EU, Turkey and counter-terrorism",
+			"isbns": [
+				"9781800379572"
+			]
+		},
+		{
+			"label": "Turkish-French relations",
+			"isbns": [
+				"9783031079887"
+			]
+		},
+		{
+			"label": "Turkey's foreign policy narratives",
+			"isbns": [
+				"9783030926489"
+			]
+		},
+		{
+			"label": "Turkish foreign policy",
+			"isbns": [
+				"9783030907464"
+			]
+		},
+		{
+			"label": "Authoritarian neoliberalism and resistance in Turkey",
+			"isbns": [
+				"9789811642135"
+			]
+		},
+		{
+			"label": "Turkey's Asia relations",
+			"isbns": [
+				"9783030935153"
+			]
+		}
+
+	]
+}
