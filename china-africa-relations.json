@@ -1,0 +1,36 @@
+{
+	"label": "Books on China-Africa Relations",
+	"description": "A selection of titles on China-Africa relations available from the European Parliament Library.",
+	"list": [{
+			"label": "Legal protection and sustainability of Chinese investments in Africa",
+			"isbns": [
+				"9789811918827"
+			]
+		},
+		{
+			"label": "Coevolutionary pragmatism",
+			"isbns": [
+				"9781108246347"
+			]
+		},
+		{
+			"label": "China in Africa",
+			"isbns": [
+				"9789811611483"
+			]
+		},
+		{
+			"label": "African transnational mobility in China",
+			"isbns": [
+				"9781000338133"
+			]
+		},
+		{
+			"label": "South Africa-China relations",
+			"isbns": [
+				"9783030547684"
+			]
+		}
+
+	]
+}
