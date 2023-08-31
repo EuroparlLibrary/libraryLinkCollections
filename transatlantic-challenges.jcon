@@ -1,0 +1,53 @@
+{
+	"label": "Books on Transatlantic Challenges",
+	"description": "A selection of titles on transatlantic challenges available from the European Parliament Library.",
+	"list": [{
+			"label": "Partners of first resort",
+			"isbns": [
+				"9780815738510"
+			]
+		},
+		{
+			"label": "Threats to Euro-Atlantic Security",
+			"isbns": [
+				"9783030197308"
+			]
+		},
+		{
+			"label": "Public diplomacy and the politics of uncertainty",
+			"isbns": [
+				"9783030545529"
+			]
+		},
+		{
+			"label": "Transatlantic relations: challenge and resilience",
+			"isbns": [
+				"9781000564426"
+			]
+		},
+		{
+			"label": "Terrorism and Transatlantic Relations: Threats and Challenges",
+			"isbns": [
+				"9783030833473"
+			]
+		},
+		{
+			"label": "NATO, the U.S., and Cold War 2.0",
+			"isbns": [
+				"9781433198304"
+			]
+		},
+		{
+			"label": "NATO and transatlantic relations in the 21st century",
+			"isbns": [
+				"9781000326475"
+			]
+		},
+		{
+			"label": "The transatlantic era (1989-2020) in documents and speeches",
+			"isbns": [
+				"9781000469356"
+			]
+		}
+	]
+}
