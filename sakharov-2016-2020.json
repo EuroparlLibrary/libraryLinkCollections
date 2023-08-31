@@ -1,0 +1,42 @@
+{
+	"label": "Books on Sakharov Prize 2016-2020",
+	"description": "A selection of titles on Sakharov Prize 2016-2020 available from the European Parliament Library.",
+	"list": [{
+			"label": "Disinformation, narratives and memory politics in Russia and Belarus",
+			"isbns": [
+				"9781000608472"
+			]
+		},
+		{
+			"label": "In the camps: life in China's high-tech penal colony",
+			"isbns": [
+				"9781838955922"
+			]
+		},
+		{
+			"label": "We Uyghurs have no say: an imprisoned writer speaks",
+			"isbns": [
+				"9781839764042"
+			]
+		},
+		{
+			"label": "The War in Ukraine’s Donbas : Origins, Contexts, and the Future",
+			"isbns": [
+				"9789633864197"
+			]
+		},
+		{
+			"label": "Populist moments and extractivist states in Venezuela and Ecuador",
+			"isbns": [
+				"9783030709631"
+			]
+		},
+		{
+			"label": "The last girl: my story of captivity and my fight against the Islamic State",
+			"isbns": [
+				"9780349009742"
+			]
+		}
+
+	]
+}
