@@ -1,0 +1,48 @@
+{
+	"label": "Books on Arctic and Nordic Dimension",
+	"description": "A selection of titles on Arctic and Nordic Dimension available from the European Parliament Library.",
+	"list": [{
+			"label": "Global Development in the Arctic",
+			"isbns": [
+				"9781003246015"
+			]
+		},
+		{
+			"label": "Arctic fever: political, economic & environmental aspects",
+			"isbns": [
+				"9789811696169"
+			]
+		},
+		{
+			"label": "Arctic opportunities and challenges",
+			"isbns": [
+				"9789811912467"
+			]
+		},
+		{
+			"label": "The security of Iceland and the Arctic 2030",
+			"isbns": [
+				"9783030899486"
+			]
+		},
+		{
+			"label": "Global Arctic: an introduction to the multifaceted dynamics of the Arctic",
+			"isbns": [
+				"9783030812539"
+			]
+		},
+		{
+			"label": "Renewable economies in the Arctic",
+			"isbns": [
+				"9781003172406"
+			]
+		},
+		{
+			"label": "Greenland's economy and labour markets",
+			"isbns": [
+				"9781000414370"
+			]
+		}
+
+	]
+}
