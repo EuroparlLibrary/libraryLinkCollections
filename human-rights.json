@@ -1,0 +1,60 @@
+{
+	"label": "Books on Human Rights",
+	"description": "A selection of titles on human rights available from the European Parliament Library.",
+	"list": [{
+			"label": "The European union and human rights: law and policy",
+			"isbns": [
+				"9780192543936"
+			]
+		},
+		{
+			"label": "Research handbook on human rights and humanitarian law",
+			"isbns": [
+				"9781789900972"
+			]
+		},
+		{
+			"label": "Human rights and the planet",
+			"isbns": [
+				"9781802204292"
+			]
+		},
+		{
+			"label": "The changing ethos of human rights",
+			"isbns": [
+				"9781839108433"
+			]
+		},
+		{
+			"label": "Research handbook on compliance in international human rights law",
+			"isbns": [
+				"9781788971126"
+			]
+		},
+		{
+			"label": "Human rights and international criminal law",
+			"isbns": [
+				"9789004447462"
+			]
+		},
+		{
+			"label": "Poverty and human rights",
+			"isbns": [
+				"9781839102110"
+			]
+		},
+		{
+			"label": "Advanced introduction to business and human rights",
+			"isbns": [
+				"9781789901283"
+			]
+		},
+		{
+			"label": "Critical issues in human rights and development",
+			"isbns": [
+				"9781781005972"
+			]
+		}
+
+	]
+}
