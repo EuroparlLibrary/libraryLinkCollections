@@ -1,0 +1,42 @@
+{
+	"label": "Books on Global Governance",
+	"description": "A selection of titles on global governance available from the European Parliament Library.",
+	"list": [{
+			"label": "Research handbook on global governance, business and human rights",
+			"isbns": [
+				"9781788979832"
+			]
+		},
+		{
+			"label": "Citizens, elites, and the legitimacy of global governance",
+			"isbns": [
+				"9780192668950"
+			]
+		},
+		{
+			"label": "EU global actorness in a world of contested leadership",
+			"isbns": [
+				"9783030929978"
+			]
+		},
+		{
+			"label": "Global legitimacy crises",
+			"isbns": [
+				"9780192669834"
+			]
+		},
+		{
+			"label": "Japan, the european union and global governance",
+			"isbns": [
+				"9781788114462"
+			]
+		},
+		{
+			"label": "China and global governance: a new leader?",
+			"isbns": [
+				"9783030704971"
+			]
+		}
+
+	]
+}
