@@ -1,0 +1,60 @@
+{
+	"label": "Books on China's External Policy",
+	"description": "A selection of titles on China's external policy available from the European Parliament Library.",
+	"list": [{
+			"label": "The ebb and flow of globalization: Chinese perspectives on China's development and role in the world",
+			"isbns": [
+				"9789811692536"
+			]
+		},
+		{
+			"label": "China and the West",
+			"isbns": [
+				"9781800374980"
+			]
+		},
+		{
+			"label": "China's role in global governance",
+			"isbns": [
+				"9789811666872"
+			]
+		},
+		{
+			"label": "China’s New World Order",
+			"isbns": [
+				"9781786437334"
+			]
+		},
+		{
+			"label": "China and the World in a Changing Context",
+			"isbns": [
+				"9789811680861"
+			]
+		},
+		{
+			"label": "China in Central Europe",
+			"isbns": [
+				"9781800371859"
+			]
+		},
+		{
+			"label": "Russia-China Relations: Emerging Alliance or Eternal Rivals?",
+			"isbns": [
+				"9783030970123"
+			]
+		},
+		{
+			"label": "How China Is Reshaping the Global Economy",
+			"isbns": [
+				"9780192691392"
+			]
+		},
+		{
+			"label": "The long game: China's grand strategy to displace American order",
+			"isbns": [
+				"9780197527870"
+			]
+		}
+
+	]
+}
