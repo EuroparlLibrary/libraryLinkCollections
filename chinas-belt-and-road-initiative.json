@@ -1,0 +1,41 @@
+{
+	"label": "Books on China's Belt and Road Initiative",
+	"description": "A selection of titles on China's Belt and Road Initiative available from the European Parliament Library.",
+	"list": [{
+			"label": "Research Handbook on the Belt and Road Initiative",
+			"isbns": [
+				"9781789908718"
+			]
+		},
+		{
+			"label": "China and the Belt and Road Initiative: trade relationships, business opportunities and political impacts",
+			"isbns": [
+				"9783030861223"
+			]
+		},
+		{
+			"label": "Greening China's New Silk Roads",
+			"isbns": [
+				"9781788977470"
+			]
+		},
+		{
+			"label": "The Belt and Road Initiative Green Development Case Studies Report 2020",
+			"isbns": [
+				"9789811631887"
+			]
+		},
+		{
+			"label": "The Belt and Road Initiative and the politics of connectivity",
+			"isbns": [
+				"9789811928642"
+			]
+		},
+		{
+			"label": "The Belt and Road : industrial and spatial coordinated development",
+			"isbns": [
+				"9789811921339"
+			]
+		}
+	]
+}
