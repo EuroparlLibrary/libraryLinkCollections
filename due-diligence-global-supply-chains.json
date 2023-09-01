@@ -1,0 +1,29 @@
+{
+	"label": "Books on Due Diligence for Global Supply Chains",
+	"description": "A selection of titles on due diligence for global supply chains available from the European Parliament Library.",
+	"list": [{
+			"label": "CSR and codes of business ethics in the USA, Austria (EU) and China and their enforcement in international supply chain arbitrations",
+			"isbns": [
+				"9789813360730"
+			]
+		},
+		{
+			"label": "Research handbook on global governance, business and human rights",
+			"isbns": [
+				"9781788979832"
+			]
+		},
+		{
+			"label": "Sustainable approaches in textiles and fashion",
+			"isbns": [
+				"9789811908743"
+			]
+		},
+		{
+			"label": "The Bangladesh Garment Industry and the Global Supply Chain",
+			"isbns": [
+				"9781000397611"
+			]
+		}
+	]
+}
