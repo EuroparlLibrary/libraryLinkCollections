@@ -1,0 +1,23 @@
+{
+	"label": "Books on EU Strategic Partnerships",
+	"description": "A selection of titles on EU strategic partnerships available from the European Parliament Library.",
+	"list": [{
+			"label": "The European Union's strategic partnerships",
+			"isbns": [
+				"9783030660611"
+			]
+		},
+		{
+			"label": "EU-India relations",
+			"isbns": [
+				"9783030650445"
+			]
+		},
+		{
+			"label": "Evaluating the Africa-EU partnership on peace and security",
+			"isbns": [
+				"9783031110313"
+			]
+		}
+	]
+}
