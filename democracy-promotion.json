@@ -1,0 +1,30 @@
+{
+	"label": "Books on Democracy Promotion",
+	"description": "A selection of titles on democracy promotion available from the European Parliament Library.",
+	"list": [{
+			"label": "EU good governance promotion in the age of democratic decline",
+			"isbns": [
+				"9783031057816"
+			]
+		},
+		{
+			"label": "International aid and democracy promotion",
+			"isbns": [
+				"9781003050438"
+			]
+		},
+		{
+			"label": "Democratism",
+			"isbns": [
+				"9781802204254"
+			]
+		},
+		{
+			"label": "Democratisation against Democracy",
+			"isbns": [
+				"9783030338831"
+			]
+		}
+
+	]
+}
