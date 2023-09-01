@@ -1,0 +1,60 @@
+{
+	"label": "Books on Genocide",
+	"description": "A selection of titles on genocide available from the European Parliament Library.",
+	"list": [{
+			"label": "State responses to crimes of genocide",
+			"isbns": [
+				"9783030991623"
+			]
+		},
+		{
+			"label": "The Crime of Genocide: Then and Now",
+			"isbns": [
+				"9789004519329"
+			]
+		},
+		{
+			"label": "Classifying genocide in international law",
+			"isbns": [
+				"9781000628517"
+			]
+		},
+		{
+			"label": "Genocide : key themes",
+			"isbns": [
+				"9780192688729"
+			]
+		},
+		{
+			"label": "Religion and genocide: changing the conversation",
+			"isbns": [
+				"9781000774474"
+			]
+		},
+		{
+			"label": "Denial: the final stage of genocide?",
+			"isbns": [
+				"9781000437362"
+			]
+		},
+		{
+			"label": "From discrimination to death: genocide process through a human rights lens",
+			"isbns": [
+				"9781000786330"
+			]
+		},
+		{
+			"label": "An Introduction to the criminology of genocide",
+			"isbns": [
+				"9783030652111"
+			]
+		},
+		{
+			"label": "Postgenocide: interdisciplinary reflections on the effects of genocide",
+			"isbns": [
+				"9780192648242"
+			]
+		}
+
+	]
+}
