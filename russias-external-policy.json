@@ -1,0 +1,48 @@
+{
+	"label": "Books on Russia's External Policy",
+	"description": "A selection of titles on Russia's external policy available from the European Parliament Library.",
+	"list": [{
+			"label": "The sources of Russian foreign policy assertiveness",
+			"isbns": [
+				"9783030835903"
+			]
+		},
+		{
+			"label": "The Routledge handbook of EU-Russian relations",
+			"isbns": [
+				"9781351006262"
+			]
+		},
+		{
+			"label": "Understanding Russian strategic behavior",
+			"isbns": [
+				"9780429524073"
+			]
+		},
+		{
+			"label": "Russia-China Relations: Emerging Alliance or Eternal Rivals?",
+			"isbns": [
+				"9783030970123"
+			]
+		},
+		{
+			"label": "Weak strongman: the limits of power in Putin's Russia",
+			"isbns": [
+				"9780691216980"
+			]
+		},
+		{
+			"label": "Russian nationalism and the Russian-Ukrainian War",
+			"isbns": [
+				"9781003191438"
+			]
+		},
+		{
+			"label": "Russia and the future of Europe",
+			"isbns": [
+				"9783030956486"
+			]
+		}
+
+	]
+}
