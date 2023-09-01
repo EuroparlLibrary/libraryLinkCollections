@@ -1,0 +1,41 @@
+{
+	"label": "Books on Security in the Sahel",
+	"description": "A selection of titles on security in the Sahel available from the European Parliament Library.",
+	"list": [{
+			"label": "Azawad's Facebook warriors",
+			"isbns": [
+				"9781433186370"
+			]
+		},
+		{
+			"label": "Humanitarian displacement and Boko Haram in Nigeria",
+			"isbns": [
+				"9783030997847"
+			]
+		},
+		{
+			"label": "EU missions and peacebuilding",
+			"isbns": [
+				"9781000520002"
+			]
+		},
+		{
+			"label": "Perspectives on the state borders in globalized Africa",
+			"isbns": [
+				"9781000542745"
+			]
+		},
+		{
+			"label": "Managing violent religious extremism in fragile states",
+			"isbns": [
+				"9781000459500"
+			]
+		},
+		{
+			"label": "Challenging the United Nations peace and security agenda in Africa",
+			"isbns": [
+				"9783030835231"
+			]
+		}
+	]
+}
