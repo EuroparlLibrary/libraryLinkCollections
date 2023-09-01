@@ -1,0 +1,42 @@
+{
+	"label": "Books on Development",
+	"description": "A selection of titles on development available from the European Parliament Library.",
+	"list": [{
+			"label": "EU Development Cooperation Policy",
+			"isbns": [
+				"9781800881310"
+			]
+		},
+		{
+			"label": "The European Union and global development",
+			"isbns": [
+				"9781000429152"
+			]
+		},
+		{
+			"label": "Handbook on the politics of international development",
+			"isbns": [
+				"9781839101915"
+			]
+		},
+		{
+			"label": "Handbook of Development Policy",
+			"isbns": [
+				"9781839100871"
+			]
+		},
+		{
+			"label": "The Routledge handbook on the history of development",
+			"isbns": [
+				"9780429356940"
+			]
+		},
+		{
+			"label": "Critical Issues in Human Rights and Development",
+			"isbns": [
+				"9781781005972"
+			]
+		}
+
+	]
+}
