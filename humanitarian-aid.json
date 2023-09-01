@@ -1,0 +1,42 @@
+{
+	"label": "Books on Humanitarian Aid",
+	"description": "A selection of titles on humanitarian aid available from the European Parliament Library.",
+	"list": [{
+			"label": "The Humanitarian Exit Dilemma",
+			"isbns": [
+				"9781000894066"
+			]
+		},
+		{
+			"label": "Understanding Humanitarian Protection",
+			"isbns": [
+				"9781000547788"
+			]
+		},
+		{
+			"label": "Continental Encampment",
+			"isbns": [
+				"9781800738454"
+			]
+		},
+		{
+			"label": "Child Rights in Humanitarian Crisis",
+			"isbns": [
+				"9781000849714"
+			]
+		},
+		{
+			"label": "Innovative humanitarian financing",
+			"isbns": [
+				"9783030832094"
+			]
+		},
+		{
+			"label": "Humanitarian logistics from the disaster risk reduction perspective",
+			"isbns": [
+				"9783030908775"
+			]
+		}
+
+	]
+}
