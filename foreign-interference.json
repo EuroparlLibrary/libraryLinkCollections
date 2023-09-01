@@ -1,0 +1,42 @@
+{
+	"label": "Books on Foreign Interference Including Disinformation",
+	"description": "A selection of titles on foreign interference including disinformation available from the European Parliament Library.",
+	"list": [{
+			"label": "Tyrants on Twitter",
+			"isbns": [
+				"9781503631151"
+			]
+		},
+		{
+			"label": "Politics of disinformation",
+			"isbns": [
+				"9781119743323"
+			]
+		},
+		{
+			"label": "Criminal fraud and election disinformation",
+			"isbns": [
+				"9780192658845"
+			]
+		},
+		{
+			"label": "The Infodemic",
+			"isbns": [
+				"9780755640768"
+			]
+		},
+		{
+			"label": "Democratic Vulnerability and Autocratic Meddling",
+			"isbns": [
+				"9783030546021"
+			]
+		},
+		{
+			"label": "Democracy and fake news",
+			"isbns": [
+				"9781003037385"
+			]
+		}
+
+	]
+}
