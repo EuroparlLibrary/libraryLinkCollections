@@ -1,11 +1,10 @@
 {
-	"label": "Energy Saving",
-	"description": "A selection of titles on Energy Saving available from the European Parliament Library.",
+	"label": "Books on Energy Saving",
+	"description": "A selection of titles on energy saving available from the European Parliament Library.",
 	"list": [{
-			"label": "Energy Management: Conservation and Audits",
+			"label": "Energy Services Fundamentals and Financing",
 			"isbns": [
-				"9780367343835",
-				"9781000068375"
+				"9780128226674"
 			]
 		},
 		{
