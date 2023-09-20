@@ -2,12 +2,6 @@
 	"label": "Books on Beating Cancer",
 	"description": "A selection of titles on beating cancer available from the European Parliament Library.",
 	"list": [{
-			"label": "Pained",
-			"isbns": [
-				"9780197510391"
-			]
-		},
-		{
 			"label": "Clinical Handbook of Air Pollution-Related Diseases",
 			"isbns": [
 				"9783319627311"
