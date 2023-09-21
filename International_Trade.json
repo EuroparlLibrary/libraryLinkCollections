@@ -1,0 +1,58 @@
+{
+	"label": "International Trade",
+	"description": "A selection of titles on International Trade available from the European Parliament Library.",
+	"list": [{
+			"label": "Narrowing the channel, the politics of regulatory protection in international trade",
+			"isbns": [
+				
+				"9783030605223"
+			]
+		},
+{
+			"label": "The handbook of global trade policy",
+			"isbns": [
+				
+				"9781119167433"
+			]
+		},
+		{
+			"label": "Research handbook on the arms trade",
+			"isbns": [
+				
+				"9781789900996"
+			]
+		},
+		{
+			"label": "Research handbook on trade wars",
+			"isbns": [
+				
+				"9781839105708"
+			]
+		},
+		{
+			"label": "Engagement between trade and investment, the role of PTIAs",
+			"isbns": [
+				"9783030832599"
+			]
+		},
+{
+			"label": "The sources of WTO law and their interpretation, is the new ok, ok?",
+			"isbns": [
+				
+				"9781803921723"
+			]
+		},
+		{
+			"label": "Handbook on trade policy and climate change",
+			"isbns": [
+				"9781839103247"
+			]
+		},
+{
+			"label": "Ethical value networks in international trade, social justice, sustainability and provenance in the Global South",
+			"isbns": [
+				"9781800374508"
+			]
+		}
+	]
+}
