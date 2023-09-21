@@ -1,0 +1,39 @@
+{
+	"label": "Latin America",
+	"description": "A selection of titles on Latin America available from the European Parliament Library.",
+	"list": [{
+			"label": "The new Latin America",
+			"isbns": [
+				
+				"9781509540020"
+			]
+		},
+{
+			"label": "The costs of inequality in Latin America : lessons and warnings for the rest of the world",
+			"isbns": [
+				
+				" 9781838606237"
+			]
+		},
+		{
+			"label": "Capital movements and corporate dominance in Latin America, reduced growth and increased instability",
+			"isbns": [
+				
+				"9781800372146"
+			]
+		},
+		{
+			"label": "Globalisation and Energy Transition in Latin America and the Caribbean : Economic Growth and Policy Implications",
+			"isbns": [
+				
+				"9783031138850"
+			]
+		},
+		{
+			"label": "Political representation and gender equality in Mexico",
+			"isbns": [
+				"9783030967130"
+			]
+		}		
+	]
+}
