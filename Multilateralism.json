@@ -1,0 +1,40 @@
+{
+	"label": "Multilateralism",
+	"description": "A selection of titles on Multilateralism available from the European Parliament Library.",
+	"list": [{
+			"label": "Europe's grand strategy, navigating a new world order",
+			"isbns": [
+				
+				"9783030605223"
+			]
+		},
+{
+			"label": "Le premier XXIe siècle, de la globalisation à l'émiettement du monde",
+			"isbns": [
+				
+				"9782080255969"
+			]
+		},
+		{
+			"label": "EU-China-Africa Trilateral Relations in a Multipolar World, Hic Sunt Dracones",
+			"isbns": [
+				
+				"9781137587022"
+			]
+		},
+		{
+			"label": "The evolving relationship between China, the EU and the USA, a new global order?",
+			"isbns": [
+				
+				"9780429651939"
+			]
+		},
+		{
+			"label": "The world turned upside down, America, China, and the struggle for global leadership",
+			"isbns": [
+				"9780300248494"
+			]
+		}
+	]
+}
+	
