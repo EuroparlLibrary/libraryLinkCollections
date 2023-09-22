@@ -1,0 +1,39 @@
+{
+	"label": "China and Human Rights",
+	"description": "A selection of titles on China and Human Rights available from the European Parliament Library.",
+	"list": [{
+			"label": "China and autocracy, political influence and the limits of global democracy",
+			"isbns": [
+
+				"9781788312646"
+			]
+		},
+		{
+			"label": "Chinese contributions to international discourse of human rights",
+			"isbns": [
+
+				"9789811905803"
+			]
+		},
+		{
+			"label": "China's path of human rights development",
+			"isbns": [
+
+				"9789811639814"
+			]
+		},
+		{
+			"label": "Handbook of protest and resistance in China",
+			"isbns": [
+
+				"9781786433787"
+			]
+		},
+		{
+			"label": "Handbook on human rights in China",
+			"isbns": [
+				"9781786433688"
+			]
+		}
+	]
+}
