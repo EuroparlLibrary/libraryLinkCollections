@@ -2,12 +2,6 @@
 	"label": "Books on EU Research and Innovation",
 	"description": "A selection of titles on EU research and innovation available from the European Parliament Library.",
 	"list": [{
-			"label": "Innovation im Wohlfahrtsstaat",
-			"isbns": [
-				"9783848781348"
-			]
-		},
-		{
 			"label": "European Union Research Policy",
 			"isbns": [
 				"9783030413958"
