@@ -1,0 +1,39 @@
+{
+	"label": "External Aspects of the EU Migration Policies",
+	"description": "A selection of titles on External Aspects of the EU Migration Policies available from the European Parliament Library.",
+	"list": [{
+			"label": "Migration and the European Convention on Human Rights",
+			"isbns": [
+
+				"9780192895196"
+			]
+		},
+		{
+			"label": "The interplay between the EU's return acquis and international law",
+			"isbns": [
+
+				"9781839105234"
+			]
+		},
+		{
+			"label": "Migration Conundrums, Regional Integration and Development, Africa-Europe Relations in a Changing Global Order",
+			"isbns": [
+
+				"9789811524783"
+			]
+		},
+		{
+			"label": "Law and judicial dialogue on the return of irregular migrants from the European Union",
+			"isbns": [
+
+				"9781509922963"
+			]
+		},
+		{
+			"label": "Implementing EU mobility partnerships, putting soft law into practice",
+			"isbns": [
+				"9781000077384"
+			]
+		}
+	]
+}
