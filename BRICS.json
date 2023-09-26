@@ -1,0 +1,39 @@
+{
+	"label": "BRICS",
+	"description": "A selection of titles on BRICS available from the European Parliament Library.",
+	"list": [{
+			"label": "Handbook of BRICS and emerging economies",
+			"isbns": [
+
+				"9780198827535"
+			]
+		},
+		{
+			"label": "Locating BRICS in the Global Order, Perspectives from the Global South",
+			"isbns": [
+
+				"9781000738766"
+			]
+		},
+		{
+			"label": "Future of the BRICS and the role of Russia and China",
+			"isbns": [
+
+				"9789811911156"
+			]
+		},
+		{
+			"label": "The political economy of intra-BRICS cooperation, challenges and prospects",
+			"isbns": [
+
+				"9783030973971"
+			]
+		},
+		{
+			"label": "The principles of BRICS contract law : ǂb a comparative study of general principles governing international commercial contracts in the BRICS countries",
+			"isbns": [
+				"9783031008443"
+			]
+		}
+	]
+}
