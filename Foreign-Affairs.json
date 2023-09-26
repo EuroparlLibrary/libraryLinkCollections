@@ -1,0 +1,57 @@
+{
+	"label": "Foreign Affairs",
+	"description": "A selection of titles on Foreign Affairs.",
+	"list": [{
+			"label": "The foreign policy of the European Union",
+			"isbns": [
+				
+				"9781350930483"
+			]
+		},
+{
+			"label": "EU global actorness in a world of contested leadership, policies, instruments and perceptions",
+			"isbns": [
+				
+				"9783030929978"
+			]
+		},
+		{
+			"label": "Understanding the EU as a good global actor, ambitions, values and metrics",
+			"isbns": [
+				
+				"9781802202984"
+			]
+		},
+		{
+			"label": "The everyday making of EU foreign and security policy, practices, socialization and the management of dissent",
+			"isbns": [
+				
+				"9781789907551"
+			]
+		},
+		{
+			"label": "Polarity in International Relations, Past, Present, Future",
+			"isbns": [
+				"9783031055058"
+			]
+		},
+{
+			"label": "The EU and its relations with Eastern Europe, mutual animosity, unattainable friendship and faraway neighbours",
+			"isbns": [
+				"9781785365409"
+			]
+		},
+{
+			"label": "Ministries of Foreign Affairs in the World : Actors of State Diplomacy",
+			"isbns": [
+				"9789004505889"
+			]
+		}, 
+{
+			"label": "The Trade-Security Nexus in EU External Action - A Practice Approach",
+			"isbns": [
+				"9783030907969"
+			]
+		}
+	]
+}
