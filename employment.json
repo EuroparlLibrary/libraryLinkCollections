@@ -2,12 +2,6 @@
 	"label": "Books on Employment",
 	"description": "A selection of titles on employment available from the European Parliament Library.",
 	"list": [{
-			"label": "Employment discrimination",
-			"isbns": [
-				"9780190085438"
-			]
-		},
-		{
 			"label": "The future of the employment contract",
 			"isbns": [
 				"9781783479689"
