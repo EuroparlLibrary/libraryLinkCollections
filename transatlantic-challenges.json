@@ -2,12 +2,6 @@
 	"label": "Books on Transatlantic Challenges",
 	"description": "A selection of titles on transatlantic challenges available from the European Parliament Library.",
 	"list": [{
-			"label": "Partners of first resort",
-			"isbns": [
-				"9780815738510"
-			]
-		},
-		{
 			"label": "Threats to Euro-Atlantic Security",
 			"isbns": [
 				"9783030197308"
