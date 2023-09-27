@@ -2,12 +2,6 @@
 	"label": "Books on Civil Protection and Disaster Preparedness",
 	"description": "A selection of titles on civil protection and disaster preparedness available from the European Parliament Library.",
 	"list": [{
-			"label": "Disaster preparedness and response",
-			"isbns": [
-				"9780197580165"
-			]
-		},
-		{
 			"label": "Enhancing Disaster Preparedness",
 			"isbns": [
 				"9780128190791"
