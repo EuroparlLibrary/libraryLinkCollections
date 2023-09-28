@@ -1,0 +1,40 @@
+{
+	"label": "Maritime Security",
+	"description": "A selection of titles on Maritime Security.",
+	"list": [{
+			"label": "The development of the EU as a sea-policy actor, fish, ships and navies",
+			"isbns": [
+
+				"9781839101250"
+			]
+		},
+		{
+			"label": "Europe, Small Navies and Maritime Security, Balancing Traditional Roles and Emergent Threats in the 21st Century",
+			"isbns": [
+
+				"9781000693997"
+			]
+		},
+		{
+			"label": "Capacity building for maritime security, the Western Indian Ocean experience",
+			"isbns": [
+
+				"9783030500641"
+			]
+		},
+		{
+			"label": "Maritime security and the law of the sea, help or hindrance?",
+			"isbns": [
+
+				"9781788971416"
+			]
+		},
+		{
+			"label": "Piracy and the Privatisation of Maritime Security, Vessel Protection Policies Compared",
+			"isbns": [
+
+				"9783030501563"
+			]
+		}
+	]
+}
