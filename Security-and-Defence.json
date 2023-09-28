@@ -1,0 +1,54 @@
+{
+	"label": "Security and Defence",
+	"description": "A selection of titles on Security and Defence.",
+	"list": [{
+			"label": "Future war and the defence of Europe",
+			"isbns": [
+
+				"9780198855835"
+			]
+		},
+		{
+			"label": "The EU security continuum : blurring internal and external security",
+			"isbns": [
+
+				"9781138026094"
+			]
+		},
+		{
+			"label": "European strategic autonomy and small states' security : in the shadow of power",
+			"isbns": [
+
+				"9781003324867"
+			]
+		},
+		{
+			"label": "The Politics of Third Countries in EU Security and Defence - Norway, Brexit and Beyond ",
+			"isbns": [
+
+				"9783031009396"
+			]
+		},
+		{
+			"label": "The European Union’s Trade Defence Modernisation Package - A Missed Opportunity at Reconciling Trade and Competition ? ",
+			"isbns": [
+
+				"9783030913632"
+			]
+		},
+		{
+			"label": "The Evolution of the Common Security and Defence Policy - Critical Junctures and the Quest for EU Strategic Autonomy ? ",
+			"isbns": [
+
+				"9783030991586"
+			]
+		},
+		{
+			"label": "The Everyday Making of EU Foreign and Security Policy",
+			"isbns": [
+
+				"9781789907551"
+			]
+		}
+	]
+}
