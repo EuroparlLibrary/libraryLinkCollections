@@ -2,9 +2,21 @@
 	"label": "Books on Energy Security in Europe",
 	"description": "A selection of titles on energy security in Europe available from the European Parliament Library.",
 	"list": [{
-			"label": "The European Union's energy security and Turkey's role in the Southern Gas Corridor",
+			"label": "Routledge handbook of energy democracy",
 			"isbns": [
-				"9783631744789"
+				"9780429402302"
+			]
+		},
+		{
+			"label": "Russia's Invasion of Ukraine: Economic Challenges, Embargo Issues and a New Global Economic Order",
+			"isbns": [
+				"9783031191381"
+			]
+		},
+		{
+			"label": "Principled pragmatism in practice : the EU's policy towards russia after crimea",
+			"isbns": [
+				"9789004453715"
 			]
 		},
 		{
