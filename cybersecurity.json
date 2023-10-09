@@ -2,12 +2,6 @@
 	"label": "Books on Cybersecurity",
 	"description": "A selection of titles on cybersecurity available from the European Parliament Library.",
 	"list": [{
-			"label": "Cyberdiplomacy",
-			"isbns": [
-				"9781509535934"
-			]
-		},
-		{
 			"label": "Cyber arms: security in cyberspace",
 			"isbns": [
 				"9781000081039"
