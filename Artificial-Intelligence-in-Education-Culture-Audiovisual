@@ -1,0 +1,29 @@
+{
+	"label": "Books on Artificial Intelligence in Education, Culture and Audiovisual Sector",
+	"description": "A selection of titles on Artificial Intelligence in Education, Culture and Audiovisual Sector available from the European Parliament Library.",
+	"list": [{
+			"label": "Artificial intelligence in Society",
+			"isbns": [
+				"9789264925434"
+			]
+		},
+		{
+			"label": "The Culture of AI, Everyday Life and the Digital Revolution",
+			"isbns": [
+				"9789264925434"
+			]
+		},
+		{
+			"label": "Understanding Religion through Artificial Intelligence, Bonding and Belief",
+			"isbns": [
+				"9781350103573"
+			]
+		},
+		{
+			"label": "Opting out of Digital Media",
+			"isbns": [
+				"9780429892288"
+			]
+		}
+	]
+}
