@@ -1,0 +1,36 @@
+{
+	"label": "Books on Transport",
+	"description": "A selection of titles on transport available from the European Parliament Library.",
+	"list": [{
+			"label": "Handbook on public private partnerships in transportation",
+			"isbns": [
+				"9783030834845"
+			]
+		},
+		{
+			"label": "Transformation of transportation",
+			"isbns": [
+				"9783030664640"
+			]
+		},
+		{
+			"label": "New methods, reflections and applications domains in transport appraisal",
+			"isbns": [
+				"9780323855600"
+			]
+		},
+		{
+			"label": "Benchmarking and Regulation in Transport",
+			"isbns": [
+				"9781800374348"
+			]
+		},
+		{
+			"label": "Handbook of public transport research",
+			"isbns": [
+				"9781788978668"
+			]
+		}
+
+	]
+}
