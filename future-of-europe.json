@@ -1,0 +1,48 @@
+{
+	"label": "Books on Future of Europe",
+	"description": "A selection of titles on the future of Europe available from the European Parliament Library.",
+	"list": [{
+			"label": "The Routledge Handbook of Differentiation in the European Union",
+			"isbns": [
+				"9780429054136"
+			]
+		},
+		{
+			"label": "European futures",
+			"isbns": [
+				"9781000366341"
+			]
+		},
+		{
+			"label": "Tracing the politicisation of the EU",
+			"isbns": [
+				"9783030827007"
+			]
+		},
+		{
+			"label": "The legal limits of direct democracy",
+			"isbns": [
+				"9781800372801"
+			]
+		},
+		{
+			"label": "Negotiating unity and diversity in the European Union",
+			"isbns": [
+				"9783030550165"
+			]
+		},
+		{
+			"label": "Euroscepticism and the future of Europe",
+			"isbns": [
+				"9783030412722"
+			]
+		},
+		{
+			"label": "European Integration Beyond Brussels",
+			"isbns": [
+				"9783030454456"
+			]
+		}
+
+	]
+}
