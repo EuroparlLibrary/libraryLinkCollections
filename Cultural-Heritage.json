@@ -1,0 +1,54 @@
+{
+	"label": "Cultural Heritage",
+	"description": "A selection of titles on Cultural Heritage",
+	"list": [{
+			"label": "The European culture area : a systematic geography",
+			"isbns": [
+				
+				"9781538127599"
+			]
+		},
+{
+			"label": "Legalized Identities : Cultural Heritage Law and the Shaping of Transitional Justice",
+			"isbns": [
+				
+				"9781108854870"
+			]
+		},
+		{
+			"label": "Frontiers of Cultural Heritage Law",
+			"isbns": [
+				
+				"9789004347649"
+			]
+		},
+		{
+			"label": "Cultural Heritage and Tourism",
+			"isbns": [
+				
+				"9783631842461"
+			]
+		},
+		{
+			"label": "Creating and Governing Cultural Heritage in the European Union",
+			"isbns": [
+				
+				"9780429053542"
+			]
+		},
+		{
+			"label": "Intangible Cultural Heritage Under National and International Law",
+			"isbns": [
+				
+				"9781839100031"
+			]
+		},
+		{
+			"label": "The Protection of Cultural Heritage During Armed Conflict: The Changing Paradigms",
+			"isbns": [
+				
+				"9781000059250"
+			]
+		}
+	]
+}
