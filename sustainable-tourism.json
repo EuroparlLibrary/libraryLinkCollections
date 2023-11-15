@@ -1,0 +1,36 @@
+{
+	"label": "Books on Sustainable Tourism",
+	"description": "A selection of titles on sustainable tourism available from the European Parliament Library.",
+	"list": [{
+			"label": "Handbook for sustainable tourism practitioners",
+			"isbns": [
+				"9781788970082"
+			]
+		},
+		{
+			"label": "Environment, Resources and Sustainable Tourism",
+			"isbns": [
+				"9789819918430"
+			]
+		},
+		{
+			"label": "Sustainability in tourism",
+			"isbns": [
+				"9798886970234"
+			]
+		},
+		{
+			"label": "Degrowth and tourism",
+			"isbns": [
+				"9781000340204"
+			]
+		},
+		{
+			"label": "Overtourism and tourism education",
+			"isbns": [
+				"9781000226171"
+			]
+		}
+
+	]
+}
