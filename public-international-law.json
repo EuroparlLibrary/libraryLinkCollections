@@ -1,0 +1,36 @@
+{
+	"label": "Books on Public International Law",
+	"description": "A selection of titles on public international law available from the European Parliament Library.",
+	"list": [{
+			"label": "Democracy and Sovereignty: Rethinking the Legitimacy of Public International Law",
+			"isbns": [
+				"9789004508712"
+			]
+		},
+		{
+			"label": "Blurry boundaries of public and private international law",
+			"isbns": [
+				"9789811684791"
+			]
+		},
+		{
+			"label": "Public policy and private international law",
+			"isbns": [
+				"9781789902662"
+			]
+		},
+		{
+			"label": "Causation in international law",
+			"isbns": [
+				"9781803922447"
+			]
+		},
+		{
+			"label": "Research handbook on international law and human security",
+			"isbns": [
+				"9781800376977"
+			]
+		}
+
+	]
+}
