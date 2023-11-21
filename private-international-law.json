@@ -1,0 +1,36 @@
+{
+	"label": "Books on Private International Law",
+	"description": "A selection of titles on private international law available from the European Parliament Library.",
+	"list": [{
+			"label": "Private International Law and the Internet",
+			"isbns": [
+				"9789403511139"
+			]
+		},
+		{
+			"label": "Private International Law: Idealism, Pragmatism, Eclecticism",
+			"isbns": [
+				"9789004503915"
+			]
+		},
+		{
+			"label": "Imperativeness in private international law",
+			"isbns": [
+				"9789462654990"
+			]
+		},
+		{
+			"label": "Landmark Cases in Private International Law",
+			"isbns": [
+				"9781509952670"
+			]
+		},
+		{
+			"label": "Public policy and private international law",
+			"isbns": [
+				"9781789902662"
+			]
+		}
+
+	]
+}
