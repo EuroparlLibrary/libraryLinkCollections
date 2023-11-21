@@ -1,0 +1,36 @@
+{
+	"label": "Books on Populism in Europe",
+	"description": "A selection of titles on populism in Europe available from the European Parliament Library.",
+	"list": [{
+			"label": "Populism and the politicization of the COVID-19 crisis in Europe",
+			"isbns": [
+				"9783030660116"
+			]
+		},
+		{
+			"label": "Globalisation, populism, pandemics and the law",
+			"isbns": [
+				"9781788976855"
+			]
+		},
+		{
+			"label": "Populism and corruption: the other side of the coin",
+			"isbns": [
+				"9781839109676"
+			]
+		},
+		{
+			"label": "Handbook on austerity, populism and the welfare state",
+			"isbns": [
+				"9781789906745"
+			]
+		},
+		{
+			"label": "Migrations- und Fluchtdiskurse: Im Zeichen des Erstarkenden Rechtspopulismus",
+			"isbns": [
+				"9783658324988"
+			]
+		}
+
+	]
+}
