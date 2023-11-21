@@ -1,0 +1,36 @@
+{
+	"label": "Books on Railway Transport",
+	"description": "A selection of titles on railway transport available from the European Parliament Library.",
+	"list": [{
+			"label": "Railway transportation in South Asia",
+			"isbns": [
+				"9783030768782"
+			]
+		},
+		{
+			"label": "The privatisation of British rail: How not to run a railway",
+			"isbns": [
+				"9781000880922"
+			]
+		},
+		{
+			"label": "Transport development challenges in the 21st century",
+			"isbns": [
+				"9783030500108"
+			]
+		},
+		{
+			"label": "Benchmarking and Regulation in Transport",
+			"isbns": [
+				"9781800374348"
+			]
+		},
+		{
+			"label": "Economic Evaluation of Transport Projects",
+			"isbns": [
+				"9783031359590"
+			]
+		}
+
+	]
+}
