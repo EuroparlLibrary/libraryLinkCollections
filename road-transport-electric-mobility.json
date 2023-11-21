@@ -1,0 +1,30 @@
+{
+	"label": "Books on Road Transport and Electric Mobility",
+	"description": "A selection of titles on road transport and electric mobility available from the European Parliament Library.",
+	"list": [{
+			"label": "The global rise of the modern plug-in electric vehicle",
+			"isbns": [
+				"9781800880139"
+			]
+		},
+		{
+			"label": "Fast charging and resilient transportation infrastructures in smart cities",
+			"isbns": [
+				"9783031095009"
+			]
+		},
+		{
+			"label": "Electric Mobility in Public Transport-Driving Towards Cleaner Air",
+			"isbns": [
+				"9783030674311"
+			]
+		},
+		{
+			"label": "The Innovation Odyssey",
+			"isbns": [
+				"9781000866230"
+			]
+		}
+
+	]
+}
