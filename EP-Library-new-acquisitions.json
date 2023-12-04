@@ -1,0 +1,222 @@
+{
+	"label": "EP Library new acquisitions",
+	"description": "A selection of latest titles available from the European Parliament Library.",
+	"list": [{
+			"label": "Biodiversity: threats and conservation",
+			"isbns": [
+				"9781000738988"
+			]
+		},
+		{
+			"label": "One Bold Move a Day",
+			"isbns": [
+				"9781264278077"
+			]
+		},
+		{
+			"label": "Energy resources: examining the facts",
+			"isbns": [
+				"9798216079729"
+			]
+		},
+		{
+			"label": "The Ruble: A Political History",
+			"isbns": [
+				"9780197663738"
+			]
+		},
+		{
+			"label": "Understanding the Metaverse",
+			"isbns": [
+				"9781119913641"
+			]
+		},
+		{
+			"label": "Uber",
+			"isbns": [
+				"9798216028819"
+			]
+		},
+		{
+			"label": "Renewable Energy in Circular Economy",
+			"isbns": [
+				"9783031422201"
+			]
+		},
+		{
+			"label": "Why We Forget and How to Remember Better",
+			"isbns": [
+				"9780197607756"
+			]
+		},
+		{
+			"label": "Refugee System: A Sociological Approach",
+			"isbns": [
+				"9781509542796"
+			]
+		},
+		{
+			"label": "The women's rights movement since 1945",
+			"isbns": [
+				"9798216182825"
+			]
+		},
+		{
+			"label": "Homelands: a personal history of Europe",
+			"isbns": [
+				"9781847926616"
+			]
+		},
+		{
+			"label": "Look",
+			"isbns": [
+				"9780593542217"
+			]
+		},
+		{
+			"label": "Ways of being",
+			"isbns": [
+				"9780141994260"
+			]
+		},
+		{
+			"label": "China After Mao: The Rise of a Superpower",
+			"isbns": [
+				"9781526634306"
+			]
+		},
+		{
+			"label": "The EU political system after the 2019 European elections",
+			"isbns": [
+				"9783031123375"
+			]
+		},
+		{
+			"label": "Reinventing Europe",
+			"isbns": [
+				"9781350213081"
+			]
+		},
+		{
+			"label": "The EU under strain?",
+			"isbns": [
+				"9783110790252"
+			]
+		},
+		{
+			"label": "Vulnerability and Data Protection Law",
+			"isbns": [
+				"9780192870339"
+			]
+		},
+		{
+			"label": "EU Law",
+			"isbns": [
+				"9781108927468"
+			]
+		},
+		{
+			"label": "Inside the deal: how the EU got Brexit done",
+			"isbns": [
+				"9781788215688"
+			]
+		},
+		{
+			"label": "Illiberal Europe?",
+			"isbns": [
+				"9780857305510"
+			]
+		},
+		{
+			"label": "The nowhere office",
+			"isbns": [
+				"9781529396560"
+			]
+		},
+		{
+			"label": "Europe's coming of age",
+			"isbns": [
+				"9781509554553"
+			]
+		},
+		{
+			"label": "Be your future self now",
+			"isbns": [
+				"9781401974015"
+			]
+		},
+		{
+			"label": "International Development",
+			"isbns": [
+				"9781509545155"
+			]
+		},
+		{
+			"label": "The Russo-Ukrainian war",
+			"isbns": [
+				"9780241633526"
+			]
+		},
+		{
+			"label": "Digital empires",
+			"isbns": [
+				"9780197649282"
+			]
+		},
+		{
+			"label": "No-regret decisions",
+			"isbns": [
+				"9781443463454"
+			]
+		},
+		{
+			"label": "The treeline",
+			"isbns": [
+				"9781529112504"
+			]
+		},
+		{
+			"label": "How Civil Wars Start",
+			"isbns": [
+				"9780241988398"
+			]
+		},
+		{
+			"label": "Myths of leadership",
+			"isbns": [
+				"9781398608276"
+			]
+		},
+		{
+			"label": "Overreach",
+			"isbns": [
+				"9780190068516"
+			]
+		},
+		{
+			"label": "Immigration in the court of public opinion",
+			"isbns": [
+				"9781509550685"
+			]
+		},
+		{
+			"label": "Pegasus",
+			"isbns": [
+				"9781529094831"
+			]
+		},
+		{
+			"label": "Myths of social media",
+			"isbns": [
+				"9781398607781"
+			]
+		},
+		{
+			"label": " ",
+			"isbns": [
+				" "
+			]
+		}
+
+	]
+}
