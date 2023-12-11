@@ -1,0 +1,40 @@
+{
+	"label": "Culture",
+	"description": "A selection of titles on Culture",
+	"list": [{
+			"label": "The European culture area : a systematic geography",
+			"isbns": [
+				
+				"9781538127599"
+			]
+		},
+{
+			"label": " The European Capital of Culture 2016 Effect : How the ECOC Competition Changed Polish Cities",
+			"isbns": [
+				
+				"9783631818787"
+			]
+		},
+		{
+			"label": "Cultural Heritage in the European Union",
+			"isbns": [
+				
+				"9789004365346"
+			]
+		},
+		{
+			"label": "Cultural Mega-Events",
+			"isbns": [
+				
+				"9780429285325"
+			]
+		},
+		{
+			"label": "Handbook of Cultural Economics, Third Edition",
+			"isbns": [
+				
+				"9781788975803"
+			]
+		}
+	]
+}
