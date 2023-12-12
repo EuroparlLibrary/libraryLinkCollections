@@ -1,0 +1,34 @@
+{
+	"label": "Distance Education",
+	"description": "A selection of titles on Distance Education",
+	"list": [{
+			"label": "Handbook of research on online discussion-based teaching methods",
+			"isbns": [
+				
+				"9781799832928"
+			]
+		},
+{
+			"label": "Paradigm shift in education : towards the third wave of effectiveness",
+			"isbns": [
+				
+				"9781138388024"
+			]
+		},
+		{
+			"label": "Higher Education in 2040: A Global Approach",
+			"isbns": [
+				
+				"9789462984509"
+			]
+		},
+		{
+			"label": "Assessment in open, distance, and e-learning:, lessons from practice",
+			"isbns": [
+				
+				"9781138361034"
+			]
+		}
+		
+	]
+}
