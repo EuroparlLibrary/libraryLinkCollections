@@ -1,0 +1,40 @@
+{
+	"label": "Digital Technologies Applied to Agriculture",
+	"description": "A selection of titles on Digital Technologies Applied to Agriculture",
+	"list": [{
+			"label": "Smart agriculture : emerging pedagogies of deep learning, machine learning and Internet of Things",
+			"isbns": [
+				
+				"9781000327892"
+			]
+		},
+{
+			"label": "Agricultural internet of things and decision support for precision smart farming",
+			"isbns": [
+				
+				"9780128183748"
+			]
+		},
+		{
+			"label": "Smart development for rural areas",
+			"isbns": [
+				
+				"9781000066999"
+			]
+		},
+		{
+			"label": "Unmanned Aerial Vehicle: Applications in Agriculture and Environment",
+			"isbns": [
+				
+				"9783030271572"
+			]
+		},
+		{
+			"label": "Transforming agriculture in southern Africa, constraints, technologies, policies and processes",
+			"isbns": [
+				
+				"9780429401701"
+			]
+		}
+	]
+}
