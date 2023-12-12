@@ -1,0 +1,40 @@
+{
+	"label": "Data Protection in the EU, ePrivacy and Data Retention",
+	"description": "A selection of titles on Data Protection in the EU, ePrivacy and Data Retention",
+	"list": [{
+			"label": "Privacy is power : why and how you should take back control of your data",
+			"isbns": [
+				
+				"9781787634046"
+			]
+		},
+{
+			"label": "Data Protection Beyond Borders : Transatlantic Perspectives on Extraterritoriality and Sovereignty",
+			"isbns": [
+				
+				"9781509940660"
+			]
+		},
+		{
+			"label": "Regulating Online Behavioural Advertising Through Data Protection Law",
+			"isbns": [
+				
+				"9781839108297"
+			]
+		},
+		{
+			"label": "Data Protection Law in the EU: Roles, Responsibilities and Liability",
+			"isbns": [
+				
+				"9781780688282"
+			]
+		},
+		{
+			"label": "The risk-based approach to data protection",
+			"isbns": [
+				
+				"9780198837718"
+			]
+		}
+	]
+}
