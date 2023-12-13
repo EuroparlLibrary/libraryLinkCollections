@@ -1,0 +1,33 @@
+{
+	"label": "EU Law: Legal Systems and Acts",
+	"description": "A selection of titles on EU Law: Legal Systems and Acts",
+	"list": [{
+			"label": "European Union law, a very short introduction ",
+			"isbns": [
+				
+				"9780198749981"
+			]
+		},
+{
+			"label": "A Fiduciary Approach to Delegated and Implementing Rule-Making in the EU",
+			"isbns": [
+				
+				"9783030263003"
+			]
+		},
+		{
+			"label": "The Oxford Handbook of European Union Law",
+			"isbns": [
+				
+				"9780199672646 "
+			]
+		},
+		{
+			"label": "The Authority of EU Law Do We Still Believe in It?",
+			"isbns": [
+				
+				"9783662588413"
+			]
+		}
+	]
+}
