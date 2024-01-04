@@ -1,0 +1,40 @@
+{
+	"label": "Fisheries",
+	"description": "A selection of titles on Fisheries",
+	"list": [{
+			"label": "Vanishing fish : shifting baselines and the future of global fisheries",
+			"isbns": [
+				
+				"9781771643986"
+			]
+		},
+{
+			"label": " Fishing Power Europe : The EU’s Normativity in Its External Fisheries Action",
+			"isbns": [
+				
+				"9789462655836"
+			]
+		},
+		{
+			"label": "EU Trade-Related Measures against Illegal Fishing",
+			"isbns": [
+				
+				"9781003296379"
+			]
+		},
+		{
+			"label": "Ocean Governance : Knowledge Systems, Policy Foundations and Thematic Analyses",
+			"isbns": [
+				
+				"9783031207402"
+			]
+		},
+		{
+			"label": "Fisheries and the Law in Europe : Regulation After Brexit",
+			"isbns": [
+				
+				"9781003252481"
+			]
+		}
+	]
+}
