@@ -1,0 +1,47 @@
+{
+	"label": "Maritime Transport",
+	"description": "A selection of titles on Maritime Transport",
+	"list": [{
+			"label": "Containerization in Maritime Transport : Contemporary Trends and Challenges",
+			"isbns": [
+				
+				"9781000804300"
+			]
+		},
+{
+			"label": "Regulation and Finance in the Port Industry : Lessons from Worldwide Experiences",
+			"isbns": [
+				
+				"9783030839857"
+			]
+		},
+		{
+			"label": "Commercial and Maritime Law in China and Europe",
+			"isbns": [
+				
+				"9781000802511"
+			]
+		},
+		{
+			"label": "Responsibility and Accountability in Maritime Law : Criminalisation of the Ship's Master",
+			"isbns": [
+				
+				"9781000557398"
+			]
+		},
+		{
+			"label": "China’s Maritime Silk Road : Advancing Global Development? New Horizons in East Asian Politics series",
+			"isbns": [
+				
+				" 9781789907490"
+			]
+		},
+{
+			"label": "Geographies of Maritime Transport : Transport, Mobilities and Spatial Change",
+			"isbns": [
+				
+				" 9781788976640"
+			]
+		}
+	]
+}
