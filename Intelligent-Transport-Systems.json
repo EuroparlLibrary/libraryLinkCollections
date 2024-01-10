@@ -1,0 +1,40 @@
+{
+	"label": "Intelligent Transport Systems Applied to Road Transport",
+	"description": "A selection of titles on Intelligent Transport Systems Applied to Road Transport",
+	"list": [{
+			"label": "Automated and Autonomous Spatial Mobilities : Transport, Mobilities and Spatial Change",
+			"isbns": [
+				
+				"9781786438492"
+			]
+		},
+{
+			"label": "Connected Vehicles : Intelligent Transportation Systems",
+			"isbns": [
+				
+				"9783319947853"
+			]
+		},
+		{
+			"label": "Implementing Automated Road Transport Systems in Urban Settings",
+			"isbns": [
+				
+				"9780128129944"
+			]
+		},
+		{
+			"label": "Intelligent Transport Systems for Everyone’s Mobility",
+			"isbns": [
+				
+				"9789811374340"
+			]
+		},
+		{
+			"label": "Informed Urban Transport Systems : Classic and Emerging Mobility Methods Toward Smart Cities",
+			"isbns": [
+				
+				"9780128136140"
+			]
+		}
+	]
+}
