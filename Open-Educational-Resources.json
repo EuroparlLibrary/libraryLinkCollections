@@ -1,0 +1,34 @@
+{
+	"label": "Open Educational Resources",
+	"description": "A selection of titles on Open Educational Resources",
+	"list": [{
+			"label": "Digital Workplace Learning : Bridging Formal and Informal Learning with Digital Technologies ",
+			"isbns": [
+				
+				"9783319462158"
+			]
+		},
+{
+			"label": "Innovations in Open and Flexible Education",
+			"isbns": [
+				
+				"9789811079955"
+			]
+		},
+		{
+			"label": " MOOC Learning Platform Development",
+			"isbns": [
+				
+				"9781000759495"
+			]
+		},
+		{
+			"label": "Conceptualising the digital university : the intersection of policy, pedagogy and practice ",
+			"isbns": [
+				
+				"9783319991597"
+			]
+		}
+	]
+}
+	
