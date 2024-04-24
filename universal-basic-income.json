@@ -2,6 +2,12 @@
 	"label": "Books on Universal Basic Income",
 	"description": "A selection of titles on universal basic income available from the European Parliament Library.",
 	"list": [{
+			"label": "The Palgrave International Handbook of Basic Income",
+			"isbns": [
+				"9783031410017"
+			]
+		},
+		{
 			"label": "Debating universal basic income",
 			"isbns": [
 				"9783031175138"
