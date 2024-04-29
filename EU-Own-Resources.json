@@ -1,0 +1,34 @@
+{
+	"label": "EU Own Resources",
+	"description": "A selection of titles on EU Own Resources",
+	"list": [{
+			"label": "Tax law in times of crisis and recovery",
+			"isbns": [
+				
+				"9781509958061"
+			]
+		},
+{
+			"label": "The power to tax in Europe",
+			"isbns": [
+				
+				"9781509964017"
+			]
+		},
+		{
+			"label": "Features and Challenges of the EU Budget",
+			"isbns": [
+				
+				"9781788971928"
+			]
+		},
+		{
+			"label": "How to Finance Cohesion in Europe?",
+			"isbns": [
+				
+				"9781789902600"
+			]
+		}
+	]
+}
+	
