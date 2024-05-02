@@ -2,35 +2,46 @@
 	"label": "Books on EU-NATO Cooperation",
 	"description": "A selection of titles on EU-NATO cooperation available from the European Parliament Library.",
 	"list": [{
-			"label": "The End of European Security Institutions?",
+			"label": "Evaluating NATO enlargement : from Cold War victory to the Russia-Ukraine war",
 			"isbns": [
-				"9783030421601"
+				"9783031233647"
 			]
 		},
 		{
-			"label": "Multinational Rapid Response Mechanisms",
+			"label": "Lehren aus dem Ukrainekonflikt, Krisen vorbeugen, Gewalt verhindern",
 			"isbns": [
-				"9781351005340"
+				"9783847425557"
 			]
 		},
 		{
-			"label": "NATO's democratic retrenchment",
+			"label": "Military strategies of the new European allies : a comparative study",
 			"isbns": [
-				"9780429999673"
+				"9781003298052"
 			]
 		},
 		{
-			"label": "NATO and the Crisis in the International Order",
+			"label": "NATO and the Strategic Defence Initiative : a transatlantic history of the Star Wars programme",
 			"isbns": [
-				"9781351118378"
+				"9781003104674"
 			]
 		},
 		{
-			"label": "The future of the American military presence in Europe",
+			"label": "Research handbook on NATO",
 			"isbns": [
-				"9781536137026"
+				"9781839103391"
 			]
 		}
-
+		{
+			"label": "NATO's burden-sharing disputes : past, present and future prospects",
+			"isbns": [
+				"9783030935399"
+			]
+		}	
+		{
+			"label": "The Nations of NATO : Shaping the Alliance's Relevance and Cohesion",
+			"isbns": [
+				"9780192668097"
+			]
+		}
 	]
 }
