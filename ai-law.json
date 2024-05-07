@@ -42,27 +42,6 @@
 				"9781788971997",
         			"9781788972000"
 			]
-		},
-		{
-			"label": "Law and Autonomous Machines",
-			"isbns": [
-				"9781786436580",
-        			"9781786436597"
-			]
-		},
-		{
-			"label": "Autonomous Vehicles and the Law",
-			"isbns": [
-				"9781788115100",
-        			"9781788115117"
-			]
-		},
-		{
-			"label": "Research Handbook in Data Science and Law",
-			"isbns": [
-				"9781788111294",
-        			"9781788111300"
-			]
 		}
 	]
 }
