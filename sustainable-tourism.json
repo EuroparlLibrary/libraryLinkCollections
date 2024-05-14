@@ -2,35 +2,34 @@
 	"label": "Books on Sustainable Tourism",
 	"description": "A selection of titles on sustainable tourism available from the European Parliament Library.",
 	"list": [{
-			"label": "Handbook for sustainable tourism practitioners",
+			"label": "Sustainable Tourism, Culture and Heritage Promotion : Development, Management and Connectivity",
 			"isbns": [
-				"9781788970082"
+				"9783031495366"
 			]
 		},
 		{
-			"label": "Environment, Resources and Sustainable Tourism",
+			"label": "Event Tourism and Sustainable Community Development : Advances, Effects, and Implications",
+			"isbns": [
+				"9781000772050"
+			]
+		},
+		{
+			"label": "Environment, Resources and Sustainable Tourism, Goa as a Case Study",
 			"isbns": [
 				"9789819918430"
 			]
 		},
 		{
-			"label": "Sustainability in tourism",
+			"label": "Cultural sustainable tourism, strategic planning for a sustainable development",
 			"isbns": [
-				"9798886970234"
+				"9783031108006"
 			]
 		},
 		{
-			"label": "Degrowth and tourism",
+			"label": "Routledge Handbook of Sustainable Heritage",
 			"isbns": [
-				"9781000340204"
-			]
-		},
-		{
-			"label": "Overtourism and tourism education",
-			"isbns": [
-				"9781000226171"
+				"9781003038955"
 			]
 		}
-
 	]
 }
