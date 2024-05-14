@@ -2,29 +2,27 @@
 	"label": "Books on EU Trade Policy",
 	"description": "A selection of titles on EU Trade Policy available from the European Parliament Library.",
 	"list": [{
-			"label": "Social standards in EU and US trade agreements",
+			"label": "EU Trade-Related Measures against Illegal Fishing: Policy Diffusion and Effectiveness in Thailand and Australia",
 			"isbns": [
-				"9781138079526",
-				"9781032336367",
-				"9781315114323"
+				"9781003296379"
 			]
 		},
 		{
-			"label": "The pursuit of sustainable agriculture in EU free trade agreements",
+			"label": "Linkage Power Europe : The EU’s Trade Negotiations with China (1975-2019)",
 			"isbns": [
-				"9789086863464"
+				"9781000889468"
 			]
 		},
 		{
-			"label": "EU regional trade agreements",
+			"label": "EU trade agreements and European integration : Commission autonomy or Council control?",
 			"isbns": [
-				"9781000374780"
+				"9781003819400"
 			]
 		},
 		{
-			"label": "Free trade agreements and global labour governance",
+			"label": "Uses and misuses of international economic law : private standards and trade in goods in the WTO and the EU",
 			"isbns": [
-				"9780429522307"
+				"9783161616402"
 			]
 		},
 		{
@@ -34,9 +32,9 @@
 			]
 		},
 		{
-			"label": "The Australia-European union free trade agreement",
+			"label": "Africa-EU relations and the African Continental Free Trade Area",
 			"isbns": [
-				"9783030914486"
+				"9781032323824"
 			]
 		},
 		{
