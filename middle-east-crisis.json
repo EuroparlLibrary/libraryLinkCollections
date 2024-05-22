@@ -1,0 +1,53 @@
+{
+	"label": "Books on Middle East Crisis",
+	"description": "A selection of titles on the Middle East Crisis available from the European Parliament Library.",
+	"list": [{
+			"label": "The Israel and Hamas War",
+			"isbns": [
+				"9798891134133"
+			]
+		},
+		{
+			"label": "Conflicts in the Middle East and Africa : State, Non-State Actors and Unheard Voices",
+			"isbns": [
+				"9781003854814"
+			]
+		},
+		{
+			"label": "Israel's National Security Predicament : Guarding the Third Temple",
+			"isbns": [
+				"9781032525723"
+			]
+		},
+		{
+			"label": "Entangled Histories in Palestine/Israel : Historical and Anthropological Perspectives",
+			"isbns": [
+				"9781040000212"
+			]
+		},
+		{
+			"label": "The Arab-Israeli Conflict : A Ringside View",
+			"isbns": [
+				"9781032328881"
+			]
+		},
+		{
+			"label": "Routledge Handbook on Israel's Foreign Relations",
+			"isbns": [
+				"9781003048398"
+			]
+		},
+		{
+			"label": "Palestine, Taiwan, and Western Sahara : Statehood, Sovereignty, and the International System",
+			"isbns": [
+				"9781666932010"
+			]
+		},
+		{
+			"label": "The Arms Race in the Middle East Contemporary Security Dynamics",
+			"isbns": [
+				"9783031324321"
+			]
+		}
+	]
+}
