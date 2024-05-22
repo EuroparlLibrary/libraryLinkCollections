@@ -2,59 +2,58 @@
 	"label": "Books on Human Rights",
 	"description": "A selection of titles on human rights available from the European Parliament Library.",
 	"list": [{
-			"label": "The European union and human rights: law and policy",
+			"label": "Human rights and development",
 			"isbns": [
-				"9780192543936"
+				"9781138290167"
 			]
 		},
 		{
-			"label": "Research handbook on human rights and humanitarian law",
+			"label": "Human Rights and Populism",
 			"isbns": [
-				"9781789900972"
+				"9781000931181"
 			]
 		},
 		{
-			"label": "Human rights and the planet",
+			"label": "Religion and Human Rights : An Introduction",
 			"isbns": [
-				"9781802204292"
+				"9781003831259"
 			]
 		},
 		{
-			"label": "The changing ethos of human rights",
+			"label": "The Wretched of the Global South : Critical Approaches to International Human Rights Law",
 			"isbns": [
-				"9781839108433"
+				"9789819992751"
 			]
 		},
 		{
-			"label": "Research handbook on compliance in international human rights law",
+			"label": "Islam, Religious Liberty and Constitutionalism in Europe",
 			"isbns": [
-				"9781788971126"
+				"9781509966981"
 			]
 		},
 		{
-			"label": "Human rights and international criminal law",
+			"label": "Human Rights and Ocean Governance : The Potential of Marine Spatial Planning in Europe",
 			"isbns": [
-				"9789004447462"
+				"9781003828426"
 			]
 		},
 		{
-			"label": "Poverty and human rights",
+			"label": "The European Integrated Border Management : Frontex, Human Rights, and International Responsibility",
 			"isbns": [
-				"9781839102110"
+				"9781509964574"
 			]
 		},
 		{
-			"label": "Advanced introduction to business and human rights",
+			"label": "Compliance with Judgments of the European Court of Human Rights: States on a Spectrum of Democratisation",
 			"isbns": [
-				"9781789901283"
+				"9789004538214"
 			]
 		},
 		{
-			"label": "Critical issues in human rights and development",
+			"label": "Cultural Heritage, Sustainable Development and Human Rights : Towards an Integrated Approach",
 			"isbns": [
-				"9781781005972"
+				"9781003811978"
 			]
 		}
-
 	]
 }
