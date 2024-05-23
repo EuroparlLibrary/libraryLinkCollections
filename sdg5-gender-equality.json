@@ -2,41 +2,40 @@
 	"label": "Books on Sustainable Development Goal 5: Gender Equality",
 	"description": "A selection of titles on Sustainable Development Goal 5: Gender Equality available from the European Parliament Library.",
 	"list": [{
-			"label": "SDG5 gender equality and empowerment of women and girls",
+			"label": "Nordic Equality and Anti-Discrimination Laws in the Throes of Change, Legal Developments in Sweden, Finland, Norway, and Iceland",
 			"isbns": [
-				"9781789735239"
+				"9781003172840"
 			]
 		},
 		{
-			"label": "Handbook on gender and violence",
+			"label": "Feminist Frontiers in Climate Justice: Gender Equality, Climate Change and Rights",
 			"isbns": [
-				"9781788114691"
+				"9781803923796"
 			]
 		},
 		{
-			"label": "International Human Rights Law and Structural Discrimination",
+			"label": "Gender and the Sustainable Development Goals: Infrastructure, Empowerment and Education",
 			"isbns": [
-				"9783662586778"
+				"9781032004563"
 			]
 		},
 		{
-			"label": "Harmful Traditional Practices",
+			"label": "Gender, Equality and Social Justice: Anti-Trafficking, Sex Work and Migration Law and Policy in the EU",
 			"isbns": [
-				"9781137533128"
+				"9780367753993"
 			]
 		},
 		{
-			"label": "Gender in world perspective",
+			"label": "A Community of Practice Approach to Improving Gender Equality in Research",
 			"isbns": [
-				"9781509538997"
+				"9781003225546"
 			]
 		},
 		{
-			"label": "Gender equality and public policy",
+			"label": "The evolution of the gender pay gap : a comparative perspective",
 			"isbns": [
-				"9781108423359"
+				"9781032368160"
 			]
 		}
-
 	]
 }
