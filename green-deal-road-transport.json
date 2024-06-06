@@ -2,12 +2,6 @@
 	"label": "Books on Green Deal and Road Transport: Air Pollution and CO2 Reduction",
 	"description": "A selection of titles on Green Deal and road transport available from the European Parliament Library.",
 	"list": [{
-			"label": "Traffic-related air pollution and exposure in urbanized areas",
-			"isbns": [
-				"9781000482423"
-			]
-		},
-		{
 			"label": "Carbon footprint case studies",
 			"isbns": [
 				"9789811595776"
