@@ -2,23 +2,10 @@
 	"label": "Circular Economy and Sustainable Products",
 	"description": "A selection of titles on Circular Economy and Sustainable Products available from the European Parliament Library.",
 	"list": [{
-			"label": "Natural resource management and the circular economy",
-			"isbns": [
-				"9783319718873"
-			]
-		},
-		{
 			"label": "Changing the game : sustainable market transformation strategies to understand and tackle the big and complex sustainability challenges of our generation",
 			"isbns": [
 				"9780367145972",
 				"9780367145996"
-			]
-		},
-		{
-			"label": "Making jeans green : linking sustainability, business and fashion",
-			"isbns": [
-				"9780815391852",
-				"9780815391876"
 			]
 		},
 		{
