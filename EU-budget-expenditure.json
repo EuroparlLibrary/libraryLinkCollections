@@ -1,14 +1,34 @@
 {
-	"label": "E-books on EU Budget Expenditure",
-	"description": "A selection of titles on EU Budget Expenditure available as from the European Parliament Library.",
-	"isbns": [
-		"9781788971928",
-		"9783845278032",
-		"9781789902600",
-		"9783845291970",
-		"9781108616317",
-		"9783319973913",
-		"9781789902600"
-
+	"label": "EU Budget Expenditure",
+	"description": "A selection of titles on EU Budget Expenditure",
+	"list": [{
+			"label": "The European Integration. Vol. 2 : Institutions and Policies",
+			"isbns": [
+				
+				"9783031471766"
+			]
+		},
+{
+			"label": "Financial risk management and climate change risk : the experience in a central bank",
+			"isbns": [
+				
+				"9783031338823"
+			]
+		},
+		{
+			"label": "EU cohesion policy : a multidisciplinary approach",
+			"isbns": [
+				
+				"9781802209396"
+			]
+		},
+		{
+			"label": "OECD Economic Surveys : European Union and Euro Area 2023",
+			"isbns": [
+				
+				"9789264493094"
+			]
+		}
 	]
 }
+
