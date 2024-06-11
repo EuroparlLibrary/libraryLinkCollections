@@ -1,13 +1,69 @@
 {
-	"label": "E-Books on Violence Against Women",
-	"description": "A selection of titles on Violence Against Women available as from the European Parliament Library.",
-	"isbns": [
-		"9780190071806",
-		"9780190088491",
-		"9781440858840",
-		"9781838677817",
-		"9781787385146",
-		"9781000032499",
-		"9780199378951"
+	"label": "Books on Violence Against Women",
+	"description": "A selection of titles on violence against women available from the European Parliament Library.",
+	"list": [{
+			"label": "Understanding gender-based sexual violence against women and girls",
+			"isbns": [
+				"9781666900828",
+				"9781666900835"
+			]
+		},
+		{
+			"label": "Gender-Based Violence and the Law",
+			"isbns": [
+				"9781032490304",
+				"9781003815525"
+			]
+		},
+		{
+			"label": "Re-Imagining Sexual Harassment",
+			"isbns": [
+				"9781447366522",
+				"9781447366539",
+				"9781447366546"
+			]
+		},
+		{
+			"label": "Representing gender-based violence",
+			"isbns": [
+				"9783031134500",
+				"9783031134517"
+			]
+		},
+		{
+			"label": "The Criminalization of Violence Against Women",
+			"isbns": [
+				"9780197651841",
+				"9780197651865"
+			]
+		},
+		{
+			"label": "Attaining the 2030 Sustainable Development Goal of Gender Equality",
+			"isbns": [
+				"9781804558348",
+				"9781804558324",
+				"9781804558355"
+			]
+		},
+		{
+			"label": "Preventing and combating violence against women and domestic violence",
+			"isbns": [
+				"9781839107757"
+			]
+		},
+		{
+			"label": "What Is to Be Done about Violence Against Women?",
+			"isbns": [
+				"9781032162577"
+			]
+		},
+		{
+			"label": "Understanding domestic violence as a gender-based human rights violation",
+			"isbns": [
+				"9781032396033",
+				"9781032396057"
+			]
+		}
+
 	]
 }
