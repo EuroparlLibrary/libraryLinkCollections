@@ -1,16 +1,10 @@
 {
-	"label": "Books on China's Belt and Road Initiative",
-	"description": "A selection of titles on China's Belt and Road Initiative available from the European Parliament Library.",
+	"label": "Books on China's Belt and Road Initiative and External Policy",
+	"description": "A selection of titles on China's Belt and Road Initiative and external policy available from the European Parliament Library.",
 	"list": [{
 			"label": "Research Handbook on the Belt and Road Initiative",
 			"isbns": [
 				"9781789908718"
-			]
-		},
-		{
-			"label": "China and the Belt and Road Initiative: trade relationships, business opportunities and political impacts",
-			"isbns": [
-				"9783030861223"
 			]
 		},
 		{
@@ -20,34 +14,31 @@
 			]
 		},
 		{
-			"label": "The One Belt One Road (OBOR) Initiative and the Port of Piraeus",
+			"label": "Understanding China's Belt and Road Initiative",
 			"isbns": [
-				"9781003196310"
+				"9789819996322",
+				"9789819996339"
 			]
 		},
 		{
-			"label": "Greening China's New Silk Roads",
+			"label": "China's Global Image Making",
 			"isbns": [
-				"9781788977470"
+				"9781433195808"
 			]
 		},
 		{
-			"label": "The Belt and Road Initiative Green Development Case Studies Report 2020",
+			"label": "China, Pakistan and the Belt and Road Initiative",
 			"isbns": [
-				"9789811631887"
+				"9781040049501"
 			]
 		},
 		{
-			"label": "The Belt and Road Initiative and the politics of connectivity",
+			"label": "China and International Norms",
 			"isbns": [
-				"9789811928642"
-			]
-		},
-		{
-			"label": "The Belt and Road : industrial and spatial coordinated development",
-			"isbns": [
-				"9789811921339"
+				"9781032289700",
+				"9781003299387"
 			]
 		}
+
 	]
 }
