@@ -2,6 +2,12 @@
 	"label": "Public Procurement",
 	"description": "A selection of titles on Public Procurement available from the European Parliament Library.",
 	"list": [{
+			"label": "Mandatory Sustainability Requirements in EU Public Procurement Law : Reflections on a Paradigm Shift",
+			"isbns": [
+				"9781509963980"
+			]
+		},
+		{
 			"label": "Foundations of Public Contracts",
 			"isbns": [
 				"9781800880917",
