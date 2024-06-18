@@ -2,37 +2,38 @@
 	"label": "BRICS",
 	"description": "A selection of titles on BRICS available from the European Parliament Library.",
 	"list": [{
-			"label": "Handbook of BRICS and emerging economies",
+			"label": "Brazil after Bolsonaro",
 			"isbns": [
-
-				"9780198827535"
+				"9781032523309",
+				"9781003407546"
 			]
 		},
 		{
-			"label": "Locating BRICS in the Global Order, Perspectives from the Global South",
+			"label": "Chasing Greatness",
 			"isbns": [
-
-				"9781000738766"
+				"9780472056699",
+				"9780472076697",
+				"9780472904389"
 			]
 		},
 		{
-			"label": "Future of the BRICS and the role of Russia and China",
+			"label": "The Indian Economy",
 			"isbns": [
-
-				"9789811911156"
+				"9781032510637",
+				"9781003858652"
 			]
 		},
 		{
-			"label": "The political economy of intra-BRICS cooperation, challenges and prospects",
+			"label": "Urban Infrastructure and Economic Development in China",
 			"isbns": [
-
-				"9783030973971"
+				"9789819966288".
+				"9789819966295"
 			]
 		},
 		{
-			"label": "The principles of BRICS contract law : a comparative study of general principles governing international commercial contracts in the BRICS countries",
+			"label": "Civilization-States of China and India: Reshaping the World Order",
 			"isbns": [
-				"9783031008443"
+				"9789356405677"
 			]
 		}
 	]
