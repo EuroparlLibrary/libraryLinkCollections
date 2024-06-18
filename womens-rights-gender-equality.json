@@ -2,14 +2,6 @@
 	"label": "Books on Women's Rights and Gender Equality",
 	"description": "A selection of titles on women's rights and gender equality available from the European Parliament Library.",
 	"list": [{
-			"label": "Attaining the 2030 Sustainable Development Goal of Gender Equality",
-			"isbns": [
-				"9781804558348",
-				"9781804558324",
-				"9781804558355"
-			]
-		},
-		{
 			"label": "Measuring Gender Equality",
 			"isbns": [
 				"9783031414855"
@@ -39,6 +31,14 @@
 			"label": "When Gender Equality Policies in Practice Matter",
 			"isbns": [
 				"9783031441073"
+			]
+		},
+		{
+			"label": "Attaining the 2030 Sustainable Development Goal of Gender Equality",
+			"isbns": [
+				"9781804558348",
+				"9781804558324",
+				"9781804558355"
 			]
 		},
 		{
