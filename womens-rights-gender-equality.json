@@ -2,57 +2,50 @@
 	"label": "Books on Women's Rights and Gender Equality",
 	"description": "A selection of titles on women's rights and gender equality available from the European Parliament Library.",
 	"list": [{
-			"label": "Gender, Institutions and Political Representation",
+			"label": "Attaining the 2030 Sustainable Development Goal of Gender Equality",
 			"isbns": [
-				"9781137011770"
+				"9781804558348",
+				"9781804558324",
+				"9781804558355"
 			]
 		},
 		{
-			"label": "New directions in women, peace, and security",
+			"label": "Feminist Frontiers in Climate Justice",
 			"isbns": [
-				"9781529207774"
+				"9781803923789",
+				"9781803923796"
 			]
 		},
 		{
-			"label": "Gender inequality and welfare states in Europe",
+			"label": "Measuring Gender Equality",
 			"isbns": [
-				"9781788111263"
+				"9783031414855"
 			]
 		},
 		{
-			"label": "International law and violence against women",
+			"label": "Reconstructions of Gender and Information Technology",
 			"isbns": [
-				"9781000032499"
+				"9789819951864",
+				"9789819951871"
 			]
 		},
 		{
-			"label": "Feminist framing of Europeanisation",
+			"label": "Gender Equality from a Modern Perspective",
 			"isbns": [
-				"9783030527709"
+				"9781774912072"
 			]
 		},
 		{
-			"label": "Routledge handbook of feminist peace research",
+			"label": "Law and the Quest for Gender Equality",
 			"isbns": [
-				"9780429659201"
+				"9781760465490",
+				"9781760465506"
 			]
 		},
 		{
-			"label": "Retiring women",
+			"label": "When Gender Equality Policies in Practice Matter",
 			"isbns": [
-				"9781783477166"
-			]
-		},
-		{
-			"label": "Gender, crime and justice",
-			"isbns": [
-				"9783030874889"
-			]
-		},
-		{
-			"label": "Gender, power and restorative justice",
-			"isbns": [
-				"9783030908270"
+				"9783031441073"
 			]
 		}
 
