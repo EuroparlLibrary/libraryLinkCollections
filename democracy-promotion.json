@@ -2,9 +2,9 @@
 	"label": "Books on Democracy Promotion",
 	"description": "A selection of titles on democracy promotion available from the European Parliament Library.",
 	"list": [{
-			"label": "EU good governance promotion in the age of democratic decline",
+			"label": "Politicisation, Democratisation and EU Identity: National EU Discourses in Germany and France ",
 			"isbns": [
-				"9783031057816"
+				"9781003408703"
 			]
 		},
 		{
@@ -14,15 +14,15 @@
 			]
 		},
 		{
-			"label": "Democratism",
+			"label": "Civil Democracy Protection: Success Conditions of Non-Governmental Organisations in Comparison",
 			"isbns": [
-				"9781802204254"
+				"9781003321880"
 			]
 		},
 		{
-			"label": "Democratisation against Democracy",
+			"label": "Aiding Empowerment : Democracy Promotion and Gender Equality in Politics",
 			"isbns": [
-				"9783030338831"
+				"9780197694305"
 			]
 		}
 
