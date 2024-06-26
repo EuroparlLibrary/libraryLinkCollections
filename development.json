@@ -1,59 +1,60 @@
 {
-	"label": "Books on Development Cooperation",
-	"description": "A selection of titles on development cooperation available from the European Parliament Library.",
-	"list": [{
-			"label": "EU Development Cooperation Policy",
-			"isbns": [
-				"9781800881310"
-			]
-		},
-		{
-			"label": "The European Union and global development",
-			"isbns": [
-				"9781000429152"
-			]
-		},
-		{
-			"label": "Handbook on the politics of international development",
-			"isbns": [
-				"9781839101915"
-			]
-		},
-		{
-			"label": "Right to Development and Illicit Financial Flows from Africa : Dynamics, Perspectives, and Prospects",
-			"isbns": [
-				"9781666932317"
-			]
-		},
-		{
-			"label": "Governance in the Developing World Transnational Insights on Economic Development",
-			"isbns": [
-				"9789819924936"
-			]
-		},
-		{
-			"label": "The European Union, Africa and the Sustainable Development Goals : From High Ambitions to Weak Implementation",
-			"isbns": [
-				"9781666957686"
-			]
-		},
-		{
-			"label": "The Routledge handbook on the history of development",
-			"isbns": [
-				"9780429356940"
-			]
-		},
-		{
-			"label": "African Experience in the Application of the Development Aid Effectiveness Principles : The Case of Kenya",
-			"isbns": [
-				"9789811983689"
-			]
-		}
-		{
-			"label": "Foreign aid policy and practice",
-			"isbns": [
-				"9781032208077"
-			]
-		}
-	]
+    "label": "Books on Development Cooperation",
+    "description": "A selection of titles on development cooperation available from the European Parliament Library.",
+    "list": [
+        {
+            "label": "EU Development Cooperation Policy",
+            "isbns": [
+                "9781800881310"
+            ]
+        },
+        {
+            "label": "The European Union and global development",
+            "isbns": [
+                "9781000429152"
+            ]
+        },
+        {
+            "label": "Handbook on the politics of international development",
+            "isbns": [
+                "9781839101915"
+            ]
+        },
+        {
+            "label": "Right to Development and Illicit Financial Flows from Africa : Dynamics, Perspectives, and Prospects",
+            "isbns": [
+                "9781666932317"
+            ]
+        },
+        {
+            "label": "Governance in the Developing World Transnational Insights on Economic Development",
+            "isbns": [
+                "9789819924936"
+            ]
+        },
+        {
+            "label": "The European Union, Africa and the Sustainable Development Goals : From High Ambitions to Weak Implementation",
+            "isbns": [
+                "9781666957686"
+            ]
+        },
+        {
+            "label": "The Routledge handbook on the history of development",
+            "isbns": [
+                "9780429356940"
+            ]
+        },
+        {
+            "label": "African Experience in the Application of the Development Aid Effectiveness Principles : The Case of Kenya",
+            "isbns": [
+                "9789811983689"
+            ]
+        },
+        {
+            "label": "Foreign aid policy and practice",
+            "isbns": [
+                "9781032208077"
+            ]
+        }
+    ]
 }
