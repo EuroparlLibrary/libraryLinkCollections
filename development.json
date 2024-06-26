@@ -1,6 +1,6 @@
 {
-	"label": "Books on Development",
-	"description": "A selection of titles on development available from the European Parliament Library.",
+	"label": "Books on Development Cooperation",
+	"description": "A selection of titles on development cooperation available from the European Parliament Library.",
 	"list": [{
 			"label": "EU Development Cooperation Policy",
 			"isbns": [
@@ -20,9 +20,21 @@
 			]
 		},
 		{
-			"label": "Handbook of Development Policy",
+			"label": "Right to Development and Illicit Financial Flows from Africa : Dynamics, Perspectives, and Prospects",
 			"isbns": [
-				"9781839100871"
+				"9781666932317"
+			]
+		},
+		{
+			"label": "Governance in the Developing World Transnational Insights on Economic Development",
+			"isbns": [
+				"9789819924936"
+			]
+		},
+		{
+			"label": "The European Union, Africa and the Sustainable Development Goals : From High Ambitions to Weak Implementation",
+			"isbns": [
+				"9781666957686"
 			]
 		},
 		{
@@ -32,11 +44,16 @@
 			]
 		},
 		{
-			"label": "Critical Issues in Human Rights and Development",
+			"label": "African Experience in the Application of the Development Aid Effectiveness Principles : The Case of Kenya",
 			"isbns": [
-				"9781781005972"
+				"9789811983689"
 			]
 		}
-
+		{
+			"label": "Foreign aid policy and practice",
+			"isbns": [
+				"9781032208077"
+			]
+		}
 	]
 }
