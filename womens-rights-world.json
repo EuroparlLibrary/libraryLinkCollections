@@ -2,33 +2,33 @@
 	"label": "Books on Women's Rights in the World",
 	"description": "A selection of titles on women's rights in the world available from the European Parliament Library.",
 	"list": [{
-			"label": "Equality for women = prosperity for all",
+			"label": "Leftover Women : The Resurgence of Gender Inequality in China, 10th Anniversary Edition.",
 			"isbns": [
-				"9781250051189"
+				"9781350323650"
 			]
 		},
 		{
-			"label": "Conceptualizing femicide as a human rights violation",
+			"label": "Nordic Equality and Anti-Discrimination Laws in the Throes of Change: Legal Developments in Sweden, Finland, Norway, and Iceland",
 			"isbns": [
-				"9781803920443"
+				"9781003172840"
 			]
 		},
 		{
-			"label": "Women and the UN",
+			"label": "Gender Revolution: How Electoral Politics and #MeToo Are Reshaping Everyday Life",
 			"isbns": [
-				"9781003036708"
+				"9781032125954"
 			]
 		},
 		{
-			"label": "Advancing the legal status of women in Islamic law",
+			"label": "Women and Inequality in a Changing World : Exploring New Paradigms for Peace",
 			"isbns": [
-				"9789004446953"
+				"9781003281382"
 			]
 		},
 		{
-			"label": "Legal capacity & gender",
+			"label": "Gender Inequality and Women's Citizenship: Evidence from the Caribbean",
 			"isbns": [
-				"9783030634933"
+				"9780367673574"
 			]
 		},
 		{
@@ -38,29 +38,28 @@
 			]
 		},
 		{
-			"label": "Women, matrimonial litigation and alternative dispute resolution (ADR)",
+			"label": "Women, Gender, and Constitutionalism in Latin America",
 			"isbns": [
-				"9789811610158"
+				"9781003343929"
 			]
 		},
 		{
-			"label": "Engendering democracy in Africa",
+			"label": "Women's Equality in America : Examining the Facts.",
 			"isbns": [
-				"9781003147879"
+				"9781440879470"
 			]
 		},
 		{
-			"label": "Women, religion, and peace-building",
+			"label": "Gender, feminist and queer studies : power, privilege and inequality in a time of neoliberal conservatism",
 			"isbns": [
-				"9783030897277"
+				"9781000906172"
 			]
 		},
 		{
-			"label": "Substantive Representation of Women in Asian Parliaments",
+			"label": "Feminist foreign policy in theory and in practice : an introduction",
 			"isbns": [
-				"9781003275961"
+				"9781032281827"
 			]
 		}
-
 	]
 }
