@@ -3,47 +3,28 @@
 	"label": "Books on Migration: EU Law, Border Control and Security",
 	"description": "A selection of titles on migration: EU law, border control and security available from the European Parliament Library.",
 	"list": [{
-			"label": "Digital identity, virtual borders and social media",
+			"label": "The European Integrated Border Management : Frontex, Human Rights, and International Responsibility",
 			"isbns": [
-				"9781789909159"
+				"9781509964574"
 			]
 		},
 		{
-			"label": "Stealing time: migration, temporalities and state violence",
+			"label": "Frontex and the rising of a new border control culture in Europe",
 			"isbns": [
-				"9783030698973"
+				"9781032135854"
 			]
 		},
 		{
-			"label": "Refugees, Security and the European Union",
+			"label": "Political-Humanitarian Borderwork on the Southern European Border : Mainstream Humanitarian Organizations Within and Beyond the Hotspot System in Sicily.",
 			"isbns": [
-				"9780429652097"
+				"9783031405044"
 			]
 		},
 		{
-			"label": "Border management in transformation",
+			"label": "Refugee Externalisation Policies: Responsibility, Legitimacy and Accountability",
 			"isbns": [
-				"9783030627287"
-			]
-		},
-		{
-			"label": "The interplay between the EU's return acquis and international law",
-			"isbns": [
-				"9781839105234"
-			]
-		},
-		{
-			"label": "Research handbook on the law and politics of migration",
-			"isbns": [
-				"9781789902266"
-			]
-		},
-		{
-			"label": "Rethinking migration and return in Southeastern Europe",
-			"isbns": [
-				"9780429344343"
+				"9781000610451"
 			]
 		}
-
 	]
 }
