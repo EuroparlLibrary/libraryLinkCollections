@@ -2,24 +2,6 @@
 	"label": "Books on artificial intelligence and law",
 	"description": "A selection of new titles on artificial intelligence and law available as e-books from the European Parliament Library.",
 	"list": [{
-			"label": "Determann's Field Guide to Artificial Intelligence Law",
-			"isbns": [
-				"9781035326952"
-			]
-		},
-		{
-			"label": "Regulating the Synthetic Society",
-			"isbns": [
-				"9781509974948"
-			]
-		},
-		{
-			"label": "Legal Aspects of Autonomous Systems",
-			"isbns": [
-				"9783031479458"
-			]
-		},
-		{
 			"label": "Recreating Creativity, Reinventing Inventiveness",
 			"isbns": [
 				"9781032196268"
