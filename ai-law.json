@@ -2,12 +2,6 @@
 	"label": "Books on artificial intelligence and law",
 	"description": "A selection of new titles on artificial intelligence and law available as e-books from the European Parliament Library.",
 	"list": [{
-			"label": "Artificial Intelligence and the Law",
-			"isbns": [
-				"9789819728275"
-			]
-		},
-		{
 			"label": "Determann's Field Guide to Artificial Intelligence Law",
 			"isbns": [
 				"9781035326952"
