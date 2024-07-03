@@ -1,40 +1,36 @@
 {
-	"label": "Data Protection in the EU, ePrivacy and Data Retention",
-	"description": "A selection of titles on Data Protection in the EU, ePrivacy and Data Retention",
+	"label": "Books on Data Protection in the EU, e-Privacy and Data Retention",
+	"description": "A selection of titles on data protection in the EU, e-Privacy and data retention available from the European Parliament Library.",
 	"list": [{
-			"label": "Privacy is power : why and how you should take back control of your data",
+			"label": "The Privacy Leader Compass",
 			"isbns": [
-				
-				"9781787634046"
-			]
-		},
-{
-			"label": "Data Protection Beyond Borders : Transatlantic Perspectives on Extraterritoriality and Sovereignty",
-			"isbns": [
-				
-				"9781509940660"
+				"9781032467313"
 			]
 		},
 		{
-			"label": "Regulating Online Behavioural Advertising Through Data Protection Law",
+			"label": "Cybersecurity, privacy and data protection in EU law",
 			"isbns": [
-				
-				"9781839108297"
+				"9781509939398"
 			]
 		},
 		{
-			"label": "Data Protection Law in the EU: Roles, Responsibilities and Liability",
+			"label": "Research Handbook on EU Data Protection Law",
 			"isbns": [
-				
-				"9781780688282"
+				"9781800371675"
 			]
 		},
 		{
-			"label": "The risk-based approach to data protection",
+			"label": "Data protection and data transfers law",
 			"isbns": [
-				
-				"9780198837718"
+				"9781526524843"
+			]
+		},
+		{
+			"label": "The right to be forgotten",
+			"isbns": [
+				"9781526521934"
 			]
 		}
+
 	]
 }
