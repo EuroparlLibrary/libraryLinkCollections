@@ -2,45 +2,57 @@
 	"label": "Books on artificial intelligence and law",
 	"description": "A selection of new titles on artificial intelligence and law available as e-books from the European Parliament Library.",
 	"list": [{
-			"label": "Atlas of AI",
-			"isbns": [
-				"9780300209570",
-        			"9780300252392"
-			]
-		},
-		{
 			"label": "Artificial Intelligence and the Law",
 			"isbns": [
-				"9781839701030"
+				"9789819728275"
 			]
 		},
 		{
-			"label": "The Future of Copyright in the Age of Artificial Intelligence",
+			"label": "Determann's Field Guide to Artificial Intelligence Law",
 			"isbns": [
-				"9781839103148",
-        			"9781839103155"
+				"9781035326952"
 			]
 		},
 		{
-			"label": "Artificial Intelligence and the Law: Cybercrime and Criminal Liability",
+			"label": "Regulating the Synthetic Society",
 			"isbns": [
-				"9780367347970",
-        			"9781000210644"
+				"9781509974948"
 			]
 		},
 		{
-			"label": "Economics and Law of Artificial Intelligence",
+			"label": "Legal Aspects of Autonomous Systems",
 			"isbns": [
-				"9783030642532",
-       				"9783030642549",
-        			"9783030642563"
+				"9783031479458"
 			]
 		},
 		{
-			"label": "Life and the Law in the Era of Data-Driven Agency",
+			"label": "Recreating Creativity, Reinventing Inventiveness",
 			"isbns": [
-				"9781788971997",
-        			"9781788972000"
+				"9781032196268"
+			]
+		},
+		{
+			"label": "The Law and Ethics of Data Sharing in Health Sciences",
+			"isbns": [
+				"9789819965397"
+			]
+		},
+		{
+			"label": "YSEC Yearbook of Socio-Economic Constitutions 2023",
+			"isbns": [
+				"9783031558320"
+			]
+		},
+		{
+			"label": "The Oxford Handbook of AI Governance",
+			"isbns": [
+				"9780197579350"
+			]
+		},
+		{
+			"label": "Artificial Intelligence and Market Abuse Legislation",
+			"isbns": [
+				"9781035310715"
 			]
 		}
 	]
