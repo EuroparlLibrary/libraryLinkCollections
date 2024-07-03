@@ -2,12 +2,6 @@
 	"label": "Books on artificial intelligence and law",
 	"description": "A selection of new titles on artificial intelligence and law available as e-books from the European Parliament Library.",
 	"list": [{
-			"label": "Recreating Creativity, Reinventing Inventiveness",
-			"isbns": [
-				"9781032196268"
-			]
-		},
-		{
 			"label": "The Law and Ethics of Data Sharing in Health Sciences",
 			"isbns": [
 				"9789819965397"
