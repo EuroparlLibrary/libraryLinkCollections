@@ -2,6 +2,12 @@
 	"label": "Books on artificial intelligence and law",
 	"description": "A selection of new titles on artificial intelligence and law available as e-books from the European Parliament Library.",
 	"list": [{
+			"label": "Regulating the Synthetic Society",
+			"isbns": [
+				"9781509974979"
+			]
+		},
+		{
 			"label": "The Law and Ethics of Data Sharing in Health Sciences",
 			"isbns": [
 				"9789819965397"
@@ -17,6 +23,24 @@
 			"label": "Research Handbook on Law and Technology",
 			"isbns": [
 				"9781803921310"
+			]
+		},
+		{
+			"label": " ",
+			"isbns": [
+				" "
+			]
+		},
+		{
+			"label": " ",
+			"isbns": [
+				" "
+			]
+		},
+		{
+			"label": " ",
+			"isbns": [
+				" "
 			]
 		}
 	]
