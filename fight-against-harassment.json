@@ -2,35 +2,28 @@
 	"label": "Books on Fight Against Harassment",
 	"description": "A selection of titles on fight against harassment available from the European Parliament Library.",
 	"list": [{
-			"label": "Sexual harassment in the UK parliament",
+			"label": "Gender and Security in Digital Space",
 			"isbns": [
-				"9783030871406"
+				"9781000771015"
 			]
 		},
 		{
-			"label": "#MeToo for women and men",
+			"label": "Gender-Based Violence and the Law",
 			"isbns": [
-				"9781000590555"
+				"9781003815525"
 			]
 		},
 		{
-			"label": "Sexual harassment and misconduct, an encyclopedia",
+			"label": "Preventing and combating violence against women and domestic violence",
 			"isbns": [
-				"9781440866081"
+				"9781839107757"
 			]
 		},
 		{
-			"label": "How to be a woman online",
+			"label": "Cyberbullying and online harms",
 			"isbns": [
-				"9781350267602"
-			]
-		},
-		{
-			"label": "Asian perspectives on workplace bullying and harassment",
-			"isbns": [
-				"9789811623622"
+				"9781000868487"
 			]
 		}
-
 	]
 }
