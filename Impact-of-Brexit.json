@@ -2,44 +2,43 @@
 	"label": "The Impact of Brexit",
 	"description": "A selection of titles on the impact of Brexit available from the European Parliament Library.",
 	"list": [{
-			"label": "Brexit, privat- und wirtschaftsrechtliche Folgen",
+			"label": "Fisheries and the Law in Europe : Regulation After Brexit",
 			"isbns": [
 				
-				"9783848754380"
+				"9781003252481"
 			]
 		},
 {
-			"label": "Brexit and after, perspectives on european crises and reconstruction from asia and europe",
+			"label": "Brexit and Energy: Implications and Opportunities",
 			"isbns": [
 				
-				"9789811579691"
+				"9781003364337"
 			]
 		},
 		{
-			"label": "After Brexit, What Next?, Trade, Regulation and Economic Growth",
+			"label": "Brexit and Agriculture",
 			"isbns": [
 				
-				"9781839103070"
+				"9781138587823"
 			]
 		},
 		{
-			"label": "Financial Markets (Dis)Integration in a Post-Brexit EU, Towards a More Resilient Financial System in Europe",
+			"label": "Polish Return Migration after Brexit: A Sociological Forecast",
 			"isbns": [
 				
-				"9783030360528"
+				"9781032583839"
 			]
 		},
 		{
-			"label": "Brexit and Aviation Law",
+			"label": "Sport and Brexit: Regulatory Challenges and Legacies",
 			"isbns": [
-				"9780429954979"
+				"9780367755195"
 			]
 		},
-{
-			"label": "BREXIT-Revolution, Das Vereinigte Königreich in der Verfassungskrise",
+		{
+			"label": "Brexit and the European Insurance Market An empirical Analysis of the Impact on the Structure of the European Insurance Market, Stock Market Reactions and the Solvency II Supervisory Regime",
 			"isbns": [
-				
-				"9783658283667"
+				"9783658443108"
 			]
 		}
 	]
