@@ -2,53 +2,40 @@
 	"label": "Books on Genocide",
 	"description": "A selection of titles on genocide available from the European Parliament Library.",
 	"list": [{
-			"label": "State responses to crimes of genocide",
+			"label": "The Epistemic Injustice of Genocide Denialism",
 			"isbns": [
-				"9783030991623"
+				"9781040022863"
 			]
 		},
 		{
-			"label": "The Crime of Genocide: Then and Now",
+			"label": "Perpetrators of Mass Atrocities : Terribly and Terrifyingly Normal?",
 			"isbns": [
-				"9789004519329"
+				"9781003437222"
 			]
 		},
 		{
-			"label": "Classifying genocide in international law",
+			"label": "Fascism and genocide : Russia's war against Ukrainians",
 			"isbns": [
-				"9781000628517"
+				"9783838217918"
 			]
 		},
 		{
-			"label": "Genocide : key themes",
+			"label": "Infrastructures of Impunity : New Order Violence in Indonesia",
 			"isbns": [
-				"9780192688729"
+				"9781501773129"
 			]
 		},
 		{
-			"label": "Religion and genocide: changing the conversation",
+			"label": "Gender and Genocide in Cambodia: Surviving Khmer Rouge",
 			"isbns": [
-				"9781000774474"
+				"9781032413990"
 			]
 		},
 		{
-			"label": "Denial: the final stage of genocide?",
+			"label": "Memories and representations of terror : working through genocide",
 			"isbns": [
-				"9781000437362"
+				"9781032373287"
 			]
 		},
-		{
-			"label": "From discrimination to death: genocide process through a human rights lens",
-			"isbns": [
-				"9781000786330"
-			]
-		},
-		{
-			"label": "An Introduction to the criminology of genocide",
-			"isbns": [
-				"9783030652111"
-			]
-		}
-
 	]
 }
