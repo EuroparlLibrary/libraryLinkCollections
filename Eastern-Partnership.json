@@ -2,13 +2,6 @@
 	"label": "Eastern Partnership",
 	"description": "A selection of titles on Eastern Partnership available from the European Parliament Library.",
 	"list": [{
-			"label": "Analyzing political tensions between Ukraine, Russia, and the EU",
-			"isbns": [
-				
-				"9781799829065"
-			]
-		},
-{
 			"label": "Ambiguities of Europe’s Eastern Neighbourhood, Perspectives from Germany and Poland",
 			"isbns": [
 				
@@ -16,25 +9,29 @@
 			]
 		},
 		{
-			"label": "The European Union and its eastern neighbourhood, Europeanisation and its twenty-first-century contradictions",
+			"label": "Regional Leadership in Post-Soviet Eurasia",
 			"isbns": [
-				
-				"9781526109118"
+				"9781032317786"
 			]
 		},
 		{
-			"label": "Ukraine in Transformation, From Soviet Republic to European Society",
+			"label": "State-Building, Rule of Law, Good Governance and Human Rights in Post-Soviet Space",
 			"isbns": [
-				
-				"9783030249786"
+				"9781032055381"
 			]
 		},
 		{
-			"label": "Russia, the EU, and the Eastern Partnership, building bridges or digging trenches?",
+			"label": "The EU and its relations with Eastern Europe",
 			"isbns": [
-				"9783838211343"
+				"9781785365409"
+			]
+		},
+		{
+			"label": "EU Good Governance Promotion in the Age of Democratic Decline",
+			"isbns": [
+				"9783031057816"
 			]
 		}
-		
+
 	]
 }
