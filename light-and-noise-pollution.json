@@ -2,15 +2,15 @@
 	"label": "Books on Light and Noise Pollution",
 	"description": "A selection of titles on light and noise pollution available from the European Parliament Library.",
 	"list": [{
-			"label": "Green aviation",
+			"label": "Atmospheric noise : the indefinite urbanism of Los Angeles",
 			"isbns": [
-				"9781118866351"
+				"9781478013174"
 			]
 		},
 		{
-			"label": "Lichtverschmutzung in Metropolen",
+			"label": "Sound-politics in São Paulo",
 			"isbns": [
-				"9783658229740"
+				"9780190054953"
 			]
 		},
 		{
