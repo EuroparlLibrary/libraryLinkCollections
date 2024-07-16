@@ -1,12 +1,7 @@
 {
 	"label": "Books on Plastic Waste Pollution",
 	"description": "A selection of titles on plastic waste pollution available from the European Parliament Library.",
-	"list": [{
-			"label": "Plastic free",
-			"isbns": [
-				"9780231552721"
-			]
-		},
+	"list": [
 		{
 			"label": "Analysis of nanoplastics and microplastics in food",
 			"isbns": [
