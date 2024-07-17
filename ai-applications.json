@@ -2,40 +2,39 @@
 	"label": "Books on the applications of artificial intelligence",
 	"description": "A selection of titles on the applications of artificial intelligence available as from the European Parliament Library.",
 	"list": [{
-			"label": "A citizen's guide to artificial intelligence",
+			"label": "Artificial Intelligence in Drug Development : Patenting and Regulatory Aspects.",
 			"isbns": [
-				"9780262044813"
+				"9789819729548"
 			]
 		},
 		{
-			"label": "Law and Artificial Intelligence",
+			"label": "Handbook of Geospatial Artificial Intelligence",
 			"isbns": [
-				"9789462655225"
+				"9781003814924"
 			]
 		},
 		{
-			"label": "Advanced artificial intelligence and robo-justice",
+			"label": "Digital Directions : Artificial Intelligence Pathways for Higher Education",
 			"isbns": [
-				"9783030982065",
-				"9783030982058"
+				"9781475871944"
 			]
 		},
 {
-			"label": "Artificial intelligence in urban planning and design",
+			"label": "Responsible Use of AI in Military Systems",
 			"isbns": [
-				"9780128239421"
+				"9781040033739"
 			]
 		},
 {
-			"label": "Artificial intelligence and the media",
+			"label": "The AI wave in defence innovation : assessing military artificial intelligence strategies, capabilities, and trajectories",
 			"isbns": [
-				"9781839109973"
+				"9781003218326"
 			]
 		},
 {
-			"label": "Machine learning for criminology and crime research",
+			"label": "Artificial intelligence for HR : use AI to support and develop a successful workforce",
 			"isbns": [
-				"9781000596557"
+				"9781398604001"
 			]
 		}
 	]
