@@ -2,13 +2,6 @@
 	"label": "Western Balkans",
 	"description": "A selection of titles on Western Balkans.",
 	"list": [{
-			"label": "Peace, conflict and developments in the Western Balkans : the role of EU integration",
-			"isbns": [
-				
-				"9783832551377"
-			]
-		},
-{
 			"label": "Futures of the Western Balkans, fragmentation and integration in the region and beyond",
 			"isbns": [
 				
@@ -23,20 +16,13 @@
 			]
 		},
 		{
-			"label": "Covid-19, state-power and society in Europe, focus on Western Balkans",
-			"isbns": [
-				
-				"9783030910730"
-			]
-		},
-{
 			"label": "Ethnic diversity, plural democracy and human dignity, challenges to the European Union and Western Balkans?",
 			"isbns": [
 				
 				"9783030979171"
 			]
 		},
-{
+		{
 			"label": "Europeanisation and memory politics in the Western Balkans",
 			"isbns": [
 				
