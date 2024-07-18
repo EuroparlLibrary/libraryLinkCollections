@@ -2,13 +2,6 @@
 	"label": "Western Balkans",
 	"description": "A selection of titles on Western Balkans.",
 	"list": [{
-			"label": "Futures of the Western Balkans, fragmentation and integration in the region and beyond",
-			"isbns": [
-				
-				"9783030896287"
-			]
-		},
-		{
 			"label": "Towards economic inclusion in the Western Balkans",
 			"isbns": [
 				
@@ -16,17 +9,27 @@
 			]
 		},
 		{
-			"label": "Ethnic diversity, plural democracy and human dignity, challenges to the European Union and Western Balkans?",
+			"label": "Integrating the Western Balkans into the EU",
 			"isbns": [
-				
-				"9783030979171"
+				"9783031322051"
 			]
 		},
 		{
-			"label": "Europeanisation and memory politics in the Western Balkans",
+			"label": "The European Union as a Mediator in Post-Conflict Western Balkans",
 			"isbns": [
-				
-				"9783030547004"
+				"9781666914535"
+			]
+		},
+		{
+			"label": "European Narratives and Euroscepticism in the Western Balkans and the EU",
+			"isbns": [
+				"9781040002384"
+			]
+		},
+		{
+			"label": "The European Union and Everyday Statebuilding: The Case of Kosovo",
+			"isbns": [
+				"9781032360621"
 			]
 		}
 	]
