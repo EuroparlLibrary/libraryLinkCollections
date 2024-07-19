@@ -2,21 +2,21 @@
 	"label": "Books on Global Deforestation",
 	"description": "A selection of titles on global deforestation available from the European Parliament Library.",
 	"list": [{
-			"label": "Rainforest",
-			"isbns": [
-				"9781642830729"
-			]
-		},
-		{
 			"label": "Forest governance",
 			"isbns": [
 				"9783030991845"
 			]
 		},
 		{
-			"label": "Factfulness sustainability",
+			"label": "Combating deforestation",
 			"isbns": [
-				"9783662655580"
+				"9781800880849"
+			]
+		},
+		{
+			"label": "International legal approaches to the promotion of the conservation and sustainable use of forests",
+			"isbns": [
+				"9783631905937"
 			]
 		},
 		{
