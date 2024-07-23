@@ -1,46 +1,34 @@
 {
 	"label": "Organic Agriculture and Food System Sustainability",
-	"description": "A selection of titles on Organic Agriculture and Food System Sustainability",
+	"description": "A selection of titles on organic agriculture and food system sustainability available from the European Parliament Library.",
 	"list": [{
-			"label": "Rethinking Food and Agriculture : New Ways Forward",
+			"label": "Sustainable Apple Breeding and Cultivation in Germany",
 			"isbns": [
-				
-				"9780128164112"
-			]
-		},
-{
-			"label": "Sustainable Food Systems from Agriculture to Industry : Improving Production and Processing",
-			"isbns": [
-				
-				"9780128119617"
+				"9781032409948"
 			]
 		},
 		{
-			"label": "Advances in Food Security and Sustainability",
+			"label": "Green Chemistry in Agriculture and Food Production",
 			"isbns": [
-				
-				"9780128176993"
+				"9780367254315"
 			]
 		},
 		{
-			"label": "Safety and Practice for Organic Food",
+			"label": "Drones and Geographical Information Technologies in Agroecology and Organic Farming",
 			"isbns": [
-				
-				"9780128120613"
+				"9780429052842"
 			]
 		},
 		{
-			"label": "Sustainable Agriculture and Food Security : Aspects of Euro-Mediteranean Business Cooperation",
+			"label": "The Ethics of Agribusiness",
 			"isbns": [
-				
-				"9783319771229"
+				"9781032185705"
 			]
 		},
-{
-			"label": "Geographies of Maritime Transport : Transport, Mobilities and Spatial Change",
+		{
+			"label": "Universal Food Security",
 			"isbns": [
-				
-				"9781138638044"
+				"9780231197618"
 			]
 		}
 	]
