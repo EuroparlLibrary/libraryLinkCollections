@@ -2,9 +2,9 @@
 	"label": "Books on Turkey",
 	"description": "A selection of titles on Turkey available from the European Parliament Library.",
 	"list": [{
-			"label": "Critical readings of Turkey's foreign policy",
+			"label": "Forced Migration in Turkey : Refugee Perspectives, Organizational Assistance, and Political Embedding",
 			"isbns": [
-				"9783030976378"
+				"9781040016374"
 			]
 		},
 		{
@@ -26,35 +26,34 @@
 			]
 		},
 		{
-			"label": "Turkish-French relations",
+			"label": "Mapping the Fault Lines in Turkey-US Relations : Making the Vulnerable Partnership",
 			"isbns": [
-				"9783031079887"
+				"9780755650774"
 			]
 		},
 		{
-			"label": "Turkey's foreign policy narratives",
+			"label": "Class, Capital, State, and Late Development : The Political Economy of Military Interventions in Turkey",
 			"isbns": [
-				"9783030926489"
+				"9789004692190"
 			]
 		},
 		{
-			"label": "Turkish foreign policy",
+			"label": "Neo-Ottomanism and the Politics of Emotions in Turkey : Resentment, Nostalgia, Narcissism",
 			"isbns": [
-				"9783030907464"
+				"9783031487231"
 			]
 		},
 		{
-			"label": "Authoritarian neoliberalism and resistance in Turkey",
+			"label": "Turkey's Water Policy As Part of the Political Strategy : The Evolution of Turkey's Water Policy",
 			"isbns": [
-				"9789811642135"
+				"9783658440701"
 			]
 		},
 		{
-			"label": "Turkey's Asia relations",
+			"label": "Development and Foreign Policy in Turkey : Rethinking Interconnectedness in a Multipolar World",
 			"isbns": [
-				"9783030935153"
+				"9783031121166"
 			]
 		}
-
 	]
 }
