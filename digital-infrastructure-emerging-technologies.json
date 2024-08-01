@@ -2,45 +2,39 @@
 	"label": "Books on Digital Infrastructure and Emerging Technologies",
 	"description": "A selection of titles on digital infrastructure and emerging technologies available from the European Parliament Library.",
 	"list": [{
-			"label": "Breakthrough: the promise of frontier technologies for sustainable development",
+			"label": "A Circular Built Environment in the Digital Age",
 			"isbns": [
-				"9780815739661"
+				"9783031396755"
 			]
 		},
 		{
-			"label": "Nano technology for battery recycling, remanufacturing, and reusing",
+			"label": "Digital empires : the global battle to regulate technology",
 			"isbns": [
-				"9780323984935"
+				"9780197649299"
 			]
 		},
 		{
-			"label": "Autonomous vehicles",
+			"label": "Healthcare Services in the Metaverse : Game Theory, AI, IoT, and Blockchain",
 			"isbns": [
-				"9789811592553"
+				"9781003449256"
 			]
 		},
 		{
-			"label": "Emerging military technologies",
+			"label": "Data cartels : the companies that control and monopolize our information",
 			"isbns": [
-				"9789004507951"
+				"9781503615076"
 			]
 		},
 		{
-			"label": "Emerging technologies for disaster resilience",
+			"label": "Exploring extended realities : metaphysical, psychological, and ethical challenges",
 			"isbns": [
-				"9789811603600"
+				"9781032417325"
 			]
 		},
 		{
-			"label": "Regulating the metaverse",
+			"label": "Handbook of Geospatial Approaches to Sustainable Cities.",
 			"isbns": [
-				"9781003355861"
-			]
-		},
-		{
-			"label": "Everyday Automation: Experiencing and Anticipating Emerging Technologies",
-			"isbns": [
-				"9780367773380"
+				"9781003244561"
 			]
 		}
 
