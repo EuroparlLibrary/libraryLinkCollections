@@ -2,21 +2,21 @@
 	"label": "Books on Greenhouse Gas Emissions",
 	"description": "A selection of titles on greenhouse gas emissions available from the European Parliament Library.",
 	"list": [{
-			"label": "Reducing greenhouse gas emissions from livestock production",
+			"label": "Research Journeys to Net Zero: Current and Future Leaders",
 			"isbns": [
-				"9781786764423"
+				"9781003380566"
 			]
 		},
 		{
-			"label": "Carbon footprint case studies",
+			"label": "Measuring Climate Change to Inform Energy Transitions : Carbon Footprint Calculations",
 			"isbns": [
-				"9789811595776"
+				"9781394207329"
 			]
 		},
 		{
-			"label": "Balancing greenhouse gas budgets",
+			"label": "The Path to Net Zero for the Fashion Industry : Five Strategies for Decarbonisation",
 			"isbns": [
-				"9780128149539"
+				"9781003814245"
 			]
 		},
 		{
@@ -26,21 +26,21 @@
 			]
 		},
 		{
-			"label": "Green deals in the making",
+			"label": "The Routledge handbook on embodied carbon of the built environment",
 			"isbns": [
-				"9781803926780"
+				"9781003820123"
 			]
 		},
 		{
-			"label": "Greenhouse gases : sources, sinks and mitigation",
+			"label": "Land Carbon Cycle Modeling: Matrix Approach, Data Assimilation, Ecological Forecasting, and Machine Learning Second",
 			"isbns": [
-				"9789811644825"
+				"9781040026311"
 			]
 		},
 		{
-			"label": "The decarbonization imperative",
+			"label": "Positive Tipping Points Towards Sustainability: Understanding the Conditions and Strategies for Fast Decarbonization in Regions",
 			"isbns": [
-				"9781503614789"
+				"9783031507625"
 			]
 		}
 
