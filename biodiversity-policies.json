@@ -2,68 +2,33 @@
 	"label": "Books on Biodiversity Policies",
 	"description": "A selection of new titles on biodiversity policies available as e-books from the European Parliament Library.",
 	"list": [{
-			"label": "Perspectives for Biodiversity and Ecosystems",
+			"label": "Rights of Nature in Europe",
 			"isbns": [
-				"9783030577124",
-				"9783030577094",
-				"9783030577100"
+				"9781003318989"
 			]
 		},
 		{
-			"label": "Global Biodiversity: Selected Countries in Europe",
+			"label": "Marine Bioprospecting, Biodiversity and Novel Uses of Ocean Resources",
 			"isbns": [
-				"9781771887175",
-				"9780429487750"
+				"9781509968305"
 			]
 		},
 		{
-			"label": "Biodiversity Offsets: European Perspectives on No Net Loss of Biodiversity and Ecosystem Services",
+			"label": "Routledge Handbook of Urban Biodiversity",
 			"isbns": [
-				"9783319725796",
-				"9783030102302",
-				"9783319725819"
+				"9780100301610"
 			]
 		},
 		{
-			"label": "Reconciling Agricultural Production with Biodiversity Conservation",
+			"label": "Why Biodiversity Matters",
 			"isbns": [
-				"9781786763488",
-				"9781786763501"
+				"9781003804086"
 			]
 		},
 		{
-			"label": "Nature's Matrix: linking agriculture, biodiversity conservation and food sovereignty",
+			"label": "Conservation Concepts",
 			"isbns": [
-				"9780367137779",
-				"9780429650284"
-			]
-		},
-		{
-			"label": "Biodiversity, Food and Nutrition: A New Agenda for Sustainable Food Systems",
-			"isbns": [
-				"9780367141516",
-				"9780429030574"
-			]
-		},
-		{
-			"label": "Conserving Biodiversity in Areas Beyond National Jurisdiction",
-			"isbns": [
-				"9789004391697",
-				"9789004391703"
-			]
-		},
-		{
-			"label": "Biodiversity: Law, Policy and Governance",
-			"isbns": [
-				"9781138288195",
-				"9781351337090"
-			]
-		},
-		{
-			"label": "Incorporating Indigenous Rights in the International Regime on Biodiversity Protection",
-			"isbns": [
-				"9789004364196",
-				"9789004364400"
+				"9781032169200"
 			]
 		}
 	]
