@@ -2,57 +2,27 @@
 	"label": "Books on Nuclear Power in the EU",
 	"description": "A selection of titles on nuclear power in the EU available from the European Parliament Library.",
 	"list": [{
-			"label": "Handbook on European nuclear law",
+			"label": "Constitutional Discussions on Nuclear Energy in Germany",
 			"isbns": [
-				"9789403528311"
+				"9781040046296"
 			]
 		},
 		{
-			"label": "The meanings of a disaster",
+			"label": "Handbook of Energy and Environment in the 21st Century",
 			"isbns": [
-				"9781789207033"
+				"9781040016794"
 			]
 		},
 		{
-			"label": "Disposal of All Forms of Radioactive Waste and Residues",
+			"label": "The Global Nuclear Landscape",
 			"isbns": [
-				"9783030329105"
+				"9781032508894"
 			]
 		},
 		{
-			"label": "Hybrid nuclear energy systems",
+			"label": "Reliability and Probabilistic Safety Assessment in Multi-Unit Nuclear Power Plants",
 			"isbns": [
-				"9780128241080"
-			]
-		},
-		{
-			"label": "Nuclear Law",
-			"isbns": [
-				"9789462654952"
-			]
-		},
-		{
-			"label": "Nuclear power explained",
-			"isbns": [
-				"9783030726706"
-			]
-		},
-		{
-			"label": "Fundamentals of thermal and nuclear power generation",
-			"isbns": [
-				"9780128207345"
-			]
-		},
-		{
-			"label": "Nuclear Power in Stagnation",
-			"isbns": [
-				"9780429802584"
-			]
-		},
-		{
-			"label": "Who needs nuclear power",
-			"isbns": [
-				"9781000197396"
+				"9780128193938"
 			]
 		}
 
