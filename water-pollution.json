@@ -2,33 +2,33 @@
 	"label": "Books on Water Pollution",
 	"description": "A selection of titles on water pollution available from the European Parliament Library.",
 	"list": [{
-			"label": "The ocean book",
+			"label": "Handbook of Water Pollution",
 			"isbns": [
-				"9780857844774"
+				"9781119904984"
 			]
 		},
 		{
-			"label": "Water pollution and management practices",
+			"label": "Toxicity of Aquatic System and Remediation",
 			"isbns": [
-				"9789811583582"
+				"9781003297901"
 			]
 		},
 		{
-			"label": "Proceedings of the 2nd International Conference on Microplastic Pollution in the Mediterranean Sea",
+			"label": "Aquatic Ecotoxicology",
 			"isbns": [
-				"9783030459093"
+				"9783031531309"
 			]
 		},
 		{
-			"label": "Water pollution and remediation",
+			"label": "Meso and Microplastic Risk Assessment in Marine Environments",
 			"isbns": [
-				"9783030524210"
+				"9780323909815"
 			]
 		},
 		{
-			"label": "Water Resources Quality and Management in Baltic Sea Countries",
+			"label": "Environmental Pollution and Public Health",
 			"isbns": [
-				"9783030397012"
+				"9780323959681"
 			]
 		}
 
