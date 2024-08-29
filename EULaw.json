@@ -2,31 +2,39 @@
 	"label": "EU Law: Legal Systems and Acts",
 	"description": "A selection of titles on EU Law: Legal Systems and Acts",
 	"list": [{
-			"label": "European Union law, a very short introduction ",
+			"label": "National Courts and the Application of EU Law",
 			"isbns": [
-				
-				"9780198749981"
-			]
-		},
-{
-			"label": "A Fiduciary Approach to Delegated and Implementing Rule-Making in the EU",
-			"isbns": [
-				
-				"9783030263003"
+				"9781032446257"
 			]
 		},
 		{
-			"label": "The Oxford Handbook of European Union Law",
+			"label": "Research Handbook on the Enforcement of EU Law",
 			"isbns": [
-				
-				"9780199672646"
+				"9781802208030"
 			]
 		},
 		{
-			"label": "The Authority of EU Law Do We Still Believe in It?",
+			"label": "The Principle of Solidarity",
 			"isbns": [
-				
-				"9783662588413"
+				"9789462655751"
+			]
+		},
+		{
+			"label": "More Equal Than Others?",
+			"isbns": [
+				"9789462655393"
+			]
+		},
+		{
+			"label": "EU Law and National Constitutions",
+			"isbns": [
+				"9781032442570"
+			]
+		},
+		{
+			"label": "Balancing Unity and Diversity in EU Legislation",
+			"isbns": [
+				"9781035302956"
 			]
 		}
 	]
