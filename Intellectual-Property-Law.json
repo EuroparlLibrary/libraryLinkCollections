@@ -2,45 +2,39 @@
 	"label": "Intellectual Property Law",
 	"description": "A selection of titles on Intellectual Property Law",
 	"list": [{
-			"label": "Research handbook on intellectual property and moral rights",
+			"label": "Research Handbook on Empirical Studies in Intellectual Property Law",
 			"isbns": [
-				
-				"9781771643986"
-			]
-		},
-{
-			"label": "Research handbook on empirical studies in intellectual property law",
-			"isbns": [
-				
 				"9781802206210"
 			]
 		},
 		{
-			"label": "Intellectual Property and the Law of Ideas",
+			"label": "Transboundary Heritage and Intellectual Property Law",
 			"isbns": [
-				
-				"9780429021084"
+				"9780367520779"
 			]
 		},
 		{
-			"label": "The policy space in international intellectual property law",
+			"label": "Intellectual Property Rights in the Post Pandemic World",
 			"isbns": [
-				
-				"9789004512085"
+				"9781803922744"
 			]
 		},
 		{
-			"label": "A Critical Mind Hanns Ullrich’s Footprint in Internal Market Law, Antitrust and Intellectual Property",
+			"label": "Research Handbook on Intellectual Property and Moral Rights",
 			"isbns": [
-				
-				"9783662659748"
+				"9781789904871"
 			]
 		},
-{
-			"label": "The autonomous legal concept of communication to the public : interpretation in EU copyright law",
+		{
+			"label": "Improving Intellectual Property",
 			"isbns": [
-				
-				"9781035302239"
+				"9781035310869"
+			]
+		},
+		{
+			"label": "Harmonizing Intellectual Property Law for a Trans-Atlantic Knowledge Economy",
+			"isbns": [
+				"9789004686212"
 			]
 		}
 	]
