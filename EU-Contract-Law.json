@@ -2,31 +2,33 @@
 	"label": "EU Contact Law, Commercial Law and Company Law",
 	"description": "A selection of titles on EU Contact Law, Commercial Law and Company Law",
 	"list": [{
-			"label": " Research Handbook on EU consumer and contract law",
+			"label": "Legal Agreements on Smart Contract Platforms in European Systems of Private Law",
 			"isbns": [
-				
-				"9781782547365"
-			]
-		},
-{
-			"label": "EU Trade Law",
-			"isbns": [
-				
-				"9781788977418"
+				"9783031354076"
 			]
 		},
 		{
-			"label": "Uniform rules for European contract law?",
+			"label": "Understanding Contract Law",
 			"isbns": [
-				
-				"9781509916313"
+				"9780367748104"
 			]
 		},
 		{
-			"label": " Better Regulation in EU Contract Law: The Fitness Check and the New Deal for Consumers ",
+			"label": "Advanced introduction to contract law and theory",
 			"isbns": [
-				
-				"9781509928385"
+				"9781800372672"
+			]
+		},
+		{
+			"label": "Principles of Contract Law and Theory",
+			"isbns": [
+				"9781803929606"
+			]
+		},
+		{
+			"label": "Commercial Contract Law and Arbitration",
+			"isbns": [
+				"9781040006412"
 			]
 		}
 	]
