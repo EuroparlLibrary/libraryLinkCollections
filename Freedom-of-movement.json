@@ -1,39 +1,34 @@
 {
 	"label": "Challenges to Freedom of Movement in the EU",
-	"description": "A selection of titles on Challenges to Freedom of Movement in the EU",
+	"description": "A selection of titles on the freedom of movement in the EU",
 	"list": [{
-			"label": "EU citizenship at the edges of freedom of movement",
+			"label": "Law, Migration, and the Construction of Whiteness",
 			"isbns": [
-				
-				"9781509937271"
-			]
-		},
-{
-			"label": "Labour Migration in the European Union, The Policy-Making Process",
-			"isbns": [
-				
-				"9783030361853"
+				"9781003175377"
 			]
 		},
 		{
-			"label": "The history and politics of free movement within the European Union, European borders of justice",
+			"label": "Free Movement of Persons in the Nordic States",
 			"isbns": [
-				
-				"9781350150546"
+				"9781509951871"
 			]
 		},
 		{
-			"label": "Blessing and curse of intra-EU mobility, free labour movement in Spain, Germany, and the UK",
+			"label": "Revisiting the Fundamentals of the Free Movement of Persons in EU Law",
 			"isbns": [
-				
-				"9783658314866"
+				"9780191995507"
 			]
 		},
-{
-			"label": "Research handbook on European state aid law",
+		{
+			"label": "Home and International Law",
 			"isbns": [
-				
-				"9781789909258"
+				"9781003304661"
+			]
+		},
+		{
+			"label": "Free Movement and Welfare Access in the European Union",
+			"isbns": [
+				"9781509966882"
 			]
 		}
 	]
