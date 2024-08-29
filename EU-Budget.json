@@ -2,6 +2,27 @@
 	"label": "The EU Budget",
 	"description": "A selection of titles on the EU Budget available from the European Parliament Library.",
 	"list": [{
+			"label": "The Budget of the European Union and German European Policy",
+			"isbns": [
+				
+				"9783658394738"
+			]
+		},
+		{
+			"label": "The EU Political System After the 2019 European Elections",
+			"isbns": [
+				
+				"9783031123382"
+			]
+		},
+		{
+			"label": "Current Debates on Public Finance : Theory and Practice.",
+			"isbns": [
+				
+				"9783631901960"
+			]
+		},
+		{
 			"label": "Der Haushalt der Europäischen Union und die deutsche Europapolitik",
 			"isbns": [
 				
