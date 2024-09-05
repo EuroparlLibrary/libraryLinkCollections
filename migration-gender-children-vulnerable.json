@@ -2,53 +2,52 @@
 	"label": "Books on Migration: Gender, Childrens Right and Protecting the Vulnerable",
 	"description": "A selection of titles on migration: gender, childrens right and protecting the vulnerable available from the European Parliament Library.",
 	"list": [{
-			"label": "Responding to women migrant's needs",
+			"label": "Gender-Based Violence in Migration : Interdisciplinary, Feminist and Intersectional Approaches",
 			"isbns": [
-				"9783030637354"
+				"9783031079290"
 			]
 		},
 		{
-			"label": "Handbook of culture and migration",
+			"label": "Forced migration, gender and wellbeing : the long-term effects of displacement on women",
 			"isbns": [
-				"9781789903461"
+				"9781788111737"
 			]
 		},
 		{
-			"label": "Protecting migrant children",
+			"label": "The gender of borders : embodied narratives of migration, violence and agency",
 			"isbns": [
-				"9781786430267"
+				"9781000824582"
 			]
 		},
 		{
-			"label": "Migration und Engagement",
+			"label": "Migrant homelessness and the crimmigration control system",
 			"isbns": [
-				"9783658250966"
+				"9781000877175"
 			]
 		},
 		{
-			"label": "Migration and inequality",
+			"label": "Queer and trans African mobilities : migration, asylum and diaspora",
 			"isbns": [
-				"9781509522149"
+				"9780755639014"
 			]
 		},
 		{
-			"label": "Children, human rights and temporary labour migration",
+			"label": "Education for Refugees and Forced (Im)Migrants Across Time and Context.",
 			"isbns": [
-				"9781003028000"
+				"9781837534227"
 			]
 		},
 		{
-			"label": "Immigration, social cohesion and political reaction",
+			"label": "Borders of desire : gender and sexuality at the eastern borders of Europe",
 			"isbns": [
-				"9783030527082"
+				"9781526179661"
 			]
 		},
 		{
-			"label": "Handbook on human security, borders and migration",
+			"label": "Native bias : overcoming discrimination against immigrants",
 			"isbns": [
-				"9781839108907"
+				"9780691222325"
 			]
 		}
-
 	]
 }
