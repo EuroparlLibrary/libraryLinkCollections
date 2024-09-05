@@ -2,31 +2,45 @@
 	"label": "European Criminal Law and the European Arrest Warrant",
 	"description": "A selection of titles on European Criminal Law and the European Arrest Warrant",
 	"list": [{
-			"label": "European criminal law: an integrative approach",
+			"label": "The Cambridge companion to European criminal law",
 			"isbns": [
 				
-				"9781780689685"
+				"9781108891875"
 			]
 		},
 {
-			"label": "The Needed Balances in EU Criminal Law : Past, Present and Future",
+			"label": "The Normative Foundations for EU Criminal Justice : Powers, Limits and Justifications",
 			"isbns": [
 				
-				"9781509917006"
+				"9781509962365"
 			]
 		},
 		{
-			"label": "Fundamental Rights and Mutual Trust in the Area of Freedom, Security and Justice: A Role for Proportionality?",
+			"label": "Forced Mobility of EU Citizens: Transnational Criminal Justice Instruments and the Management of 'Unwanted' EU Nationals",
 			"isbns": [
 				
-				"9781509922260"
+				"9781003254584"
 			]
 		},
 		{
-			"label": "Handbook of European Criminal Procedure",
+			"label": "Criminal and quasi-criminal enforcement mechanisms in Europe : origins, concepts, future",
 			"isbns": [
 				
-				"9783319724621"
+				"9781509932870"
+			]
+		},
+		{
+			"label": "The European Arrest Warrant and EU Citizenship : EU Citizenship in Relation to Foreseeability Problems in the Surrender Procedure",
+			"isbns": [
+				
+				"9783031075902"
+			]
+		},
+		{
+			"label": "Improving the European Arrest Warrant",
+			"isbns": [
+				
+				"9789400111875"
 			]
 		}
 	]
