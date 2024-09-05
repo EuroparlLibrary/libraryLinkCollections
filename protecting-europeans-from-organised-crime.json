@@ -2,71 +2,52 @@
 	"label": "Books on Protecting Europeans from Organised Crime",
 	"description": "A selection of titles on protecting Europeans from organised crime available from the European Parliament Library.",
 	"list": [{
-			"label": "Crime, security and global politics",
+			"label": "Organised Crime, Financial Crime, and Criminal Justice: Theoretical Concepts and Challenges",
 			"isbns": [
-				"9781137467997"
+				"9780367897451"
 			]
 		},
 		{
-			"label": "Contemporary organized crime",
+			"label": "The Dark Mafia : Organized Crime in the Age of the Internet.",
 			"isbns": [
-				"9783030565923"
+				"9781003278597"
 			]
 		},
 		{
-			"label": "Vertragliche Umsetzungskontrolle Im Transnationalen Strafrecht",
+			"label": "The Transnational Crime of Human Trafficking : A Human Security Approach",
 			"isbns": [
-				"9783662632772"
+				"9781032552620"
 			]
 		},
 		{
-			"label": "Exploiting People for Profit",
+			"label": "Tax crimes and enforcement in the European Union",
 			"isbns": [
-				"9781137434135"
+				"9780191953408"
 			]
 		},
 		{
-			"label": "Technology in human smuggling and trafficking",
+			"label": "The rise of EU police cooperation : governing differentiated integration",
 			"isbns": [
-				"9783030427689"
+				"9781032200927"
 			]
 		},
 		{
-			"label": "Disaster and human trafficking",
+			"label": "Countering Terrorist and Criminal Financing: Theory and Practice",
 			"isbns": [
-				"9789811616303"
+				"9781032366616"
 			]
 		},
 		{
-			"label": "Crime and power",
+			"label": "Economic Crime: From Conception to Response",
 			"isbns": [
-				"9783030573140"
+				"9780367533861"
 			]
 		},
 		{
-			"label": "Understanding recruitment to organized crime and terrorism",
+			"label": "The Private Sector and Organized Crime: Criminal Entrepreneurship, Illicit Profits, and Private Sector Security Governance",
 			"isbns": [
-				"9783030366391"
-			]
-		},
-		{
-			"label": "Transnational crime and black spots",
-			"isbns": [
-				"9781137496706"
-			]
-		},
-		{
-			"label": "Politicising and policing organised crime",
-			"isbns": [
-				"9781351657464"
-			]
-		},
-		{
-			"label": "Organized crime : causes and consequences",
-			"isbns": [
-				"9781536158656"
+				"9781032056609"
 			]
 		}
-
 	]
 }
