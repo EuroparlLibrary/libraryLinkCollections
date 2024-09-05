@@ -2,15 +2,27 @@
 	"label": "Books on Railway Transport",
 	"description": "A selection of titles on railway transport available from the European Parliament Library.",
 	"list": [{
-			"label": "Railway transportation in South Asia",
+			"label": "Transport Law in Greece.",
 			"isbns": [
-				"9783030768782"
+				"9789403505978"
 			]
 		},
 		{
-			"label": "The privatisation of British rail: How not to run a railway",
+			"label": "The privatisation of British rail : how not to run a railway",
 			"isbns": [
-				"9781000880922"
+				"9780429344480"
+			]
+		},
+		{
+			"label": "Digital safety in railway transport aspects of management and technology",
+			"isbns": [
+				"9783030961336"
+			]
+		},
+		{
+			"label": "Transport Law in Germany",
+			"isbns": [
+				"9789403549545"
 			]
 		},
 		{
@@ -20,9 +32,9 @@
 			]
 		},
 		{
-			"label": "Benchmarking and Regulation in Transport",
+			"label": "Economic evaluation of transport projects",
 			"isbns": [
-				"9781800374348"
+				"9783031359590"
 			]
 		},
 		{
