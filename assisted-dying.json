@@ -2,47 +2,28 @@
 	"label": "Books on Assisted Dying",
 	"description": "A selection of titles on assisted dying available from the European Parliament Library.",
 	"list": [{
-			"label": "Law, palliative care and dying",
+			"label": "The Right to Die with Dignity : How Far Do Human Rights Extend?",
 			"isbns": [
-				"9781351716727"
+				"9783031045165"
 			]
 		},
 		{
-			"label": "Euthanasia and assisted suicide",
+			"label": "Politics and Policies in the Debate on Euthanasia : Morality Issues in Portugal",
 			"isbns": [
-				"9781107198869"
+				"9783031445880"
 			]
 		},
 		{
-			"label": "Death, Dying, and Bereavement in a Changing World",
+			"label": "Taking One's Own Life : Euthanasia and Suicide in Dutch Law with a Short Excursus to German Law.",
 			"isbns": [
-				"9781351401692"
+				"9783631870013"
 			]
 		},
 		{
-			"label": "Assistierter Suizid: Der Stand der Wissenschaft",
+			"label": "What Kind of Death: The Ethics of Determining One's Own Death",
 			"isbns": [
-				"9783662526699"
-			]
-		},
-		{
-			"label": "Dying with dignity",
-			"isbns": [
-				"9781440830983"
-			]
-		},
-		{
-			"label": "Sterben und Tod in Deutschland",
-			"isbns": [
-				"9783531188737"
-			]
-		},
-		{
-			"label": "Cultural Contestation",
-			"isbns": [
-				"9783319919140"
+				"9781032247960"
 			]
 		}
-
 	]
 }
