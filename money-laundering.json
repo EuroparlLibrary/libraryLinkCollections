@@ -2,45 +2,39 @@
 	"label": "Books on Money Laundering",
 	"description": "A selection of titles on Money Laundering available from the European Parliament Library.",
 	"list": [{
-			"label": "National and International Anti-Money Laundering Law",
+			"label": "The enforcement of EU financial law",
 			"isbns": [
-				"9781780689548"
+				"9781509959754"
 			]
 		},
 		{
-			"label": "Kleptopia",
+			"label": "International anti-money laundering and soft law : approaches to regulation",
 			"isbns": [
-				"9780008308384"
+				"9781032449265"
 			]
 		},
 		{
-			"label": "Individual criminal responsibility for the financing of entities involved in core crimes",
+			"label": "Anti-Money Laundering, Counter Financing Terrorism and Cybersecurity in the Banking Industry : A Comparative Study within the G-20",
 			"isbns": [
-				"9789004470934"
+				"9783031234842"
 			]
 		},
 		{
-			"label": "Anti-Money Laundering Regulation and Compliance",
+			"label": "Ethics in banking : is it possible?",
 			"isbns": [
-				"9781788974837"
+				"9783031221484"
 			]
 		},
 		{
-			"label": "Regulating and Combating Money Laundering and Terrorist Financing",
+			"label": "Anti-Money Laundering in a Nutshell : Awareness and Compliance for Financial Personnel and Business Managers.",
 			"isbns": [
-				"9780367861421"
+				"9798868800665"
 			]
 		},
 		{
-			"label": "Preventing Money Laundering and Terrorist Financing",
+			"label": "Regulating the Metaverse Economy : How to Prevent Money Laundering and the Financing of Terrorism.",
 			"isbns": [
-				"9781464818523"
-			]
-		},
-		{
-			"label": "Deconstructing money laundering risk",
-			"isbns": [
-				"9783031075087"
+				"9783031464171"
 			]
 		}
 	]
