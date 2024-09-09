@@ -2,24 +2,27 @@
 	"label": "Global Health",
 	"description": "A selection of titles on Foreign Global Health.",
 	"list": [{
-			"label": "Globalization, Health and the Global South : A Critical Approach",
+			"label": "Global Health Challenges",
 			"isbns": [
-				
-				"9781000512786"
-			]
-		},
-{
-			"label": "Pandemics and Global Health",
-			"isbns": [
-				
-				"9781685072612"
+				"9781003354024"
 			]
 		},
 		{
-			"label": "How Data Can Manage Global Health Pandemics : Analyzing and Understanding COVID-19",
+			"label": "Systems Thinking for Global Health",
 			"isbns": [
-				
-				"9781000574418"
+				"9780192520074"
+			]
+		},
+		{
+			"label": "Pandemics, Public Health, and the Regulation of Borders",
+			"isbns": [
+				"9781003394006"
+			]
+		},
+		{
+			"label": "The COVID-19 Disruption and the Global Health Challenge",
+			"isbns": [
+				"9780443185779"
 			]
 		},
 		{
@@ -35,31 +38,19 @@
 				"9781003241065"
 			]
 		},
-{
-			"label": "Covid-19 and Governance : Crisis Reveals",
-			"isbns": [
-				"9781000395303"
-			]
-		},
-{
+		{
 			"label": "International Regimes in Global Health Governance",
 			"isbns": [
 				"9781000353907"
 			]
 		}, 
-{
-			"label": "Global Health Watch 6: In The Shadow Of The Pandemic",
-			"isbns": [
-				"9781913441227 "
-			]
-		},
-{
+		{
 			"label": "Social Science Perspectives on Global Public Health",
 			"isbns": [
 				"9781000713329"
 			]
 		},
-{
+		{
 			"label": "Die Coronakrise 2020, unterschiedliche Strategien zu deren Eindämmung im Vergleich",
 			"isbns": [
 				"9783847424734"
