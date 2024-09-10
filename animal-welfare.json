@@ -2,52 +2,45 @@
 	"label": "Books on animal welfare",
 	"description": "A selection of titles on animal welfare available from the European Parliament Library.",
 	"list": [{
-			"label": "The Routledge handbook of animal ethics",
+			"label": "Animal welfare governance in EU agriculture : hybrid standards, trade and values in the agri-food chain",
 			"isbns": [
-				"9781315105840"
+				"9781803923482"
 			]
 		},
 		{
-			"label": "The welfare of cattle",
+			"label": "Advances in pig welfare",
 			"isbns": [
-				"9781315282442"
-			]
-		},
-
-		{
-			"label": "Animals in international law",
-			"isbns": [
-				"9789004466258"
+				"9780323915731"
 			]
 		},
 		{
-			"label": "Food and animal welfare",
+			"label": "Farm animal welfare law : international perspectives on sustainable agriculture and wildlife regulation",
 			"isbns": [
-				"9780857857378"
+				"9780367684761"
 			]
 		},
 		{
-			"label": "Animal Welfare",
+			"label": "Anesthesia and analgesia in laboratory animals",
 			"isbns": [
-				"9781119857082"
-			]
-		},
-		{
-			"label": "Animal welfare and international environmental law",
-			"isbns": [
-				"9781788113939"
-			]
-		},
-		{
-			"label": "The Economics of Farm Animal Welfare",
-			"isbns": [
-				"9781786392312"
+				"9780128222201"
 			]
 		},
 		{
 			"label": "Routledge Handbook of Animal Welfare",
 			"isbns": [
-				"9781003182351"
+				"9781000635768"
+			]
+		},
+		{
+			"label": "Global animal law from the margins international trade in animals and their bodies",
+			"isbns": [
+				"9781032226989"
+			]
+		},
+		{
+			"label": "The Ethics of Fur : Religious, Cultural, and Legal Perspectives",
+			"isbns": [
+				"9781666937954"
 			]
 		}
 
