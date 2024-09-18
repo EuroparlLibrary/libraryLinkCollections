@@ -2,27 +2,27 @@
 	"label": "Books on Artificial Intelligence in Education, Culture and Audiovisual Sector",
 	"description": "A selection of titles on Artificial Intelligence in Education, Culture and Audiovisual Sector available from the European Parliament Library.",
 	"list": [{
-			"label": "Artificial intelligence in Society",
+			"label": "Generative AI in Higher Education: The ChatGPT Effect",
 			"isbns": [
-				"9789264925434"
+				"9781003459026"
 			]
 		},
 		{
-			"label": "The Culture of AI, Everyday Life and the Digital Revolution",
+			"label": "Augmented Education in the Global Age : Artificial Intelligence and the Future of Learning and Work",
 			"isbns": [
-				"9781315387178"
+				"9781003230762"
 			]
 		},
 		{
-			"label": "Understanding Religion through Artificial Intelligence, Bonding and Belief",
+			"label": "The age of AI : and our human future",
 			"isbns": [
-				"9781350103573"
+				"9781529375992"
 			]
 		},
 		{
-			"label": "Opting out of Digital Media",
+			"label": "Artificial intelligence and learning futures : critical narratives of technology and imagination in higher education.",
 			"isbns": [
-				"9780429892288"
+				"9781000790597"
 			]
 		}
 	]
