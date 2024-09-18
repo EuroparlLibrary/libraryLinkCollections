@@ -8,9 +8,27 @@
 			]
 		},
 		{
-			"label": "Climate smart agriculture : concepts, challenges, and opportunities",
+			"label": "Climate Change and Critical Agrarian Studies",
 			"isbns": [
-				"9789811591327"
+				"9781003467960"
+			]
+		},
+		{
+			"label": "Climate Risk Management in Agriculture : Monthly and Seasonal Forecast Application",
+			"isbns": [
+				"9783031518621"
+			]
+		},
+		{
+			"label": "Food Production, Diversity, and Safety under Climate Change",
+			"isbns": [
+				"9783031516474"
+			]
+		},
+		{
+			"label": "Sustainable Agriculture : Adaptation Strategies to Address Climate Change By 2050",
+			"isbns": [
+				"9781003815990"
 			]
 		},
 		{
@@ -25,6 +43,5 @@
 				"9781789245769"
 			]
 		}
-
 	]
 }
