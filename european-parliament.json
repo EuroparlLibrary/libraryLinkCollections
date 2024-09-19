@@ -1,0 +1,36 @@
+{
+	"label": "Books on European Parliament",
+	"description": "A selection of titles on the European Parliament available from the European Parliament Library.",
+	"list": [{
+			"label": "The European Parliament As an Accountability Forum",
+			"isbns": [
+				"9781108835756"
+			]
+		},
+		{
+			"label": "Brexit and Democracy",
+			"isbns": [
+				"9783030060435"
+			]
+		},
+		{
+			"label": "Patterns of Opposition in the European Parliament",
+			"isbns": [
+				"9783030536831"
+			]
+		},
+		{
+			"label": "European Parliament’s Political Groups in Turbulent Times",
+			"isbns": [
+				"9783030940140"
+			]
+		},
+		{
+			"label": "The Routledge Handbook of Parliamentary Administrations",
+			"isbns": [
+				"9780103202020"
+			]
+		}
+
+	]
+}
