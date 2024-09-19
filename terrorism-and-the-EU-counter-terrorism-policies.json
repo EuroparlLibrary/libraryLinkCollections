@@ -1,16 +1,16 @@
 {
-	"label": "Books on Russia's War on Ukraine: Its Origins and Geopolitical Context",
-	"description": "A selection of titles on Russia's War on Ukraine: Its Origins and Geopolitical Context available from the European Parliament Library.",
+	"label": "Books on Terrorism and the EU Counter-Terrorism Policies",
+	"description": "A selection of titles on Terrorism and the EU Counter-Terrorism Policies.",
 	"list": [{
-			"label": "The new EU counter-terrorism offences",
+			"label": "Human Factors in Effective Counter-Terrorism : A Comparative Study",
 			"isbns": [
-				"9789004424623"
+				"9781003858317"
 			]
 		},
 		{
-			"label": "Terrorism and counterterrorism",
+			"label": "Global terrorism : a reference handbook",
 			"isbns": [
-				"9781138317635"
+				"9781440878268"
 			]
 		},
 		{
@@ -38,33 +38,21 @@
 			]
 		},
 		{
-			"label": "Preventing radicalisation and terrorism in Europe",
+			"label": "Countering Terrorist and Criminal Financing : Theory and Practice",
 			"isbns": [
-				"9781527539518"
+				"9781032366616"
 			]
 		},
 		{
-			"label": "The European Union's fight against terrorism",
+			"label": "Routledge handbook of transnational terrorism",
 			"isbns": [
-				"9781526133847"
+				"9781003326373"
 			]
 		},
 		{
-			"label": "Essentials of terrorism",
+			"label": "The evolution of information-sharing in EU counter-terrorism : a post-2015 paradigm shift?",
 			"isbns": [
-				"9781544342931"
-			]
-		},
-		{
-			"label": "Terrorism: law and policy",
-			"isbns": [
-				"9781138655317"
-			]
-		},
-		{
-			"label": "Avoiding the terrorist trap",
-			"isbns": [
-				"9781783266548"
+				"9781803928302"
 			]
 		}
 	]
