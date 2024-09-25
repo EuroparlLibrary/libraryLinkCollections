@@ -2,65 +2,52 @@
 	"label": "Books on EU Welfare Systems and the Challenges of Poverty, Inequalities and Social Justice",
 	"description": "A selection of titles on EU welfare systems and the challenges of poverty, inequalities and social justice available from the European Parliament Library.",
 	"list": [{
-			"label": "Combating poverty and social exclusion in European Union Law",
+			"label": "The Fate of Social Modernity",
 			"isbns": [
-				"9781000563504"
+				"9781035331222"
 			]
 		},
 		{
-			"label": "Welfare state legitimacy in times of crisis and austerity",
+			"label": "Who's Afraid of the Welfare State Now?",
 			"isbns": [
-				"9781788976305"
+				"9780198875482"
 			]
 		},
 		{
-			"label": "Austerity, retrenchment and the welfare state",
+			"label": "Research Handbook on European Social Security Law",
 			"isbns": [
-				"9781789903713"
+				"9781782547334"
 			]
 		},
 		{
-			"label": "Poverty, Crisis and Resilience",
+			"label": "Free Movement and Welfare Access in the European Union",
 			"isbns": [
-				"9781788973205"
+				"9781509966882"
 			]
 		},
 		{
-			"label": "Faith-Based Organizations and Social Welfare",
+			"label": "Welfare states in a turbulent era",
 			"isbns": [
-				"9783030447076"
+				"9781803926841"
 			]
 		},
 		{
-			"label": "Regimes of inequality",
+			"label": "The Routledge International Handbook to Welfare State Systems",
 			"isbns": [
-				"9781107001688"
+				"9781472449306"
 			]
 		},
 		{
-			"label": "Local welfare and the organization of social services",
+			"label": "Disability, Happiness and the Welfare State",
 			"isbns": [
-				"9783030661281"
+				"9781040002407"
 			]
 		},
 		{
-			"label": "Soziale Armut",
+			"label": "Ten worlds of welfare capitalism",
 			"isbns": [
-				"9783658361419"
-			]
-		},
-		{
-			"label": "Welfare states in the 21st century",
-			"isbns": [
-				"9781800370791"
-			]
-		},
-		{
-			"label": "Rethinking welfare and the welfare state",
-			"isbns": [
-				"9781800885127"
+				"9789811978630"
 			]
 		}
-
 	]
 }
