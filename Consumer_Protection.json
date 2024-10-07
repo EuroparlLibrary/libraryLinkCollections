@@ -2,39 +2,27 @@
 	"label": "Consumer Protection",
 	"description": "A selection of titles on Consumer Protection available from the European Parliament Library.",
 	"list": [{
-			"label": "Consumer Protection, Automated Shopping Platforms and EU Law",
+			"label": "The Transformation of Consumer Law and Policy in Europe",
 			"isbns": [
-				"9781472424273"
+				"9781509963058"
+			]
+		},
+		{
+			"label": "Competition damages actions in the EU and the UK",
+			"isbns": [
+				"9781786430748"
+			]
+		},
+		{
+			"label": "Protecting Financial Consumers in Europe",
+			"isbns": [
+				"9789004534391"
 			]
 		},
 		{
 			"label": "Algorithmic marketing and EU law on unfair commercial practices",
 			"isbns": [
 				"9783031136030"
-			]
-		},
-		{
-			"label": "The consumer welfare hypothesis in law and economics : towards a synthesis for the 21st century",
-			"isbns": [
-				"9781800379657"
-			]
-		},
-		{
-			"label": "Certification - Trust, Accountability, Liability",
-			"isbns": [
-				"9783030024987"
-			]
-		},
-		{
-			"label": "New Developments in Competition Law and Economics",
-			"isbns": [
-				"9783030116101"
-			]
-		},
-		{
-			"label": "Vulnerable Consumers and the Law",
-			"isbns": [
-				"9781000209747"
 			]
 		}
 	]
