@@ -2,51 +2,27 @@
 	"label": "Books on Minimum Wage",
 	"description": "A selection of titles on minimum wage available from the European Parliament Library.",
 	"list": [{
-			"label": "Labour and the wage",
+			"label": "Zero Poverty Society",
 			"isbns": [
-				"9780198858898"
+				"9780192699374"
 			]
 		},
 		{
-			"label": "The role of scientific expertise in minimum wage policy making",
+			"label": "Tackling Precarious Work",
 			"isbns": [
-				"9783658327460"
+				"9781000988284"
 			]
 		},
 		{
-			"label": "Le salaire minimum et l'emploi",
-			"isbns": [
-				"9782724626179"
-			]
-		},
-		{
-			"label": "The living wage",
-			"isbns": [
-				"9781000448672"
-			]
-		},
-		{
-			"label": "The caring class",
-			"isbns": [
-				"9781501754128"
-			]
-		},
-		{
-			"label": "Global Labour in Distress",
+			"label": "Global Labour in Distress: Volume I",
 			"isbns": [
 				"9783030892586"
 			]
 		},
 		{
-			"label": "European trade unions in the 21st century",
+			"label": "European Trade Unions in the 21st Century",
 			"isbns": [
 				"9783030882853"
-			]
-		},
-		{
-			"label": "World Inequality Report 2022",
-			"isbns": [
-				"9780674276598"
 			]
 		}
 
