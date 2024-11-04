@@ -2,58 +2,41 @@
 	"label": "Books on cryptocurrencies and blockchain",
 	"description": "A selection of titles on cryptocurrencies and blockchain available as from the European Parliament Library.",
 	"list": [{
-			"label": "Bitcoin, Blockchain, and Cryptoassets",
+			"label": "Handbook of Digital Currency",
 			"isbns": [
-				"9780262539166"
+				"9780323989749"
 			]
 		},
 		{
-			"label": "The Cambridge Handbook of Smart Contracts, Blockchain Technology and Digital Platforms",
+			"label": "Advances in Emerging Financial Technology and Digital Money",
 			"isbns": [
-				"9781108492560"
+				"9781003858232"
 			]
 		},
 		{
-			"label": "Cryptoassets: legal, regulatory, and monetary perspectives",
+			"label": "Stablecoins: Background, Risks and Legislation",
 			"isbns": [
-				"9780190077327"
+				"9798891135499"
 			]
 		},
 		{
-			"label": "Blockchain : la révolution de la confiance",
+			"label": "Data Act: An Introduction",
 			"isbns": [
-				"9782212566659"
+				"9783748918691"
 			]
 		},
 		{
-			"label": "Bits to Bitcoin: how our digital stuff works",
+			"label": "Cryptocurrency Risk and Governance Challenges",
 			"isbns": [
-				"9780262037938"
+				"9781032163680"
 			]
 		},
 		{
-			"label": "The truth machine: the blockchain and the future of everything",
+			"label": "Cryptocurrency Concepts, Technology, and Applications",
 			"isbns": [
-				"9780008301774"
-			]
-		},
-		{
-			"label": "Blockchain and the Law: the rule of code",
-			"isbns": [
-				"9780674976429"
-			]
-		},
-		{
-			"label": "The economics of cryptocurrencies",
-			"isbns": [
-				"9780429575686"
-			]
-		},
-		{
-			"label": "Fintech: a revolution or a transitory hype?",
-			"isbns": [
-				"9781802206340"
+				"9781000867152"
 			]
 		}
+	
 	]
 }
