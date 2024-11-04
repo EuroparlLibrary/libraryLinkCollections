@@ -1,46 +1,25 @@
 {
-	"label": "the Single Market",
+	"label": "The Single Market",
 	"description": "A selection of titles on the Single Market: The Origins and Evolution available from the European Parliament Library.",
 	"list": [{
-			"label": "Poland in the single market : politics, economics, the euro",
+			"label": "Handbuch Europarecht",
 			"isbns": [
-				"9780367249823"
+				"9783662685792"
 			]
 		},
 		{
-			"label": "The Internal Market 2.0",
+			"label": "Judicial Authority in EU Internal Market Law",
 			"isbns": [
-				"9781509939039",
-				"9781509939046"
+				"9781509939015"
 			]
 		},
 		{
-			"label": "Blessing and Curse of Intra-EU Mobility",
+			"label": "Trade regulation and policy in the EU internal market",
 			"isbns": [
-				"9783658314866",
-				"9783658314859"
-			]
-		},
-		{
-			"label": "Trade Regulation and Policy in the EU Internal Market",
-			"isbns": [
-				"9781800886674",
 				"9781800886681"
 			]
-		},
-		{
-			"label": "Droit matériel de l'Union européenne : libertés de circulation et marché intérieur",
-			"isbns": [
-				"9782807900080",
-				"9782804496180"
-			]
-		},
-		{
-			"label": "Single markets : economic integration in Europe and the United States",
-			"isbns": [
-				"9780199280506"
-			]
 		}
+		
 	]
 }
 
