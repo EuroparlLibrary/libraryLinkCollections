@@ -2,39 +2,39 @@
 	"label": "Books on Foreign Interference Including Disinformation",
 	"description": "A selection of titles on foreign interference including disinformation available from the European Parliament Library.",
 	"list": [{
-			"label": "Tyrants on Twitter",
+			"label": "State-Sponsored Disinformation Around the Globe: How Politicians Deceive their Citizens",
 			"isbns": [
-				"9781503631151"
+				"9781040156520"
 			]
 		},
 		{
-			"label": "Politics of disinformation",
+			"label": "Security, Disinformation and Harmful Narratives: RT and Sputnik News Coverage about Sweden",
 			"isbns": [
-				"9781119743323"
+				"9783031587474"
 			]
 		},
 		{
-			"label": "Criminal fraud and election disinformation",
+			"label": "Disinformation : Social and Media Contexts",
 			"isbns": [
-				"9780192658845"
+				"9783631923191"
 			]
 		},
 		{
-			"label": "The Infodemic",
+			"label": "Counterfact : Fake News and Misinformation in the Digital Information Age",
 			"isbns": [
-				"9780755640768"
+				"9781538177396"
+			]
+		},
+		{
+			"label": "Counterspeech: Multidisciplinary Perspectives on Countering Dangerous Speech",
+			"isbns": [
+				"9781003377078"
 			]
 		},
 		{
 			"label": "Routledge Handbook of Disinformation and National Security",
 			"isbns": [
 				"9781000908206"
-			]
-		},
-		{
-			"label": "Democracy and fake news",
-			"isbns": [
-				"9781003037385"
 			]
 		}
 
