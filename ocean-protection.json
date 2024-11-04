@@ -2,41 +2,40 @@
 	"label": "Books on Ocean Protection",
 	"description": "A selection of titles on ocean protection available from the European Parliament Library.",
 	"list": [{
-			"label": "The brilliant abyss",
+			"label": "Marine Bioprospecting, Biodiversity and Novel Uses of Ocean Resources: New Approaches in International Law",
 			"isbns": [
-				"9781472966872"
+				"9781509968305"
 			]
 		},
 		{
-			"label": "Perspectives on deep-sea mining",
+			"label": "Liability and Compensation for Offshore Oil Pollution Damage in the Arctic : Comparing Norwegian and Russian Law.",
 			"isbns": [
-				"9783030879822"
+				"9789004548343"
 			]
 		},
 		{
-			"label": "Ocean acidification and marine wildlife",
+			"label": "Persistent Organic Pollutants in the Ecosystems of the North Pacific",
 			"isbns": [
-				"9780128223314"
+				"9783031448966"
 			]
 		},
 		{
-			"label": "Research handbook on ocean acidification law and policy",
+			"label": "Legal aspects of the recovery of areas degraded by mining in the international seabed",
 			"isbns": [
-				"9781789900149"
+				"9783031124921"
 			]
 		},
 		{
-			"label": "Climate change and maritime boundaries",
+			"label": "Marine Pollution – Monitoring, Management and Mitigation",
 			"isbns": [
-				"9781009058629"
+				"9783031101274"
 			]
 		},
 		{
-			"label": "Plastics and the ocean",
+			"label": "Microplastic Contamination in Aquatic Environments : An Emerging Matter of Environmental Urgency",
 			"isbns": [
-				"9781119768395"
+				"9780443153334"
 			]
 		}
-
 	]
 }
