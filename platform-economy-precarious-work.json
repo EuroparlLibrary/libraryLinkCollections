@@ -2,33 +2,33 @@
 	"label": "Books on Platform Economy and Precarious Work",
 	"description": "A selection of titles on platform economy and precarious work available from the European Parliament Library.",
 	"list": [{
-			"label": "The Routledge handbook of the gig economy",
+			"label": "Geographies of the platform economy : critical perspectives",
 			"isbns": [
-				"9781003161875 "
+				"9783031535949"
 			]
 		},
 		{
-			"label": "Precarity and international relations",
+			"label": "Capitalism in the Platform Age: Emerging Assemblages of Labour and Welfare in Urban Spaces",
 			"isbns": [
-				"9783030510961"
+				"9783031491474"
 			]
 		},
 		{
-			"label": "Global Rupture",
+			"label": "Competition Law Issues in the Platform Economy : Comparative Commercial and Economic Law Proceedings from the 38th German Conference on Comparative Law in Tübingen.",
 			"isbns": [
-				"9789004519183"
+				"9783161634093"
 			]
 		},
 		{
-			"label": "Work in the gig economy: a research overview",
+			"label": "Regulating Gig Work : Decent Labour Standards in a World of on-Demand Work",
 			"isbns": [
-				"9780429351488"
+				"9781003827801"
 			]
 		},
 		{
-			"label": "Platform economy puzzles",
+			"label": "Platform strategies : a guidebook for entrepreneurs in the platform economy",
 			"isbns": [
-				"9781839100284"
+				"9780429956218"
 			]
 		}
 
