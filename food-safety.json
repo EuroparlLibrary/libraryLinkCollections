@@ -2,35 +2,34 @@
 	"label": "Books on Food Safety",
 	"description": "A selection of titles on food safety available from the European Parliament Library.",
 	"list": [{
-			"label": "Food safety: saving lives",
+			"label": "Food Production, Diversity, and Safety Under Climate Change",
 			"isbns": [
-				"9781534568822"
+				"9783031516474"
 			]
 		},
 		{
-			"label": "Food safety, from farm to fork",
+			"label": "Food Safety : Contaminants and Risk Assessment",
 			"isbns": [
-				"9781527560567"
+				"9781003333913"
 			]
 		},
 		{
-			"label": "Effective governance designs of food safety regulation in the EU",
+			"label": "Food Safety : Quality Control and Management",
 			"isbns": [
-				"9783030827939"
+				"9781003857280"
 			]
 		},
 		{
-			"label": "Present Knowledge in Food Safety",
+			"label": "Aquatic food security",
 			"isbns": [
-				"9780128231548"
+				"9781789183344"
 			]
 		},
 		{
-			"label": "Food safety and technology governance",
+			"label": "Prendre au sérieux le droit à une alimentation saine et durable : analyse comparée d'une histoire contemporaine et prospective juridique",
 			"isbns": [
-				"9781000627251"
+				"9782875748812"
 			]
 		}
-
 	]
 }
