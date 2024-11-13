@@ -2,45 +2,45 @@
 	"label": "Books on Economic and Monetary Union",
 	"description": "A selection of titles on Economic and Monetary Union available from the European Parliament Library.",
 	"list": [{
-			"label": "An introduction to the law of economic and monetary union",
+			"label": "Completing a genuine economic and monetary union",
 			"isbns": [
-				"9781800883000"
+				"9781108963503"
 			]
 		},
 		{
-			"label": "New challenges for the Eurozone governance",
+			"label": "The System Reform of the Economic and Monetary Union (2010-2022) : Dynamics-Successes-Failures",
 			"isbns": [
-				"9783030623722"
+				"9783631902684"
 			]
 		},
 		{
-			"label": "The European Monetary Union",
+			"label": "The financial constitution of European integration : follow the money?",
 			"isbns": [
-				"9781108840873"
+				"9781509969944"
 			]
 		},
 		{
-			"label": "Accountability in the Economic and Monetary Union",
+			"label": "Economics of monetary union",
 			"isbns": [
-				"9780198845263"
+				"9780198849544"
 			]
 		},
 		{
-			"label": "The European Monetary Union after the crisis",
+			"label": "Europäische Integration - die ökonomischen Zusammenhänge : Wirtschafts-, Finanz- und Geldpolitik sowie Reformansätze",
 			"isbns": [
-				"9780367496616"
+				"9783170423145"
 			]
 		},
 		{
-			"label": "Monnaie, pouvoir et Etats",
+			"label": "The European Monetary Union : a commentary on the legal foundations",
+			"isbns": [
+				"9781509918980"
+			]
+		},
+		{
+			"label": "Monnaie, pouvoir et Etats : une étude de la monnaie européenne",
 			"isbns": [
 				"9782406110583"
-			]
-		},
-		{
-			"label": "Monetary Economics, Banking and Policy",
-			"isbns": [
-				"9781000804843"
 			]
 		},
 		{
