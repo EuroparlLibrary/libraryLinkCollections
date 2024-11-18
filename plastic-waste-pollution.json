@@ -3,27 +3,51 @@
 	"description": "A selection of titles on plastic waste pollution available from the European Parliament Library.",
 	"list": [
 		{
-			"label": "Analysis of nanoplastics and microplastics in food",
+			"label": "Microplastics Pollution and Worldwide Policies on Plastic Use",
 			"isbns": [
-				"9780429891229"
+				"9781003387862"
 			]
 		},
 		{
-			"label": "Marine pollution",
+			"label": "Microplastics: Transport, Impacts, Monitoring and Mitigation",
 			"isbns": [
-				"9780128137376"
+				"9780443133251"
 			]
 		},
 		{
-			"label": "The terminology of marine pollution by plastics and microplastics",
+			"label": "Microplastic Contamination in Aquatic Environments",
 			"isbns": [
-				"9781527541214"
+				"9780443153334"
 			]
 		},
 		{
-			"label": "Plastic and microplastic in the environment : management and health risks",
+			"label": "Microplastic Occurrence, Fate, Impact, and Remediation",
 			"isbns": [
-				"9781119800873"
+				"9783031363511"
+			]
+		},
+		{
+			"label": "Microplastics in Marine Ecosystem",
+			"isbns": [
+				"9781032319308"
+			]
+		},
+		{
+			"label": "Environmental Risks Posed by Microplastics in Urban Waterways",
+			"isbns": [
+				"9789819906284"
+			]
+		},
+		{
+			"label": "Microplastics in the Ecosphere: air, water, soil, and food",
+			"isbns": [
+				"9781119879534"
+			]
+		},
+		{
+			"label": "The African Marine Litter Outlook",
+			"isbns": [
+				"9783031086267"
 			]
 		}
 		
