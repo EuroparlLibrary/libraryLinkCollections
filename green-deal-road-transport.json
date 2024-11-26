@@ -2,21 +2,21 @@
 	"label": "Books on Green Deal and Road Transport: Air Pollution and CO2 Reduction",
 	"description": "A selection of titles on Green Deal and road transport available from the European Parliament Library.",
 	"list": [{
-			"label": "Carbon footprint case studies",
+			"label": "Reducing Emissions of Short-Lived Climate Pollutants : Perspectives on Law and Governance",
 			"isbns": [
-				"9789811595776"
+				"9789004684089"
 			]
 		},
 		{
-			"label": "Environmental sustainability of biofuels",
+			"label": "Sustainable Mass Transit : Challenges and Opportunities in Urban Public Transportation",
+			"isbns": [
+				"9780443152726"
+			]
+		},
+		{
+			"label": "Environmental sustainability of biofuels : prospects and challenges",
 			"isbns": [
 				"9780323998079"
-			]
-		},
-		{
-			"label": "Air pollution and its complications",
-			"isbns": [
-				"9783030705091"
 			]
 		}
 
