@@ -2,45 +2,45 @@
 	"label": "Books on Waste Recycling",
 	"description": "A selection of titles on waste recycling available from the European Parliament Library.",
 	"list": [{
-			"label": "Food waste recovery",
+			"label": "Waste-to-Wealth: Resource Recovery and Value-Added Products for Sustainable Development",
 			"isbns": [
-				"9780128225929"
+				"9781040154731"
 			]
 		},
 		{
-			"label": "Electronic waste management and treatment technology",
+			"label": "Rethinking the Concept of Waste and Mass Consumption: Preserving Resources through Reuse, Repair and Recycling",
 			"isbns": [
-				"9780128165911"
+				"9781003504757"
 			]
 		},
 		{
-			"label": "Beyond recycling",
+			"label": "Zero Waste Management Technologies",
 			"isbns": [
-				"9781000381856"
+				"9783031572753"
 			]
 		},
 		{
-			"label": "Circular economy",
+			"label": "Material and Energy Recovery from Solid Waste for a Circular Economy",
 			"isbns": [
-				"9781119777069"
+				"9781040085745"
 			]
 		},
 		{
-			"label": "The Routledge handbook of waste, resources and the circular economy",
+			"label": "Impact of Petroleum Waste on Environmental Pollution and Its Sustainable Management Through Circular Economy",
 			"isbns": [
-				"9781000259636"
+				"9783031482205"
 			]
 		},
 		{
-			"label": "From Waste to Energy",
+			"label": "Valorization of Wastes for Sustainable Development : Waste to Wealth",
 			"isbns": [
-				"9789462368101"
+				"9780323958721"
 			]
 		},
 		{
-			"label": "Resource recovery from waste",
+			"label": "Technological Advancements in Product Valorization of Tea Waste",
 			"isbns": [
-				"9781138016552"
+				"9780443192401"
 			]
 		}
 
