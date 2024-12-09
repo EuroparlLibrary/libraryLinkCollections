@@ -2,35 +2,34 @@
 	"label": "Books on Employment",
 	"description": "A selection of titles on employment available from the European Parliament Library.",
 	"list": [{
-			"label": "The future of the employment contract",
+			"label": "Human Rights at Work : Reimagining Employment Law.",
 			"isbns": [
-				"9781783479689"
+				"9781509938735"
 			]
 		},
 		{
-			"label": "Contemporary work and the future of employment in developed countries",
+			"label": "The Routledge handbook of the gig economy",
 			"isbns": [
-				"9781351034890"
+				"9781003161875"
 			]
 		},
 		{
-			"label": "European employment law",
+			"label": "Trade, labour and sustainable development : leaving no one in the world of work behind",
 			"isbns": [
-				"9781839701511"
+				"9781786430533"
 			]
 		},
 		{
-			"label": "The new world of work",
+			"label": "Labour Law and Economic Policy : How Employment Rights Improve the Economy",
 			"isbns": [
-				"9781800888050"
+				"9781509973910"
 			]
 		},
 		{
-			"label": "Work and labour relations in global platform capitalism",
+			"label": "The fourth industrial revolution and the labour market : future-proofing work in the innovation economy",
 			"isbns": [
-				"9781802205138"
+				"9781000958317"
 			]
 		}
-
 	]
 }
