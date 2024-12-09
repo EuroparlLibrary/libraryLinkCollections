@@ -2,38 +2,33 @@
 	"label": "Circular Economy and Sustainable Products",
 	"description": "A selection of titles on Circular Economy and Sustainable Products available from the European Parliament Library.",
 	"list": [{
-			"label": "Changing the game : sustainable market transformation strategies to understand and tackle the big and complex sustainability challenges of our generation",
+			"label": "Circular Economy Realities: Critical Perspectives on Sustainability",
 			"isbns": [
-				"9780367145972",
-				"9780367145996"
+				"9781003295631"
 			]
 		},
 		{
-			"label": "Sustainable Production Technology in Food",
+			"label": "A Systemic Transition to Circular Economy : Business and Technology Perspectives",
 			"isbns": [
-				"9780128212332",
-				"9780128232200"
+				"9783031550362"
 			]
 		},
 		{
-			"label": "Practicing Circular Economy",
+			"label": "Smart cities and circular economy : the future of sustainable urban development",
 			"isbns": [
-				"9780367619534",
-				"9781000405354"
+				"9781837979592"
 			]
 		},
 		{
-			"label": "Circular Economy : From Waste Reduction to Value Creation",
+			"label": "Innovation, Quality and Sustainability for a Resilient Circular Economy : The Role of Commodity Science, Volume 1"
 			"isbns": [
-				"9781786305732",
-				"9781119777069"
+				"9783031282928"
 			]
 		},
 		{
-			"label": "Handbook of the Circular Economy",
+			"label": "Solutions For Sustainability Challenges : Technical Sustainability Management and Life Cycle Thinking",
 			"isbns": [
-				"9781788972727",
-				"9781788972710"
+				"9783031636240"
 			]
 		}
 	]
