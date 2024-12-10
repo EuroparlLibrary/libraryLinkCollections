@@ -2,22 +2,33 @@
 	"label": "Books on Green Deal and Agriculture",
 	"description": "A selection of titles on Green Deal and agriculture available from the European Parliament Library.",
 	"list": [{
-			"label": "Routledge handbook on the Green New Deal",
+			"label": "The Food Commons Approach in the EU Agri-Food Law : Reframing the Common Agricultural Policy for More Ecological Food Systems in Europe.",
 			"isbns": [
-				"9781003110880",
-				"9780367628048"
+				"9783031645655"
 			]
 		},
 		{
-			"label": "Urban and regional agriculture : building resilient food systems",
+			"label": "Nature law and policy in Europe",
 			"isbns": [
-				"9780128202876"
+				"9780367275440"
 			]
 		},
 		{
-			"label": "Sustainable food production : an Earth Institute sustainability primer",
+			"label": "Climate Neutral and Resilient Farming Systems: Practical Solutions for Climate Mitigation and Adaptation",
 			"isbns": [
-				"9780231548441"
+				"9781003273172"
+			]
+		},
+		{
+			"label": "Nourrir sans dévaster",
+			"isbns": [
+				"9782080433411"
+			]
+		},
+		{
+			"label": "Rewilding Food and the Self: Critical Conversations from Europe",
+			"isbns": [
+				"9781032152912"
 			]
 		}
 	]
