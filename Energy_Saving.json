@@ -2,29 +2,21 @@
 	"label": "Books on Energy Saving",
 	"description": "A selection of titles on energy saving available from the European Parliament Library.",
 	"list": [{
-			"label": "Energy Services Fundamentals and Financing",
+			"label": "Thermal Evaluation of Indoor Climate and Energy Storage in Buildings",
 			"isbns": [
-				"9780128226674"
+				"9781040101964"
 			]
 		},
 		{
-			"label": "Modular Systems for Energy Usage Management",
+			"label": "Reaching (Beyond) the Frontier: Energy Efficiency in Europe",
 			"isbns": [
-				"9780367407964",
-				"9781000763843"
+				"9798400255069"
 			]
 		},
 		{
-			"label": "Willingness to Pay Framework",
+			"label": "Unlocking Energy Efficiency",
 			"isbns": [
-				"9780367643768",
-				"9781000418224"
-			]
-		},
-		{
-			"label": "Energy Conservation for IoT Devices: Concepts, Paradigms and Solutions",
-			"isbns": [
-				"9789811373985"
+				"9781003823360"
 			]
 		}
 	]
