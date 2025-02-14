@@ -2,75 +2,33 @@
 	"label": "Books on Sustainable Development Goal 7: Affordable and Clean Energy",
 	"description": "A selection of titles on Sustainable Development Goal 7: affordable and clean energy available from the European Parliament Library.",
 	"list": [{
-			"label": "Energy and development",
+			"label": "Africas Propensity for a Net Zero Energy Transition",
 			"isbns": [
-				"9781351047470"
+				"9781040164617"
 			]
 		},
 		{
-			"label": "Empowering Africa : access to power in the African continent",
+			"label": "Living with Energy Poverty",
 			"isbns": [
-				"9783034337779"
+				"9781003805694"
 			]
 		},
 		{
-			"label": "Energy Poverty Alleviation",
+			"label": "Net zero and natural resources",
 			"isbns": [
-				"9783030910846"
+				"9780198925002"
 			]
 		},
 		{
-			"label": "Urban fuel poverty",
+			"label": "The South Asian Energy Corridor",
 			"isbns": [
-				"9780128169537"
+				"9781774914786"
 			]
 		},
 		{
-			"label": "Perspectives on energy poverty in post-communist Europe",
+			"label": "Energy Regulation in Africa",
 			"isbns": [
-				"9781000198935"
-			]
-		},
-		{
-			"label": "Energy and environmental security in Developing Countries",
-			"isbns": [
-				"9783030636548"
-			]
-		},
-		{
-			"label": "Financing clean energy access in sub-Saharan Africa",
-			"isbns": [
-				"9783030758295"
-			]
-		},
-		{
-			"label": "The deployment of prepaid electricity meters in Sub-Saharan Africa",
-			"isbns": [
-				"9783030712174"
-			]
-		},
-		{
-			"label": "Reframing energy access : insights from the Gambia",
-			"isbns": [
-				"9780429858505"
-			]
-		},
-		{
-			"label": "Eradicating energy poverty",
-			"isbns": [
-				"9789811670732"
-			]
-		},
-		{
-			"label": "Energy efficiency in developing countries",
-			"isbns": [
-				"9781000034134"
-			]
-		},
-		{
-			"label": "Renewable energy uptake in urban Latin America",
-			"isbns": [
-				"9780429591969"
+				"9783031526770"
 			]
 		}
 
