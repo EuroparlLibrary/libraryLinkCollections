@@ -2,65 +2,40 @@
 	"label": "Books on Sustainable Development Goal 2: Zero Hunger",
 	"description": "A selection of titles on Sustainable Development Goal 2: Zero Hunger available from the European Parliament Library.",
 	"list": [{
-			"label": "Food security issues and challenges",
+			"label": "Food Security and Nutrition",
 			"isbns": [
-				"9781685071318"
+				"9781032736556"
 			]
 		},
 		{
-			"label": "Food Insecurity",
+			"label": "Handbook on Public Policy and Food Security",
 			"isbns": [
-				"9781440878404"
+				"9781839105449"
 			]
 		},
 		{
-			"label": "Resilience and Food Security in a Food Systems Context",
+			"label": "Food Shortage Crisis",
 			"isbns": [
-				"9783031235351"
+				"9798216171577"
 			]
 		},
 		{
-			"label": "Handbook of food security and society",
+			"label": "Higher Education and SDG2: Zero Hunger",
 			"isbns": [
-				"9781800378445"
+				"9781836084600"
 			]
 		},
 		{
-			"label": "Sustainable Food Value Chain Development",
+			"label": "The Water, Energy, and Food Security Nexus in Asia and the Pacific",
 			"isbns": [
-				"9789811964541"
+				"9783031290350"
 			]
 		},
 		{
-			"label": "The right to food",
+			"label": "Geoinformatics",
 			"isbns": [
-				"9783030602550"
-			]
-		},
-		{
-			"label": "Feeding the hungry",
-			"isbns": [
-				"9781501751172"
-			]
-		},
-		{
-			"label": "Sustainable development goals for society",
-			"isbns": [
-				"9783030709525"
-			]
-		},
-		{
-			"label": "Handbook on Urban Food Security in the Global South",
-			"isbns": [
-				"9781786431516"
-			]
-		},
-		{
-			"label": "Food & power",
-			"isbns": [
-				"9789353883775"
+				"9781040091241"
 			]
 		}
-
 	]
 }
