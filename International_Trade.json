@@ -1,13 +1,7 @@
 {
 	"label": "International Trade",
 	"description": "A selection of titles on International Trade available from the European Parliament Library.",
-	"list": [{
-			"label": "Narrowing the channel, the politics of regulatory protection in international trade",
-			"isbns": [
-				
-				"9783030605223"
-			]
-		},
+	"list": [
 		{
 			"label": "Trade, Labour and Sustainable Development, Leaving No One in the World of Work Behind",
 			"isbns": [
