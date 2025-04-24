@@ -2,77 +2,73 @@
 	"label": "Books on Energy Security in Europe",
 	"description": "A selection of titles on energy security in Europe available from the European Parliament Library.",
 	"list": [{
-			"label": "Routledge handbook of energy democracy",
+			"label": "Medium-Term Macroeconomic Effects of Russia's War in Ukraine",
 			"isbns": [
-				"9780429402302"
+				"9781032624822",
+				"9781040157046",
+				"9781040157053"
 			]
 		},
 		{
-			"label": "Russia's Invasion of Ukraine: Economic Challenges, Embargo Issues and a New Global Economic Order",
+			"label": "The Development of Crude Oil and Natural Gas Prices and the Energy Security of the European Union",
 			"isbns": [
-				"9783031191381"
+				"9798891135918",
+				"9798891133570"
 			]
 		},
 		{
-			"label": "Principled pragmatism in practice : the EU's policy towards russia after crimea",
+			"label": "The Energy Trilemma in the Baltic Sea Region",
 			"isbns": [
-				"9789004453715"
+				"9781032765891",
+				"9781032765914",
+				"9781003479178"
 			]
 		},
 		{
-			"label": "International networks, advocacy and EU energy policy-making",
+			"label": "Turbulence in the Eastern Mediterranean",
 			"isbns": [
-				"9783030495053"
+				"9781032994635",
+				"9781040326374",
+				"9781040326398"
 			]
 		},
 		{
-			"label": "External energy security in the European Union",
+			"label": "Constitutional Discussions on Nuclear Energy in Germany",
 			"isbns": [
-				"9781351106528"
+				"9781032581781",
+				"9781032580906",
+				"9781040046333",
+				"9781003448907",
+				"9781040046296",
+				"9781040046296",
+				"9781003448907",
+				"9781040046333"
 			]
 		},
 		{
-			"label": "Perspectives on energy poverty in post-communist Europe",
+			"label": "EU Energy and Climate Policy after COVID-19 and the Invasion of Ukraine",
 			"isbns": [
-				"9781000198935"
+				"9781032624822",
+				"9781040157046",
+				"9781040157053",
+				"9781032624839"
 			]
 		},
 		{
-			"label": "A strategic evaluation of energy security in the Eastern Mediterranean",
+			"label": "The Geopolitics of Hydrogen",
 			"isbns": [
-				"9781536193466"
+				"9783031595141",
+				"9783031595158"
 			]
 		},
 		{
-			"label": "Russian energy chains",
+			"label": "Leaving Fossil Fuels Underground",
 			"isbns": [
-				"9780231552196"
-			]
-		},
-		{
-			"label": "Nord Stream 2 - das Beharren Auf Widerlegten Argumenten",
-			"isbns": [
-				"9783658354107"
-			]
-		},
-		{
-			"label": "Romania as an energy actor in the EU",
-			"isbns": [
-				"9781000176599"
-			]
-		},
-		{
-			"label": "Energy cooperation in South Asia ",
-			"isbns": [
-				"9781000057096"
-			]
-		},
-		{
-			"label": "The belt and road initiative and global governance",
-			"isbns": [
-				"9781789906226"
+				"9789048560370",
+				"9789048560387"
 			]
 		}
+
 
 	]
 }
