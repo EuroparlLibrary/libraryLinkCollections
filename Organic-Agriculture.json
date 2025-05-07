@@ -1,28 +1,16 @@
 {
 	"label": "Organic Agriculture and Food System Sustainability",
 	"description": "A selection of titles on organic agriculture and food system sustainability available from the European Parliament Library.",
-	"list": [{
-			"label": "Sustainable Apple Breeding and Cultivation in Germany",
-			"isbns": [
-				"9781032409948"
-			]
-		},
-		{
-			"label": "Green Chemistry in Agriculture and Food Production",
-			"isbns": [
-				"9780367254315"
-			]
-		},
-		{
+	"list": [		{
 			"label": "Drones and Geographical Information Technologies in Agroecology and Organic Farming",
 			"isbns": [
 				"9780429052842"
 			]
 		},
 		{
-			"label": "The Ethics of Agribusiness",
+			"label": "Green Chemistry in Agriculture and Food Production",
 			"isbns": [
-				"9781032185705"
+				"9781000851205"
 			]
 		},
 		{
