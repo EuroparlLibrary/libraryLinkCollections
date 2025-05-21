@@ -2,53 +2,40 @@
 	"label": "Books on EU Trade Policy",
 	"description": "A selection of titles on EU Trade Policy available from the European Parliament Library.",
 	"list": [{
-			"label": "EU Trade-Related Measures against Illegal Fishing: Policy Diffusion and Effectiveness in Thailand and Australia",
-			"isbns": [
-				"9781003296379"
-			]
-		},
-		{
-			"label": "Linkage Power Europe : The EU’s Trade Negotiations with China (1975-2019)",
-			"isbns": [
-				"9781000889468"
-			]
-		},
-		{
 			"label": "EU trade agreements and European integration : Commission autonomy or Council control?",
 			"isbns": [
 				"9781003819400"
 			]
 		},
 		{
-			"label": "Uses and misuses of international economic law : private standards and trade in goods in the WTO and the EU",
+			"label": "EU Trade Law",
 			"isbns": [
-				"9783161616402"
+				"9781035319664"
 			]
 		},
 		{
-			"label": "Global Politics and EU Trade Policy",
+			"label": "EU Trade and Investment Treaty-Making Post-Lisbon",
 			"isbns": [
-				"9783030345884"
+				"9781509964666"
 			]
 		},
 		{
-			"label": "Africa-EU relations and the African Continental Free Trade Area",
+			"label": "EU-UK Trade and Cooperation Agreement",
 			"isbns": [
-				"9781032323824"
+				"9781509980680"
 			]
 		},
 		{
-			"label": "A geo-economic turn in trade policy?",
+			"label": "EU and US foreign economic policy responses to China",
 			"isbns": [
-				"9783030812812"
+				"9781032255552"
 			]
 		},
 		{
-			"label": "The trade-security nexus in EU external action",
+			"label": "Asymmetric Power Relations and International Trade Law",
 			"isbns": [
-				"9783030907969"
+				"9781040296271"
 			]
 		}
-
-	]
+		]
 }
