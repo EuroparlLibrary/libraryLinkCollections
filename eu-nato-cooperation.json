@@ -2,40 +2,35 @@
 	"label": "Books on EU-NATO Cooperation",
 	"description": "A selection of titles on EU-NATO cooperation available from the European Parliament Library.",
 	"list": [{
-			"label": "Evaluating NATO enlargement : from Cold War victory to the Russia-Ukraine war",
+			"label": "The West's Response to the Ukraine War",
 			"isbns": [
-				"9783031233647"
+				"9783031834288"
 			]
 		},
 		{
-			"label": "Lehren aus dem Ukrainekonflikt, Krisen vorbeugen, Gewalt verhindern",
+			"label": "European Total Defence",
 			"isbns": [
-				"9783847425557"
+				""
 			]
 		},
 		{
-			"label": "Military strategies of the new European allies : a comparative study",
+			"label": "Security Order and Strategic Alignment in Europe and the Asia-Pacific",
 			"isbns": [
-				"9781003298052"
+				"9781040329962"
 			]
 		},
 		{
-			"label": "NATO and the Strategic Defence Initiative : a transatlantic history of the Star Wars programme",
+			"label": "Routledge Handbook of NATO",
 			"isbns": [
-				"9781003104674"
+				"9781040026267"
 			]
 		},
 		{
-			"label": "Research handbook on NATO",
+			"label": "Turbulence Across the Sea",
 			"isbns": [
-				"9781839103391"
-			]
-		},
-		{
-			"label": "NATO's burden-sharing disputes : past, present and future prospects",
-			"isbns": [
-				"9783030935399"
+				"9780472904709"
 			]
 		}
+
 	]
 }
