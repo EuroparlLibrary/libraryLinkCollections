@@ -1,6 +1,6 @@
 {
-	"label": "Fisheries",
-	"description": "A selection of titles on Fisheries",
+	"label": "Books on Fisheries",
+	"description": "A selection of titles on fisheries available from the European Parliament Library.",
 	"list": [{
 			"label": "Regional Fisheries Oceanography of the California Current System",
 			"isbns": [
