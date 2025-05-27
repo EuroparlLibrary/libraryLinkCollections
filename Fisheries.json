@@ -2,45 +2,33 @@
 	"label": "Fisheries",
 	"description": "A selection of titles on Fisheries",
 	"list": [{
-			"label": "Vanishing fish : shifting baselines and the future of global fisheries",
+			"label": "Regional Fisheries Oceanography of the California Current System",
 			"isbns": [
-				
-				"9781771643986"
-			]
-		},
-{
-			"label": " Fishing Power Europe : The EU’s Normativity in Its External Fisheries Action",
-			"isbns": [
-				
-				"9789462655836"
+				"9783031761355"
 			]
 		},
 		{
-			"label": "EU Trade-Related Measures against Illegal Fishing",
+			"label": "International Law for Small-Scale Fisheries",
 			"isbns": [
-				
-				"9781003296379"
+				"9781003584551"
 			]
 		},
 		{
-			"label": "Ocean Governance : Knowledge Systems, Policy Foundations and Thematic Analyses",
+			"label": "International Fisheries Law",
 			"isbns": [
-				
-				"9783031207402"
+				"9781032794457"
 			]
 		},
 		{
-			"label": "Implementation of the Small-Scale Fisheries Guidelines : A Legal and Policy Scan",
+			"label": "Illegal, Unreported, and Unregulated (IUU) Fishing",
 			"isbns": [
-				
+				"9798895301913"
+			]
+		},
+		{
+			"label": "Implementation of the Small-Scale Fisheries Guidelines",
+			"isbns": [
 				"9783031567162"
-			]
-		},
-		{
-			"label": "Revolution in the Seas : Ending Overfishing and Building Pesco-Ecology, Sustainable Agro-Ecology of Fishing",
-			"isbns": [
-				
-				"9780443159114"
 			]
 		}
 	]
