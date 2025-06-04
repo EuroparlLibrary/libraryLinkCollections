@@ -9,18 +9,6 @@
             ]
         },
         {
-            "label": "The European Union and global development",
-            "isbns": [
-                "9781000429152"
-            ]
-        },
-        {
-            "label": "Handbook on the politics of international development",
-            "isbns": [
-                "9781839101915"
-            ]
-        },
-        {
             "label": "Right to Development and Illicit Financial Flows from Africa : Dynamics, Perspectives, and Prospects",
             "isbns": [
                 "9781666932317"
@@ -55,6 +43,43 @@
             "isbns": [
                 "9781032208077"
             ]
-        }
+        },
+        {
+			"label": "Food Aid Reconsidered",
+			"isbns": [
+				"9781041005995",
+                "9781040380079"
+			]
+		},
+		{
+			"label": "The European Union's Role in South Asia",
+			"isbns": [
+				"9781040357620"
+			]
+		},
+		{
+			"label": "Fragile Aid: Development Cooperation in Weak States and Conflict Contexts",
+			"isbns": [
+				"9780198960287"
+			]
+		},
+		{
+			"label": "Donors, Democracy and Development in Africa",
+			"isbns": [
+				"9783031749162"
+			]
+		},
+		{
+			"label": "The Self-Deception Trap",
+			"isbns": [
+				"9783031575907"
+			]
+		},
+        {
+			"label": "African Values and Development",
+			"isbns": [
+				"9781040306697"
+			]
+		}
     ]
 }
