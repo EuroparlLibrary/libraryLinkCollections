@@ -2,29 +2,33 @@
 	"label": "Books on Carbon Pricing",
 	"description": "A selection of titles on carbon pricing available from the European Parliament Library.",
 	"list": [{
-			"label": "Pricing carbon emissions",
+			"label": "The Role of Green and Transition Finance in Achieving Carbon Neutrality and Sustainable Energy",
 			"isbns": [
-				"9781003173816"
+				"9780443247378"
 			]
 		},
 		{
-			"label": "Carbon emissions trading in China",
+			"label": "The Carbon Emission Liability Mechanism",
 			"isbns": [
-				"9781788972932",
-				"9781788972949"
+				"9789819636129"
 			]
 		},
 		{
-			"label": "Developing a Carbon Market",
+			"label": "Green Economic Development and Transition to Low-Carbon Economy in the East and Southeast Asia",
 			"isbns": [
-				"9783828847231"
+				"9789819606283"
 			]
 		},
 		{
-			"label": "A green and global Europe",
+			"label": "Carbon Pricing in Emerging Economies: Challenges and Opportunities for Türkiye",
 			"isbns": [
-				"9781509555161",
-				"9781509555178"
+				"9781003570820"
+			]
+		},
+		{
+			"label": "The Energy Transition in Japan",
+			"isbns": [
+				"9781040350300"
 			]
 		}
 
