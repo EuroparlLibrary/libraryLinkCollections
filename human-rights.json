@@ -2,21 +2,9 @@
 	"label": "Books on Human Rights",
 	"description": "A selection of titles on human rights available from the European Parliament Library.",
 	"list": [{
-			"label": "Human rights and development",
-			"isbns": [
-				"9781138290167"
-			]
-		},
-		{
 			"label": "Human Rights and Populism",
 			"isbns": [
 				"9781000931181"
-			]
-		},
-		{
-			"label": "Religion and Human Rights : An Introduction",
-			"isbns": [
-				"9781003831259"
 			]
 		},
 		{
@@ -26,33 +14,39 @@
 			]
 		},
 		{
-			"label": "Islam, Religious Liberty and Constitutionalism in Europe",
-			"isbns": [
-				"9781509966981"
-			]
-		},
-		{
-			"label": "Human Rights and Ocean Governance : The Potential of Marine Spatial Planning in Europe",
-			"isbns": [
-				"9781003828426"
-			]
-		},
-		{
 			"label": "The European Integrated Border Management : Frontex, Human Rights, and International Responsibility",
 			"isbns": [
 				"9781509964574"
 			]
 		},
 		{
-			"label": "Compliance with Judgments of the European Court of Human Rights: States on a Spectrum of Democratisation",
+			"label": "Business and Human Rights",
 			"isbns": [
-				"9789004538214"
+				"9789004715158"
 			]
 		},
 		{
-			"label": "Cultural Heritage, Sustainable Development and Human Rights : Towards an Integrated Approach",
+			"label": "Auftraggeberhaftung in der Lieferkette",
 			"isbns": [
-				"9781003811978"
+				"9783748947295"
+			]
+		},
+		{
+			"label": "Human Rights and the United Nations",
+			"isbns": [
+				"9781040325964"
+			]
+		},
+		{
+			"label": "Taxation, Human Rights, and Sustainable Development",
+			"isbns": [
+				"9781040355787"
+			]
+		},
+		{
+			"label": "Economic Development and Human Rights in the Contemporary Sub-Saharan Africa",
+			"isbns": [
+				"9783031814006"
 			]
 		}
 	]
