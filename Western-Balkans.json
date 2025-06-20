@@ -1,17 +1,34 @@
 {
-	"label": "Western Balkans",
-	"description": "A selection of titles on Western Balkans.",
+	"label": "Books on Western Balkans",
+	"description": "A selection of titles on Western Balkans available from the European Parliament Library.",
 	"list": [{
-			"label": "Towards economic inclusion in the Western Balkans",
-			"isbns": [
-				
-				"9783031061127"
-			]
-		},
-		{
 			"label": "Integrating the Western Balkans into the EU",
 			"isbns": [
 				"9783031322051"
+			]
+		},
+		{
+			"label": "Alternative Dispute Resolution in the Western Balkans",
+			"isbns": [
+				"9783031763458"
+			]
+		},
+		{
+			"label": "Western Balkans and the Future of Europe",
+			"isbns": [
+				"9783031864650"
+			]
+		},
+		{
+			"label": "International Investment Law and Dispute Resolution in the Western Balkans",
+			"isbns": [
+				"9789004729889"
+			]
+		},
+		{
+			"label": "Transitional Justice in Albania, Kosovo, and North Macedonia",
+			"isbns": [
+				"9783031898655"
 			]
 		},
 		{
