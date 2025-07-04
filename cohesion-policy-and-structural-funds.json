@@ -5,32 +5,37 @@
 			"label": "Lagging Regions in the European Union",
 			"isbns": [
 				        "9781032615462"
-			    ]
-          },
-          {
-            "label": "EU Cohesion Policy",
-            "isbns": [
-                  "9781802209402"
-            ]
-          },
-          {
-            "label": "EU Cohesion Policy Implementation",
-            "isbns": [
-                  "9783031181610"
-            ]
-          },
-          {
-            "label": "Fraud and Corruption in EU Funding",
-            "isbns": [
-                  "9783031190506"
-            ]
-          },
-          {
-            "label": "Crisis Era European Integration",
-            "isbns": [
-                  "9781032494807"
-            ]
-          }
-      
+			]
+         	},
+         	{
+         		"label": "EU Cohesion Policy",
+        		"isbns": [
+             		"9781802209402"
+			]
+          	},
+         	{
+           		"label": "EU Cohesion Policy Implementation",
+         		"isbns": [
+			"9783031181610"
+			]
+		},
+		{
+			"label": "Fraud and Corruption in EU Funding",
+			"isbns": [
+			"9783031190506"
+			]
+		},
+ 		{
+  			"label": "Crisis Era European Integration",
+ 			"isbns": [
+  			"9781032494807"
+ 		]
+ 		},
+ 		{
+			"label": "Culture et politique régionale de l'Union européenne",
+			"isbns": [
+			"9782807606586"
+			]
+	}
     ]
   }
