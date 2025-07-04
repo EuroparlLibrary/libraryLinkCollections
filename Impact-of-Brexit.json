@@ -1,6 +1,6 @@
 {
 	"label": "The Impact of Brexit",
-	"description": "A selection of titles on the impact of Brexit available from the European Parliament Library.",
+	"description": "A selection of titles on Brexit available from the European Parliament Library.",
 	"list": [{
 			"label": "Fisheries and the Law in Europe : Regulation After Brexit",
 			"isbns": [
@@ -8,7 +8,7 @@
 				"9781003252481"
 			]
 		},
-{
+		{
 			"label": "Brexit and Energy: Implications and Opportunities",
 			"isbns": [
 				
@@ -39,6 +39,30 @@
 			"label": "Brexit and the European Insurance Market An empirical Analysis of the Impact on the Structure of the European Insurance Market, Stock Market Reactions and the Solvency II Supervisory Regime",
 			"isbns": [
 				"9783658443108"
+			]
+		},
+		{
+			"label": "The New Relationship between the United Kingdom and the European Union",
+			"isbns": [
+				"9783031706523"
+			]
+		},
+		{
+			"label": "Brexitspeak, Demagoguery and the Decline of Democracy",
+			"isbns": [
+				"9780110889269"
+			]
+		},
+		{
+			"label": "Out means Out?",
+			"isbns": [
+				"9783748945215"
+			]
+		},
+		{
+			"label": "The Law and Politics of Brexit",
+			"isbns": [
+				"9780198908302"
 			]
 		}
 	]
