@@ -2,13 +2,6 @@
 	"label": "Eastern Partnership",
 	"description": "A selection of titles on Eastern Partnership available from the European Parliament Library.",
 	"list": [{
-			"label": "Ambiguities of Europe’s Eastern Neighbourhood, Perspectives from Germany and Poland",
-			"isbns": [
-				
-				"9783658298562"
-			]
-		},
-		{
 			"label": "Regional Leadership in Post-Soviet Eurasia",
 			"isbns": [
 				"9781032317786"
@@ -30,6 +23,36 @@
 			"label": "EU Good Governance Promotion in the Age of Democratic Decline",
 			"isbns": [
 				"9783031057816"
+			]
+		},
+		{
+			"label": "Resilience and the EU's Eastern Neighbourhood Countries",
+			"isbns": [
+				"9783031733796"
+			]
+		},
+		{
+			"label": "EU Anti-Corruption Efforts in the Eastern Neighbourhood",
+			"isbns": [
+				"9789004538689"
+			]
+		},
+		{
+			"label": "The European Green Deal and the Eastern Partnership",
+			"isbns": [
+				"9781003486732"
+			]
+		},
+		{
+			"label": "Contentious Politics in the Transnational Arena",
+			"isbns": [
+				"9783031862090"
+			]
+		},
+		{
+			"label": "The European Green Deal and the Eastern Partnership",
+			"isbns": [
+				"9781032782072"
 			]
 		}
 
