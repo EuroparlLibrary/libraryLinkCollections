@@ -1,57 +1,40 @@
 {
 	"label": "Public Health",
-	"description": "A selection of titles on Public Health: Nutrition-Related Conditions and its Prevention available from the European Parliament Library.",
+	"description": "A selection of titles on public health: nutrition-related conditions and its prevention available from the European Parliament Library.",
 	"list": [{
-			"label": "Raw Veganism : The Philosophy of the Human Diet",
+			"label": "Regenerative Farming and Sustainable Diets",
 			"isbns": [
-				"9780367435028",
-				"9781000037944"
+				"9781032684369"
 			]
 		},
 		{
-			"label": "Routledge Handbook of Critical Obesity Studies",
+			"label": "Global Health Challenges - Nutrition and Management",
 			"isbns": [
-				"9780367362447",
-				"9781000511390"
+				"9781003354024"
 			]
 		},
 		{
-			"label": "Biochemical Parameters and the Nutritional Status of Children : Novel Tools for Assessment",
+			"label": "The Role of Nutrition in Integral Health and Quality of Life",
 			"isbns": [
-				"9780367419813",
-				"9781000073812"
+				"9781000913149"
 			]
 		},
 		{
-			"label": "Molecular Nutrition : Mother and Infant",
+			"label": "Functional Foods and Chronic Disease",
 			"isbns": [
-				"9780128138625",
-				"9780128138632"
+				"9780323972666"
 			]
 		},
 		{
-			"label": "Nutrition: Infants, Children and Adults",
+			"label": "Nutrition et Santé Mentale",
 			"isbns": [
-				"9781536170443",
-				"9781536170450"
+				"9782760647817"
 			]
 		},
 		{
-			"label": "Implementing the Mediterranean Diet",
+			"label": "Pediatric Nutrition",
 			"isbns": [
-				"9781119826729"
-			]
-		},
-		{
-			"label": "Nutrition and cancer prevention : from molecular mechanisms to dietary recommendations",
-			"isbns": [
-				"9781788013413"
-			]
-		},
-		{
-			"label": "Rethinking obesity: critical perspectives in crisis times",
-			"isbns": [
-				"9781317329985"
+				"9781610027700"
 			]
 		}
 	]
