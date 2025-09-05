@@ -2,45 +2,34 @@
 	"label": "Books on Global Food Security",
 	"description": "A selection of titles on global food security available as from the European Parliament Library.",
 	"list": [{
-			"label": "Food security : availability, income and productivity",
-			"isbns": [
-				"9781035312719"
-			]
-		},
-		{
 			"label": "Handbook of food security and society",
 			"isbns": [
 				"9781800378445"
 			]
 		},
 		{
-			"label": "Advances in Food Security and Sustainability. Volume 7",
+			"label": "Climate Change, Food Security, and Land Management",
 			"isbns": [
-				"9780323989862"
+				"9783031711640"
 			]
 		},
 		{
-			"label": "Artificial Intelligence and Advanced Analytics for Food Security.",
+			"label": "Pathways to African Food Security Challenges",
 			"isbns": [
-				"9781032346182"
+				"9781032649658",
+				"9781032649696"
 			]
 		},
 		{
-			"label": "Resilience and Food Security in a Food Systems Context",
+			"label": "Gene-Edited Crops: The CRISPR Solution for Global Food Security",
 			"isbns": [
-				"9783031235351"
+				"9781040347614"
 			]
 		},
 		{
-			"label": "The World Trade Organization and Food Security in West Africa : Prospects for the ECOWAS Region",
+			"label": "Food Aid Reconsidered",
 			"isbns": [
-				"9783031538810"
-			]
-		},
-		 {
-			"label": "OMICs-Based Techniques for Global Food Security",
-			"isbns": [
-				"9781394209132"
+				"9781040380109"
 			]
 		}
 	]
