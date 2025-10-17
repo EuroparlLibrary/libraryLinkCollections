@@ -2,41 +2,40 @@
 	"label": "Books on Data Protection in the EU, e-Privacy and Data Retention",
 	"description": "A selection of titles on data protection in the EU, e-Privacy and data retention available from the European Parliament Library.",
 	"list": [{
-			"label": "The Privacy Leader Compass",
-			"isbns": [
-				"9781000994025"
+				"label": "Determann's Field Guide to Data Privacy Law",
+				"isbns": [
+					"9781035336265"
 			]
-		},
-		{
-			"label": "Cybersecurity, privacy and data protection in EU law",
-			"isbns": [
-				"9781509939428"
-			]
-		},
-		{
-			"label": "Research Handbook on EU Data Protection Law",
-			"isbns": [
-				"9781800371682"
-			]
-		},
-		{
-			"label": "Data protection and data transfers law",
-			"isbns": [
-				"9781526524829"
-			]
-		},
-		{
-			"label": "The right to be forgotten",
-			"isbns": [
-				"9781526521941"
-			]
-		},
-		{
-			"label": "Data protection as a corporate social responsibility",
-			"isbns": [
-				"9781035314164"
-			]
-		}
-
+			},
+			{
+				"label": "EU Data Privacy Law and Serious Crime",
+				"isbns": [
+					"9780198837169"
+				]
+			},
+			{
+				"label": "The Legal Consistency of Technology Regulation in Europe",
+				"isbns": [
+					"9781509968053"
+				]
+			},
+			{
+				"label": "Informational Privacy for Service Design",
+				"isbns": [
+					"9783031769252"
+				]
+			},
+			{
+				"label": "Surveillance Law, Data Retention and Human Rights",
+				"isbns": [
+					"9781040134740"
+				]
+			},
+			{
+				"label": "Bulk Surveillance, Democracy, and Human Rights Law in Europe",
+				"isbns": [
+					"9781032582535"
+				]
+			}
 	]
 }
