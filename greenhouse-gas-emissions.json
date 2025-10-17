@@ -2,47 +2,46 @@
 	"label": "Books on Greenhouse Gas Emissions",
 	"description": "A selection of titles on greenhouse gas emissions available from the European Parliament Library.",
 	"list": [{
-			"label": "Research Journeys to Net Zero: Current and Future Leaders",
+			"label": "The Carbon Emission Liability Mechanism",
 			"isbns": [
-				"9781003380566"
+				"9789819636129"
 			]
-		},
-		{
-			"label": "Measuring Climate Change to Inform Energy Transitions : Carbon Footprint Calculations",
-			"isbns": [
-				"9781394207329"
-			]
-		},
-		{
-			"label": "The Path to Net Zero for the Fashion Industry : Five Strategies for Decarbonisation",
-			"isbns": [
-				"9781003814245"
-			]
-		},
-		{
-			"label": "Energy Futures",
-			"isbns": [
-				"9783031153815"
-			]
-		},
-		{
-			"label": "The Routledge handbook on embodied carbon of the built environment",
-			"isbns": [
-				"9781003820123"
-			]
-		},
-		{
-			"label": "Land Carbon Cycle Modeling: Matrix Approach, Data Assimilation, Ecological Forecasting, and Machine Learning Second",
-			"isbns": [
-				"9781040026311"
-			]
-		},
-		{
-			"label": "Positive Tipping Points Towards Sustainability: Understanding the Conditions and Strategies for Fast Decarbonization in Regions",
-			"isbns": [
-				"9783031507625"
-			]
-		}
-
-	]
+			},
+			{
+				"label": "Are Low-Carbon Futures Decentralised?",
+				"isbns": [
+					"9781035355198"
+				]
+			},
+			{
+				"label": "The Case Against Climate Doom: An Economist’s Guide to Climate Optimism",
+				"isbns": [
+					"9783031939686"
+				]
+			},
+			{
+				"label": "Criminels climatiques : Enquête sur les multinationales qui brûlent notre planète",
+				"isbns": [
+					"9782348074509"
+				]
+			},
+			{
+				"label": "Stopping Climate Change: Policies for Real Zero",
+				"isbns": [
+					"9781000997606"
+				]
+			},
+			{
+				"label": "Research Journeys to Net Zero: Current and Future Leaders",
+				"isbns": [
+					"9781003380566"
+				]
+			},
+			{
+				"label": "Positive Tipping Points Towards Sustainability",
+				"isbns": [
+					"9783031507625"
+				]
+			}
+		]
 }
