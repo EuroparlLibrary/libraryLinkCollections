@@ -2,41 +2,40 @@
 	"label": "Books on Outer Space: Geopolitics, Security and Law",
 	"description": "A selection of titles on outer space: geopolitics, security and law available from the European Parliament Library.",
 	"list": [{
-			"label": "Legal aspects of planetary defence",
+			"label": "Comparative Space Law",
 			"isbns": [
-				"9789004467606"
+				"9789004724051"
 			]
-		},
-		{
-			"label": "European integration and space policy",
-			"isbns": [
-				"9781000317886"
-			]
-		},
-		{
-			"label": "International space law and space laws of the United States",
-			"isbns": [
-				"9781788117890"
-			]
-		},
-		{
-			"label": "Commercial and Military Uses of Outer Space",
-			"isbns": [
-				"9789811589249"
-			]
-		},
-		{
-			"label": "The cold war, the space race, and the law of outer space",
-			"isbns": [
-				"9781000410853"
-			]
-		},
-		{
-			"label": "A research agenda for space policy",
-			"isbns": [
-				"9781800374744"
-			]
-		}
-
+			},
+			{
+				"label": "The Future of Outer Space Law",
+				"isbns": [
+					"9781040382875"
+				]
+			},
+			{
+				"label": "Elgar Encyclopedia of Space Policy and Governance",
+				"isbns": [
+					"9781803925479"
+				]
+			},
+			{
+				"label": "The Woomera manual on the international law of military space activities and operations",
+				"isbns": [
+					"9780192698148"
+				]
+			},
+			{
+				"label": "The Militarization of European Space Policy",
+				"isbns": [
+					"9781032137452"
+				]
+			},
+			{
+				"label": "NATO and the Strategic Defence Initiative: a transatlantic history of the Star Wars programme",
+				"isbns": [
+					"9780367612184"
+				]
+			}
 	]
 }
