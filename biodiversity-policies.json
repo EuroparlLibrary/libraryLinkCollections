@@ -2,34 +2,55 @@
 	"label": "Books on Biodiversity Policies",
 	"description": "A selection of new titles on biodiversity policies available as e-books from the European Parliament Library.",
 	"list": [{
-			"label": "Rights of Nature in Europe",
-			"isbns": [
-				"9781003318989"
-			]
-		},
-		{
 			"label": "Marine Bioprospecting, Biodiversity and Novel Uses of Ocean Resources",
 			"isbns": [
 				"9781509968305"
 			]
-		},
-		{
-			"label": "Routledge Handbook of Urban Biodiversity",
-			"isbns": [
-				"9780100301610"
-			]
-		},
-		{
-			"label": "Why Biodiversity Matters",
-			"isbns": [
-				"9781003804086"
-			]
-		},
-		{
-			"label": "Conservation Concepts",
-			"isbns": [
-				"9781032169200"
-			]
-		}
+			},
+			{
+				"label": "Coral Conservation: Global Evidence for the Effects of Actions",
+				"isbns": [
+					"9781805115304",
+					"9781805115311",
+					"9781805115342",
+					"9781805115335",
+					"9781805115328"
+				]
+			},
+			{
+				"label": "Business and Biodiversity",
+				"isbns": [
+					"9789819775743",
+					"9789819775736",
+					"9789819775743"
+					
+				]
+			},
+			{
+				"label": "Decoding Marine Genetic Resource Governance under the BBNJ Agreement",
+				"isbns": [
+					"9783031721007"
+				]
+			},
+			{
+				"label": "Ecological Connectivity of Forest Ecosystems",
+				"isbns": [
+					"9783031822063",
+					"9783031822056",
+					"9783031822063"
+				]
+			},
+			{
+				"label": "Insect Diversity and Ecosystem Services",
+				"isbns": [
+					"9781003467205"
+				]
+			},
+			{
+				"label": "Rights of Nature in Europe",
+				"isbns": [
+					"9781040013014"
+				]
+			}
 	]
 }
