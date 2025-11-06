@@ -1,7 +1,38 @@
 {
 	"label": "Books on cryptocurrencies and blockchain",
 	"description": "A selection of titles on cryptocurrencies and blockchain available as from the European Parliament Library.",
-	"list": [{
+	"list": [
+		{
+			"label": "Cryptocurrencies in National Laws",
+			"isbns": [
+				"9789004722507"
+			]
+		},
+		{
+			"label": "Central Bank Digital Currency",
+			"isbns": [
+				"9783031809576"
+			]
+		},
+		{
+			"label": "The Fundamentals of Digital Currency",
+			"isbns": [
+				"9789819782611"
+			]
+		},
+		{
+			"label": "Crypto-Asset Ecosystems and the EU Anti-Money Laundering Framework",
+			"isbns": [
+				"9783031946981"
+			]
+		},
+		{
+			"label": "The Elgar Companion To Decentralized Finance, Digital Assets And Blockchain Technologies",
+			"isbns": [
+				"9781035307753"
+			]
+		},
+		{
 			"label": "Handbook of Digital Currency",
 			"isbns": [
 				"9780323989749"
