@@ -1,16 +1,36 @@
 {
 	"label": "Books on China's Belt and Road Initiative and External Policy",
 	"description": "A selection of titles on China's Belt and Road Initiative and external policy available from the European Parliament Library.",
-	"list": [{
-			"label": "Research Handbook on the Belt and Road Initiative",
+	"list": [
+		{
+			"label": "Routledge Handbook of China's Belt and Road Initiative in Eurasia",
 			"isbns": [
-				"9781789908718"
+				"9781003513872"
 			]
 		},
 		{
-			"label": "China's Belt and Road Initiative at Ten",
+			"label": "Is China a Global Power?: The Three Great Walls of the Middle Kingdom ",
 			"isbns": [
-				"9781003345220"
+				"9789819644513"
+			]
+		},
+		{
+			"label": "Qatar's Role in China's Belt and Road Initiative",
+			"isbns": [
+				"9783031905025",
+				"9783031905018"
+			]
+		},
+		{
+			"label": "China's Belt and Road Initiative in Africa",
+			"isbns": [
+				"9783031804007"
+			]
+		},
+		{
+			"label": "Examining the Belt and Road Initiative (BRI)",
+			"isbns": [
+				"9789819621040"
 			]
 		},
 		{
@@ -21,18 +41,10 @@
 			]
 		},
 		{
-			"label": "China, Pakistan and the Belt and Road Initiative",
+			"label": "Maritime Power and China's Grand Strategy",
 			"isbns": [
-				"9781040049501"
-			]
-		},
-		{
-			"label": "China and International Norms",
-			"isbns": [
-				"9781032289700",
-				"9781003299387"
+				"9781040274279"
 			]
 		}
-
 	]
 }
