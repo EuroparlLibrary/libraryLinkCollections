@@ -1,52 +1,74 @@
 {
 	"label": "Books on EU Policies on Migration and Asylum",
 	"description": "A selection of titles on EU policies on migration and asylum available from the European Parliament Library.",
-	"list": [{
-			"label": "Differentiation and Politicization : The Case of EU Migration Policy.",
+	"list": [
+		{
+			"label": "The Migration-Development Nexus in the European Union",
+			"isbns": [
+				"9783658487607"
+			]
+		},
+		{
+			"label": "Global Asylum Governance and the European Union's Role",
+			"isbns": [
+				"9783031748660"
+			]
+		},
+		{
+			"label": "Routledge Handbook of European Borderlands",
+			"isbns": [
+				"9781040446621",
+				"9781040446560"
+			]
+		},
+		{
+			"label": "Differentiation and Politicization",
 			"isbns": [
 				"9781666909234"
 			]
 		},
 		{
-			"label": "Global Migration Governance from Below : Actors, Spaces, Discourses",
+			"label": "Irregularising Human Mobility",
 			"isbns": [
-				"9783031069840"
+				"9783031740213"
 			]
 		},
 		{
-			"label": "Migration, EU Integration and the Balkan Route",
+			"label": "Refugee Protection Crises and Transit Europe",
 			"isbns": [
-				"9781032590547"
+				"9783032012753",
+				"9783032012746"
 			]
 		},
 		{
-			"label": "The borders of the EU : European Integration, 'Schengen' and the control of migration",
+			"label": "Regulating Migrant Integration in Europe",
 			"isbns": [
-				"9783658392000"
+				"9789004719774",
+				"9789004724068"
 			]
 		},
 		{
-			"label": "Debating Immigrants and Refugees in Central Europe: Politicising and Framing Newcomers in the Media and Political Arenas",
+			"label": "The Admission and Integration of Refugees in Europe",
 			"isbns": [
-				"9781032245485"
+				"9781032613772"
 			]
 		},
 		{
-			"label": "The Criminalisation of Irregular Migration in Europe : Globalisation, Deterrence, and Vicious Cycles",
+			"label": "The Freedom of Movement of Asylum Seekers Within the State",
 			"isbns": [
-				"9783030903473"
+				"9781035356843"
 			]
 		},
 		{
-			"label": "Transferring asylum norms to EU neighbours : multi-scalar policies and practices in Ukraine",
+			"label": "Elgar Concise Encyclopedia of Migration and Asylum Law",
 			"isbns": [
-				"9783031045288"
+				"9781802204155"
 			]
 		},
 		{
-			"label": "Contesting Migration Crises in Central Eastern Europe : A Political Economy Approach to Poland's Responses Towards Refugee Protection Provision.",
+			"label": "Sovereignty, Migration and the Law: The Exclusion of Non-Citizens",
 			"isbns": [
-				"9783031440373"
+				"9781032849676"
 			]
 		}
 	]
