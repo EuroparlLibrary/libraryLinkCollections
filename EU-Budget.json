@@ -2,28 +2,21 @@
 	"label": "The EU Budget",
 	"description": "A selection of titles on the EU Budget available from the European Parliament Library.",
 	"list": [{
+			"label": "Research Handbook on Post-Pandemic EU Economic Governance and NGEU Law",
+			"isbns": [
+				"9780103532813"
+			]
+		},
+		{
 			"label": "The Budget of the European Union and German European Policy",
 			"isbns": [
 				"9783658394738"
 			]
 		},
 		{
-			"label": "Central and Eastern European Economies and the War in Ukraine: Between a Rock and a Hard Place",
+			"label": "The Financial Constitution of European Integration",
 			"isbns": [
-				"9783031615610"
-			]
-		},
-		
-		{
-			"label": "Research handbook on post-pandemic EU economic governance and NGEU law",
-			"isbns": [
-				"9780103532813"
-			]
-		},
-		{
-			"label": "A European Central Bank standing guard over a European currency union",
-			"isbns": [
-				"9789403521589"
+				"9781509969944"
 			]
 		}
 	]
