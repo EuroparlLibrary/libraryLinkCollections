@@ -1,57 +1,48 @@
 {
-	"label": "Foreign Affairs",
-	"description": "A selection of titles on Foreign Affairs.",
+	"label": "Foreign Policy",
+	"description": "A selection of titles on foreign policy available from the European Parliament Library.",
 	"list": [{
-			"label": "The foreign policy of the European Union",
+			"label": "Crisis and Change in European Union Foreign Policy",
 			"isbns": [
-				
-				"9781350930483"
-			]
-		},
-{
-			"label": "European Actorness in a Shifting Geopolitical Order: European Strategic Autonomy Through Differentiated Integration",
-			"isbns": [
-				
-				"9783031445460"
+				"9781526182586"
 			]
 		},
 		{
-			"label": "EU Foreign Policy Via Sectoral Cooperation : The EU Joined-Up Approach Towards Switzerland, Israel and Morocco",
+			"label": "Norm Contestation in EU Foreign Policy",
 			"isbns": [
-				
-				"9783031489983"
+				"9783031851520"
 			]
 		},
 		{
-			"label": "Legal Dynamics of EU External Relations Dissecting a Layered Global Player",
+			"label": "The EU's Strategic Dilemma in the Ukraine War",
 			"isbns": [
-				
-				"9783662675939"
+				"9783032015952"
 			]
 		},
 		{
-			"label": "Geopolitics, Geoeconomics and Borderlands A Study of a Changing Eurasia and Its Implications for Europe",
+			"label": "Security in 21st Century Europe",
 			"isbns": [
-				"9783031339400"
+				"9781137006455"
 			]
 		},
-{
-			"label": "The EU and its relations with Eastern Europe, mutual animosity, unattainable friendship and faraway neighbours",
+		{
+			"label": "EU Foreign Policy in a Fragmenting International Order",
 			"isbns": [
-				"9781785365409"
+				"9783031640605"
 			]
 		},
-{
-			"label": "The Routledge handbook of transatlantic relations",
+		{
+			"label": "A Geopolitical Europe in the Making?",
 			"isbns": [
-				"9781000893892"
+				"9789462656666"
 			]
-		}, 
-{
-			"label": "China and Europe relations in the twenty-first century : politics, law and ordinary life",
+		},
+		{
+			"label": "Europe in an Era of US-China Strategic Rivalry",
 			"isbns": [
-				"9781032485942"
+				"9783031481178"
 			]
 		}
+		
 	]
 }
