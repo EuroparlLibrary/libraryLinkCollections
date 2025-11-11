@@ -1,35 +1,49 @@
-          
 {
 	"label": "Books on Migration: EU Law, Border Control and Security",
 	"description": "A selection of titles on migration: EU law, border control and security available from the European Parliament Library.",
-	"list": [{
-			"label": "The European Integrated Border Management : Frontex, Human Rights, and International Responsibility",
+	"list": [
+		{
+			"label": "The Mobility Control Apparatus",
+			"isbns": [
+				"9781003221524"
+			]
+		},
+		{
+			"label": "The European Integrated Border Management",
 			"isbns": [
 				"9781509964574"
 			]
 		},
 		{
-			"label": "Frontex and the rising of a new border control culture in Europe",
+			"label": "Routledge Handbook of European Borderlands",
 			"isbns": [
-				"9781032135854"
+				"9781040446621",
+				"9781040446560",
+				"9781032295299"
 			]
 		},
 		{
-			"label": "Political-Humanitarian Borderwork on the Southern European Border : Mainstream Humanitarian Organizations Within and Beyond the Hotspot System in Sicily.",
+			"label": "Technopolitics and the Making of Europe",
+			"isbns": [
+				"9781032211848"
+			]
+		},
+		{
+			"label": "The Empowerment of EU Agencies in EU Border Management",
+			"isbns": [
+				"9781040183779"
+			]
+		},
+		{
+			"label": "Political-Humanitarian Borderwork on the Southern European Border",
 			"isbns": [
 				"9783031405044"
 			]
 		},
 		{
-			"label": "Refugee Externalisation Policies: Responsibility, Legitimacy and Accountability",
+			"label": "Geopolitical and humanitarian aspects of the Belarus-EU border conflict",
 			"isbns": [
-				"9781000610451"
-			]
-		},
-		{
-			"label": "Monitoring border violence in the EU : frontex in focus",
-			"isbns": [
-				"9781032544045"
+				"9781032710747"
 			]
 		}
 	]
