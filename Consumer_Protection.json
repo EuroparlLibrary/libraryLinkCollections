@@ -2,28 +2,34 @@
 	"label": "Consumer Protection",
 	"description": "A selection of titles on Consumer Protection available from the European Parliament Library.",
 	"list": [{
-			"label": "The Transformation of Consumer Law and Policy in Europe",
+			"label": "Consumer rights and protections",
 			"isbns": [
-				"9781509963058"
+				"9798765116845"
 			]
-		},
-		{
-			"label": "Competition damages actions in the EU and the UK",
-			"isbns": [
-				"9781786430748"
-			]
-		},
-		{
-			"label": "Protecting Financial Consumers in Europe",
-			"isbns": [
-				"9789004534391"
-			]
-		},
-		{
-			"label": "Algorithmic marketing and EU law on unfair commercial practices",
-			"isbns": [
-				"9783031136030"
-			]
-		}
+			},
+			{
+				"label": "Empirics and consumer law in changing markets",
+				"isbns": [
+					"9781035327096"
+				]
+			},
+			{
+				"label": "Landmark Cases in Consumer Law",
+				"isbns": [
+					"9781509952328"
+				]
+			},
+			{
+				"label": "The Transformation of Consumer Law and Policy in Europe",
+				"isbns": [
+					"9781509963058"
+				]
+			},
+			{
+				"label": "Protecting Financial Consumers in Europe",
+				"isbns": [
+					"9789004534391"
+				]
+			}
 	]
 }
