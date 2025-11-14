@@ -1,40 +1,29 @@
 {
 	"label": "European Criminal Law and the European Arrest Warrant",
-	"description": "A selection of titles on European Criminal Law and the European Arrest Warrant",
+	"description": "A selection of titles on European Criminal Law and the European Arrest Warrant available from the European Parliament Library.",
 	"list": [{
-			"label": "The Normative Foundations for EU Criminal Justice : Powers, Limits and Justifications",
+			"label": "Extended Confiscation of Illicit Assets and the Criminal Law",
 			"isbns": [
-				
-				"9781509962365"
+				"9781003536321"
 			]
-		},
-		{
-			"label": "Forced Mobility of EU Citizens: Transnational Criminal Justice Instruments and the Management of 'Unwanted' EU Nationals",
-			"isbns": [
-				
-				"9781003254584"
-			]
-		},
-		{
-			"label": "Criminal and quasi-criminal enforcement mechanisms in Europe : origins, concepts, future",
-			"isbns": [
-				
-				"9781509932870"
-			]
-		},
-		{
-			"label": "The European Arrest Warrant and EU Citizenship : EU Citizenship in Relation to Foreseeability Problems in the Surrender Procedure",
-			"isbns": [
-				
-				"9783031075902"
-			]
-		},
-		{
-			"label": "Improving the European Arrest Warrant",
-			"isbns": [
-				
-				"9789400111875"
-			]
-		}
+			},
+			{
+				"label": "Research Handbook on EU Criminal Law",
+				"isbns": [
+					"9781800886438"
+				]
+			},
+			{
+				"label": "Admissibility of Evidence in EU Cross-Border Criminal Proceedings",
+				"isbns": [
+					"9781509972029"
+				]
+			},
+			{
+				"label": "The Normative Foundations for EU Criminal Justice",
+				"isbns": [
+					"9781509962365"
+				]
+			}
 	]
 }
