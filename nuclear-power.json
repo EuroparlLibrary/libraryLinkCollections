@@ -6,25 +6,32 @@
 			"isbns": [
 				"9781040046296"
 			]
-		},
-		{
-			"label": "Handbook of Energy and Environment in the 21st Century",
-			"isbns": [
-				"9781040016794"
-			]
-		},
-		{
-			"label": "The Global Nuclear Landscape",
-			"isbns": [
-				"9781032508894"
-			]
-		},
-		{
-			"label": "Reliability and Probabilistic Safety Assessment in Multi-Unit Nuclear Power Plants",
-			"isbns": [
-				"9780128193938"
-			]
-		}
-
+			},
+			{
+				"label": "The Global Nuclear Landscape",
+				"isbns": [
+					"9781032508894"
+				]
+			},
+			{
+				"label": "Perspectives on Engineering Uncertainty",
+				"isbns": [
+					"9783031832543", 
+					"9783031832536", 
+					"9783031832543"
+				]
+			},
+			{
+				"label": "Dirty Secrets of Nuclear Power in an Era of Climate Change",
+				"isbns": [
+					"9783031595950"
+				]
+			},
+			{
+				"label": "Intergenerational Democracy, Environmental Justice and the Case of Nuclear Waste",
+				"isbns": [
+					"9781032728018"
+				]
+			}
 	]
 }
