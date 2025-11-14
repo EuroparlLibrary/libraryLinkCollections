@@ -2,28 +2,58 @@
 	"label": "Books on Renewable Energy",
 	"description": "A selection of titles on renewable energy available from the European Parliament Library.",
 	"list": [{
-			"label": "The Science of Green Energy.",
+			"label": "Introduction to renewable energy",
 			"isbns": [
-				"9781040009031"
+				"9781439834497"
 			]
-		},
-		{
-			"label": "Handbook on Renewable Energy and Green Technology",
-			"isbns": [
-				"9781003862079"
-			]
-		},
-		{
-			"label": "Data Science of Renewable Energy Integration : The Nexus of Energy, Environment, and Economic Growth",
-			"isbns": [
-				"9789819987795"
-			]
-		},
-		{
-			"label": "Diffusion of innovative energy services : consumers' acceptance and willingness to pay",
-			"isbns": [
-				"9780128228838"
-			]
-		}
+			},
+			{
+				"label": "Transition to Sustainable Energy Technologies",
+				"isbns": [
+					"9781003631125"
+				]
+			},
+			{
+				"label": "Energy from Plasma: Production and Storage",
+				"isbns": [
+					"9780443265853"
+				]
+			},
+			{
+				"label": "Elgar Encyclopedia of Energy Economics",
+				"isbns": [
+					"9781035310371"
+				]
+			},
+			{
+				"label": "Circular Economy and Sustainable Energy Materials",
+				"isbns": [
+					"9781003463009"
+				]
+			},
+			{
+				"label": "Delivering a Climate Neutral Europe",
+				"isbns": [
+					"9781003493730"
+				]
+			},
+			{
+				"label": "The Science of Green Energy",
+				"isbns": [
+					"9781040009031"
+				]
+			},
+			{
+				"label": "Handbook on Renewable Energy and Green Technology",
+				"isbns": [
+					"9781003862079"
+				]
+			},
+			{
+				"label": "Data Science of Renewable Energy Integration",
+				"isbns": [
+					"9789819987795"
+				]
+			}
 	]
 }
