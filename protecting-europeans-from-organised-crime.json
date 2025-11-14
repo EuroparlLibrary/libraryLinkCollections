@@ -1,65 +1,41 @@
 {
-	"label": "Books on Protecting Europeans from Organised Crime",
-	"description": "A selection of titles on protecting Europeans from organised crime available from the European Parliament Library.",
+	"label": "Books on Fight Againts Organised Crime",
+	"description": "A selection of titles on fight against organised crime available from the European Parliament Library.",
 	"list": [{
-			"label": "Organised Crime, Financial Crime, and Criminal Justice: Theoretical Concepts and Challenges",
+			"label": "Rethinking Organised Crime",
 			"isbns": [
-				"9780367897451"
+				"9781802206234"
 			]
-		},
-		{
-			"label": "The Dark Mafia : Organized Crime in the Age of the Internet.",
-			"isbns": [
-				"9781003278597"
-			]
-		},
-		{
-			"label": "The Lazarus heist : from Hollywood to high finance : inside North Korea's global cyber war",
-			"isbns": [
-				"9780241554272"
-			]
-		},
-		{
-			"label": "Butler to the world : how Britain became the servant of tycoons, tax dodgers, kleptocrats and criminals",
-			"isbns": [
-				"9781788165884"
-			]
-		},
-		{
-			"label": "The Transnational Crime of Human Trafficking : A Human Security Approach",
-			"isbns": [
-				"9781032552620"
-			]
-		},
-		{
-			"label": "Tax crimes and enforcement in the European Union",
-			"isbns": [
-				"9780191953408"
-			]
-		},
-		{
-			"label": "The rise of EU police cooperation : governing differentiated integration",
-			"isbns": [
-				"9781032200927"
-			]
-		},
-		{
-			"label": "Countering Terrorist and Criminal Financing: Theory and Practice",
-			"isbns": [
-				"9781032366616"
-			]
-		},
-		{
-			"label": "Economic Crime: From Conception to Response",
-			"isbns": [
-				"9780367533861"
-			]
-		},
-		{
-			"label": "The Private Sector and Organized Crime: Criminal Entrepreneurship, Illicit Profits, and Private Sector Security Governance",
-			"isbns": [
-				"9781032056609"
-			]
-		}
+			},
+			{
+				"label": "Organisierte Kriminalität",
+				"isbns": [
+					"9783662693827"
+				]
+			},
+			{
+				"label": "An ontology of organized crime",
+				"isbns": [
+					"9781032780153"
+				]
+			},
+			{
+				"label": "Corporate Criminal Liability and Sanctions",
+				"isbns": [
+					"9781003324829"
+				]
+			},
+			{
+				"label": "EU anti-corruption efforts in the Eastern neighbourhood",
+				"isbns": [
+					"9780900453861"
+				]
+			},
+			{
+				"label": "Organized Crime and National Security in Spain",
+				"isbns": [
+					"9781040383407"
+				]
+			}
 	]
 }
