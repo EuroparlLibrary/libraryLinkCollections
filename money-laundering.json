@@ -1,41 +1,35 @@
 {
 	"label": "Books on Money Laundering",
-	"description": "A selection of titles on Money Laundering available from the European Parliament Library.",
+	"description": "A selection of titles on money laundering available from the European Parliament Library.",
 	"list": [{
-			"label": "The enforcement of EU financial law",
+			"label": "Money Laundering and Terrorist Financing",
 			"isbns": [
-				"9781509959754"
+				"9789819666546"
 			]
-		},
-		{
-			"label": "International anti-money laundering and soft law : approaches to regulation",
-			"isbns": [
-				"9781032449265"
-			]
-		},
-		{
-			"label": "Anti-Money Laundering, Counter Financing Terrorism and Cybersecurity in the Banking Industry : A Comparative Study within the G-20",
-			"isbns": [
-				"9783031234842"
-			]
-		},
-		{
-			"label": "Ethics in banking : is it possible?",
-			"isbns": [
-				"9783031221484"
-			]
-		},
-		{
-			"label": "Anti-Money Laundering in a Nutshell : Awareness and Compliance for Financial Personnel and Business Managers.",
-			"isbns": [
-				"9798868800665"
-			]
-		},
-		{
-			"label": "Regulating the Metaverse Economy : How to Prevent Money Laundering and the Financing of Terrorism.",
-			"isbns": [
-				"9783031464171"
-			]
-		}
-	]
+			},
+			{
+				"label": "Anti-Money Laundering and the Law",
+				"isbns": [
+					"9781032726588"
+				]
+			},
+			{
+				"label": "The Next Wave of Global Anti-Money Laundering Enforcement",
+				"isbns": [
+					"9783031058240"
+				]
+			},
+			{
+				"label": "Automated Suspicion Algorithms Strafverfolgung durch Künstliche Intelligenz am Beispiel der Geldwäsch",
+				"isbns": [
+					"9783756024087"
+				]
+			},
+			{
+				"label": "Crypto-Asset Ecosystems and the EU Anti-Money Laundering Framework",
+				"isbns": [
+					"9783031946981"
+				]
+			}
+		]
 }
