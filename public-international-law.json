@@ -2,65 +2,53 @@
 	"label": "Books on Public International Law",
 	"description": "A selection of titles on public international law available from the European Parliament Library.",
 	"list": [{
-			"label": "Democracy and Sovereignty: Rethinking the Legitimacy of Public International Law",
+			"label": "Research handbook on the International Court of Justice",
 			"isbns": [
-				"9789004508712"
+				"9781788111386"
 			]
-		},
-		{
-			"label": "Public International Law: A Multi-Perspective Approach",
-			"isbns": [
-				"9781003451327"
-			]
-		},
-		{
-			"label": "Treaties in parliaments and courts : the two other voices",
-			"isbns": [
-				"9781035324354"
-			]
-		},
-		{
-			"label": "Mistake of Fact in Public International Law.",
-			"isbns": [
-				"9783031595080"
-			]
-		},
-		{
-			"label": "Leading Works in International Law",
-			"isbns": [
-				"9780367679248"
-			]
-		},
-		{
-			"label": "Reimagining the International Legal Order",
-			"isbns": [
-				"9781032469331"
-			]
-		},
-		{
-			"label": "Reciprocity in public international law",
-			"isbns": [
-				"9781108988063"
-			]
-		},
-		{
-			"label": "Blurry boundaries of public and private international law",
-			"isbns": [
-				"9789811684791"
-			]
-		},
-		{
-			"label": "Causation in international law",
-			"isbns": [
-				"9781803922447"
-			]
-		},
-		{
-			"label": "Research handbook on international law and human security",
-			"isbns": [
-				"9781800376977"
-			]
-		}
-
-	]
+			},
+			{
+				"label": "Access to domestic justice for violations of international law",
+				"isbns": [
+					"9781035350759"
+				]
+			},
+			{
+				"label": "The United Nations Security Council and the authorisation of force",
+				"isbns": [
+					"9781509971282",
+					"9781509971251"
+				]
+			},
+			{
+				"label": "Public International Law: A Multi-Perspective Approach",
+				"isbns": [
+					"9781003451327"
+				]
+			},
+			{
+				"label": "Research handbook on international procedural law",
+				"isbns": [
+					"9781788970792"
+				]
+			},
+			{
+				"label": "Treaties in parliaments and courts : the two other voices",
+				"isbns": [
+					"9781035324354"
+				]
+			},
+			{
+				"label": "Mistake of Fact in Public International Law",
+				"isbns": [
+					"9783031595080"
+				]
+			},
+			{
+				"label": "State Succession to International Responsibility",
+				"isbns": [
+					"9789004703810"
+				]
+			}
+		]
 }
