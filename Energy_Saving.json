@@ -2,22 +2,28 @@
 	"label": "Books on Energy Saving",
 	"description": "A selection of titles on energy saving available from the European Parliament Library.",
 	"list": [{
-			"label": "Thermal Evaluation of Indoor Climate and Energy Storage in Buildings",
+			"label": "The Development of Energy Policy in the European Union",
 			"isbns": [
-				"9781040101964"
+				"9781040345498"
 			]
-		},
-		{
-			"label": "Unlocking Energy Efficiency",
-			"isbns": [
-				"9781003823360"
-			]
-		},
-		{
-			"label": "Current developments in biotechnology and bioengineering",
-			"isbns": [
-				"9780444643223"
-			]
-		}
+			},
+			{
+				"label": "Thermal Evaluation of Indoor Climate and Energy Storage in Buildings",
+				"isbns": [
+					"9781040101995"
+				]
+			},
+			{
+				"label": "Energy Materials: A Circular Economy Approach",
+				"isbns": [
+					"9781032217260"
+				]
+			},
+			{
+				"label": "Sustainable Energy Pathways to Net Zero",
+				"isbns": [
+					"9781040259177"
+				]
+			}
 	]
 }
