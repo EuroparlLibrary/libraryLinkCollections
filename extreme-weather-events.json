@@ -2,47 +2,28 @@
 	"label": "Books on Extreme Weather Events",
 	"description": "A selection of titles on extreme weather events available from the European Parliament Library.",
 	"list": [{
-			"label": "Responding to Extreme Weather Events",
+			"label": "Climate, Vulnerability and Health",
 			"isbns": [
-				"9781119741374"
+				"9783031770463"
 			]
 		},
 		{
-			"label": "Judging Extreme Weather",
+			"label": "Mitigation and Adaptation Strategies Against Climate Change in Natural Systems",
 			"isbns": [
-				"9781003854456"
+				"9783031759680"
 			]
 		},
 		{
-			"label": "Climate Change, Vulnerabilities and Adaptation",
+			"label": "Climate Change Impacts and Adaptation Strategies in Japan",
 			"isbns": [
-				"9783031496424"
+				"9789819624362"
 			]
 		},
 		{
-			"label": "Fire Hazards: Socio-Economic and Regional Issues",
+			"label": "Agricultural Adaptation to Climate Change in Sub-Saharan Africa",
 			"isbns": [
-				"9783031504464"
-			]
-		},
-		{
-			"label": "Disaster Risk and Management under Climate Change",
-			"isbns": [
-				"9789819941056"
-			]
-		},
-		{
-			"label": "Flood Risk and Community Resilience",
-			"isbns": [
-				"9781317356547"
-			]
-		},
-		{
-			"label": "Flood Risk Management: Assessment and Strategy",
-			"isbns": [
-				"9789819726882"
+				"9783031807169"
 			]
 		}
-
 	]
 }
