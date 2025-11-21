@@ -1,24 +1,24 @@
 {
-	"label": "Books on Water Pollution",
-	"description": "A selection of titles on water pollution available from the European Parliament Library.",
-	"list": [{
-		{
-			"label": "Aquatic Ecotoxicology",
-			"isbns": [
-				"9783031531309"
-			]
-		},
-		{
-			"label": "Blue Sky, Blue Water",
-			"isbns": [
-				"9783031825590"
-			]
-		},
-		{
-			"label": "Water Nexus Approach for Sustainable Development",
-			"isbns": [
-				"9783031892387"
-			]
-		}
-	]
+    "label": "Books on Water Pollution",
+    "description": "A selection of titles on water pollution available from the European Parliament Library.",
+    "list": [
+        {
+            "label": "Aquatic Ecotoxicology",
+            "isbns": [
+                "9783031531309"
+            ]
+        },
+        {
+            "label": "Blue Sky, Blue Water",
+            "isbns": [
+                "9783031825590"
+            ]
+        },
+        {
+            "label": "Water Nexus Approach for Sustainable Development",
+            "isbns": [
+                "9783031892387"
+            ]
+        }
+    ]
 }
