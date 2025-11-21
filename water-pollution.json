@@ -2,17 +2,6 @@
 	"label": "Books on Water Pollution",
 	"description": "A selection of titles on water pollution available from the European Parliament Library.",
 	"list": [{
-			"label": "Handbook of Water Pollution",
-			"isbns": [
-				"9781119904984"
-			]
-		},
-		{
-			"label": "Toxicity of Aquatic System and Remediation",
-			"isbns": [
-				"9781003297901"
-			]
-		},
 		{
 			"label": "Aquatic Ecotoxicology",
 			"isbns": [
@@ -20,17 +9,16 @@
 			]
 		},
 		{
-			"label": "Meso and Microplastic Risk Assessment in Marine Environments",
+			"label": "Blue Sky, Blue Water",
 			"isbns": [
-				"9780323909815"
+				"9783031825590"
 			]
 		},
 		{
-			"label": "Environmental Pollution and Public Health",
+			"label": "Water Nexus Approach for Sustainable Development",
 			"isbns": [
-				"9780323959681"
+				"9783031892387"
 			]
 		}
-
 	]
 }
