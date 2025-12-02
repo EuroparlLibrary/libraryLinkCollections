@@ -2,28 +2,46 @@
 	"label": "Books on Fiscal Policy and Taxation",
 	"description": "A selection of titles on fiscal policy an taxation available from the European Parliament Library.",
 	"list": [{
-			"label": "COVID-19 and the global political economy",
+			"label": "Exchange of Information in the EU",
 			"isbns": [
-				"9781003250432"
+				"9781035314560"
 			]
-		},
-		{
-			"label": "Economic policy and the Covid-19 crisis",
-			"isbns": [
-				"9781000461640"
-			]
-		},
-		{
-			"label": "Why fiscal stimulus programs fail, Volume 1",
-			"isbns": [
-				"9783030656751"
-			]
-		},
-		{
-			"label": "Fiscal policy in the Southern European Union Countries",
-			"isbns": [
-				"9783031297618"
-			]
-		}
+			},
+			{
+				"label": "Differentiated Integration in the EU and Harmonizing EU Tax Law",
+				"isbns": [
+					"9781803929354"
+				]
+			},
+			{
+				"label": "Abuse of Law in European Taxation",
+				"isbns": [
+					"9783031870125"
+				]
+			},
+			{
+				"label": "Tax, Public Finance, and the Rule of Law",
+				"isbns": [
+					"9781509977819"
+				]
+			},
+			{
+				"label": "Tax Dispute Resolution in the European Union",
+				"isbns": [
+					"9781035343362"
+				]
+			},
+			{
+				"label": "Fundamentals of EU VAT Law",
+				"isbns": [
+					"9789403508993"
+				]
+			},
+			{
+				"label": "Local Tax Policy in Central and Eastern Europe",
+				"isbns": [
+					"9781040327258"
+				]
+			}
 	]
 }
