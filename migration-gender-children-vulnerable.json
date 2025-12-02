@@ -6,32 +6,24 @@
 			"isbns": [
 				"9783031906022"
 			]
-		},
-		{
-			"label": "The Borders of Violence",
-			"isbns": [
-				"9781003416159"
-			]
-		},
-		{
-			"label": "Handbook on migration and human rights",
-			"isbns": [
-				"9781035302253"
-			]
-		},
-		{
-			"label": "Research handbook on European anti-discrimination law",
-			"isbns": [
-				"9781789906318"
-			]
-		},
-		{
-			"label": "Bordering social reproduction",
-			"isbns": [
-				"9781526189264",
-				"9781526189271", 
-				"9781526189264"
-			]
-		}
+			},
+			{
+				"label": "Handbook on Migration and Human Rights",
+				"isbns": [
+					"9781035302253"
+				]
+			},
+			{
+				"label": "The Borders of Violence",
+				"isbns": [
+					"9781003416159"
+				]
+			},
+			{
+				"label": "Research Handbook on European Anti-Discrimination Law",
+				"isbns": [
+					"9781789906318"
+				]
+			}
 	]
 }
