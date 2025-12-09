@@ -2,9 +2,46 @@
 	"label": "Books on Climate-Smart Agriculture",
 	"description": "A selection of titles on climate-smart agriculture available from the European Parliament Library.",
 	"list": [{
-			"label": "Climate-smart agriculture : reducing food insecurity",
+			"label": "Smart Agriculture: Harnessing Machine Learning for Crop Management",
 			"isbns": [
-				"9783030931117"
+				"9781003508625"
+			]
+		},
+
+		{
+			"label": "Pathways to African Food Security: Challenges, Threats and Opportunities towards 2050",
+			"isbns": [
+				"9781032649696"
+			]
+		},
+		{
+			"label": "Plant Growth Regulators to Manage Biotic and Abiotic Stress in Agroecosystems",
+			"isbns": [
+				"9781003389507"
+			]
+		},
+		{
+			"label": "Disaster risk, resilient agriculture and livelihood",
+			"isbns": [
+				"9781032231327"
+			]
+		},
+		{
+			"label": "Food Production, Diversity, and Safety Under Climate Change",
+			"isbns": [
+				"9783031516474"
+			]
+		},
+		{
+			"label": "",
+			"isbns": [
+				""
+			]
+		},
+		{
+			"label": "",
+			"isbns": [
+				""
 			]
 		},
 		{
@@ -17,30 +54,6 @@
 			"label": "Climate Risk Management in Agriculture : Monthly and Seasonal Forecast Application",
 			"isbns": [
 				"9783031518621"
-			]
-		},
-		{
-			"label": "Food Production, Diversity, and Safety under Climate Change",
-			"isbns": [
-				"9783031516474"
-			]
-		},
-		{
-			"label": "Sustainable Agriculture : Adaptation Strategies to Address Climate Change By 2050",
-			"isbns": [
-				"9781003815990"
-			]
-		},
-		{
-			"label": "Plant growth regulators for climate-smart agriculture",
-			"isbns": [
-				"9781000408546"
-			]
-		},
-		{
-			"label": "Conservation Agriculture in Africa",
-			"isbns": [
-				"9781789245769"
 			]
 		}
 	]
