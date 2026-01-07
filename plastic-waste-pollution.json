@@ -3,53 +3,46 @@
 	"description": "A selection of titles on plastic waste pollution available from the European Parliament Library.",
 	"list": [
 		{
-			"label": "Microplastics Pollution and Worldwide Policies on Plastic Use",
+			"label": "Innovative Approaches to Handle Plastic Waste and Foster Bio-based Plastics Production",
 			"isbns": [
-				"9781003387862"
+				"9783031849596"
 			]
 		},
 		{
-			"label": "Microplastics: Transport, Impacts, Monitoring and Mitigation",
+			"label": "Handbook of microplastic pollution in the environment: Microplastic pollution in aquatic environments",
 			"isbns": [
-				"9780443133251"
+				"9781040318294"
 			]
 		},
 		{
-			"label": "Microplastic Contamination in Aquatic Environments",
+			"label": "Handbook of microplastic pollution in the environment: Monitoring and treatment of microplastics and policy perspectives",
 			"isbns": [
-				"9780443153334"
+				"9781003487593"
 			]
 		},
 		{
-			"label": "Microplastic Occurrence, Fate, Impact, and Remediation",
+			"label": "Microplastics Pollution: A Threat to Biosphere",
 			"isbns": [
-				"9783031363511"
+				"9783031997747"
 			]
 		},
 		{
-			"label": "Microplastics in Marine Ecosystem",
+			"label": "Microplastics (MPs) in Wastewater: Determination-Treatment Methods and Effects on Climate Change",
 			"isbns": [
-				"9781032319308"
+				"9780303176947"
 			]
 		},
 		{
-			"label": "Environmental Risks Posed by Microplastics in Urban Waterways",
+			"label": "Marine Microplastics and the Quest for Remediation",
 			"isbns": [
-				"9789819906284"
+				"9789819689798"
 			]
 		},
 		{
-			"label": "Microplastics in the Ecosphere: air, water, soil, and food",
+			"label": "fficient and Enhanced Management of Plastic Waste in India",
 			"isbns": [
-				"9781119879534"
-			]
-		},
-		{
-			"label": "The African Marine Litter Outlook",
-			"isbns": [
-				"9783031086267"
+				"9783031893988"
 			]
 		}
-		
 	]
 }
