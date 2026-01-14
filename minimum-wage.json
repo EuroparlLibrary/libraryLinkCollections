@@ -2,29 +2,10 @@
 	"label": "Books on Minimum Wage",
 	"description": "A selection of titles on minimum wage available from the European Parliament Library.",
 	"list": [{
-			"label": "Zero Poverty Society",
+			"label": "The unexpected economics of minimum wages",
 			"isbns": [
-				"9780192699374"
+				"9781035358885"
 			]
-		},
-		{
-			"label": "Tackling Precarious Work",
-			"isbns": [
-				"9781000988284"
-			]
-		},
-		{
-			"label": "Global Labour in Distress: Volume I",
-			"isbns": [
-				"9783030892586"
-			]
-		},
-		{
-			"label": "European Trade Unions in the 21st Century",
-			"isbns": [
-				"9783030882853"
-			]
-		}
-
+			}
 	]
 }
