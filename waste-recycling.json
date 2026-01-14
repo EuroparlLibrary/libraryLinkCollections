@@ -2,47 +2,46 @@
 	"label": "Books on Waste Recycling",
 	"description": "A selection of titles on waste recycling available from the European Parliament Library.",
 	"list": [{
-			"label": "Waste-to-Wealth: Resource Recovery and Value-Added Products for Sustainable Development",
+			"label": "Waste-To-Wealth",
 			"isbns": [
 				"9781040154731"
 			]
-		},
-		{
-			"label": "Rethinking the Concept of Waste and Mass Consumption: Preserving Resources through Reuse, Repair and Recycling",
-			"isbns": [
-				"9781003504757"
-			]
-		},
-		{
-			"label": "Zero Waste Management Technologies",
-			"isbns": [
-				"9783031572753"
-			]
-		},
-		{
-			"label": "Material and Energy Recovery from Solid Waste for a Circular Economy",
-			"isbns": [
-				"9781040085745"
-			]
-		},
-		{
-			"label": "Impact of Petroleum Waste on Environmental Pollution and Its Sustainable Management Through Circular Economy",
-			"isbns": [
-				"9783031482205"
-			]
-		},
-		{
-			"label": "Valorization of Wastes for Sustainable Development : Waste to Wealth",
-			"isbns": [
-				"9780323958721"
-			]
-		},
-		{
-			"label": "Technological Advancements in Product Valorization of Tea Waste",
-			"isbns": [
-				"9780443192401"
-			]
-		}
-
+			},
+			{
+				"label": "Innovative Technologies for Waste Management",
+				"isbns": [
+					"9783031971846"
+				]
+			},
+			{
+				"label": "Recycling Institutions: How Waste Becomes an Urban Mine",
+				"isbns": [
+					"9783031817540"
+				]
+			},
+			{
+				"label": "Waste to Value Innovations: Circular Economy for the Energy Sector",
+				"isbns": [
+					"9789819627820"
+				]
+			},
+			{
+				"label": "Biomedical Waste Management",
+				"isbns": [
+					"9781003595434"
+				]
+			},
+			{
+				"label": "Extraction of Precious Metals from Industrial Waste Using Microbial Technology",
+				"isbns": [
+					"9783031836237"
+				]
+			},
+			{
+				"label": "Waste Materials Utilization for Transport Infrastructure",
+				"isbns": [
+					"9781003307211"
+				]
+		}	
 	]
 }
