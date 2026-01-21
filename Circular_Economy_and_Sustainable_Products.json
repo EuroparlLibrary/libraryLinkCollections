@@ -2,35 +2,59 @@
 	"label": "Circular Economy and Sustainable Products",
 	"description": "A selection of titles on Circular Economy and Sustainable Products available from the European Parliament Library.",
 	"list": [{
-			"label": "Circular Economy Realities: Critical Perspectives on Sustainability",
+			"label": "The Circular Economy and Institutional Change",
 			"isbns": [
-				"9781003295631"
+				"9781003489719"
 			]
-		},
-		{
-			"label": "A Systemic Transition to Circular Economy : Business and Technology Perspectives",
-			"isbns": [
-				"9783031550362"
-			]
-		},
-		{
-			"label": "Smart cities and circular economy : the future of sustainable urban development",
-			"isbns": [
-				"9781837979592"
-			]
-		},
-		{
-			"label": "Innovation, Quality and Sustainability for a Resilient Circular Economy : The Role of Commodity Science, Volume 1",
-			"isbns": [
-				"9783031282928"
-			]
-		},
-		{
-			"label": "Solutions For Sustainability Challenges : Technical Sustainability Management and Life Cycle Thinking",
-			"isbns": [
-				"9783031636240"
-			]
-		}
+			},
+			{
+				"label": "The Inclusive Circular Economy",
+				"isbns": [
+					"9789819668670"
+				]
+			},
+			{
+				"label": "Shaping Circular Transitions in the Built Environment",
+				"isbns": [
+					"9783032028341"
+				]
+			},
+			{
+				"label": "Circular Economy and Sustainable Management",
+				"isbns": [
+					"9781040425398"
+				]
+			},
+			{
+				"label": "Climate Neutrality Through Smart Eco-Innovation and Environmental Sustainability",
+				"isbns": [
+					"9783031832505"
+				]
+			},
+			{
+				"label": "The Circular Bioeconomy in Industry",
+				"isbns": [
+					"9783031843594"
+				]
+			},
+			{
+				"label": "Advanced Biofuels and Circular Economy: Technoeconomic, Socioeconomic, and Environmental Implications",
+				"isbns": [
+					"9783031869341"
+				]
+			},
+			{
+				"label": "Blockchain Technologies for Smart Circular Economy and Organisational Sustainability",
+				"isbns": [
+					"9783031891823"
+				]
+			},
+			{
+				"label": "Sustainable Processes in the Circular Economy",
+				"isbns": [
+					"9780443288869"
+				]
+			}
 	]
 }
 
