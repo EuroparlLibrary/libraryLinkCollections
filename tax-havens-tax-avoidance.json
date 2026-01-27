@@ -3,47 +3,40 @@
 	"label": "Books on Tax Havens and Tax Avoidance",
 	"description": "A selection of titles on tax havens and tax avoidance available from the European Parliament Library.",
 	"list": [{
-			"label": "Tax Evasion and Tax Havens since the Nineteenth Century",
+			"label": "Research Handbook on the Economics of Tax Havens",
 			"isbns": [
-				"9783031181191"
+				"9781803929743"
 			]
-		},
-		{
-			"label": "Tax Avoidance and Capital Structure : Empirical Evidence on Debt Covenants",
-			"isbns": [
-				"9783031309809"
-			]
-		},
-		{
-			"label": "Tax Evasion and the Law : A Comparative Analysis of the UK and USA.",
-			"isbns": [
-				"9781040033821"
-			]
-		},
-		{
-			"label": "Advances in Taxation",
-			"isbns": [
-				"9781835495841"
-			]
-		},
-		{
-			"label": "Organised Crime, Financial Crime, and Criminal Justice: Theoretical Concepts and Challenges",
-			"isbns": [
-				"9780367897451"
-			]
-		},
-		{
-			"label": "Histories of Tax Evasion, Avoidance and Resistance",
-			"isbns": [
-				"9781003333197"
-			]
-		},
-		{
-			"label": "Tax avoidance and European law",
-			"isbns": [
-				"9781000634686"
-			]
-		}
-
-	]
+			},
+			{
+				"label": "Abuse of Law in European Taxation",
+				"isbns": [
+					"9783031870125"
+				]
+			},
+			{
+				"label": "Tax, Public Finance, and the Rule of Law",
+				"isbns": [
+					"9781509977819"
+				]
+			},
+			{
+				"label": "Offshore",
+				"isbns": [
+					"9781324064947"
+				]
+			},
+			{
+				"label": "Exchange of Information in the EU",
+				"isbns": [
+					"9781035314560"
+				]
+			},
+			{
+				"label": "Tax Evasion and the Law: A Comparative Analysis of the UK and USA",
+				"isbns": [
+					"9781003333227"
+				]
+			}
+	  ]
 }
