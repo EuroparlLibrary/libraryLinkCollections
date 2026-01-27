@@ -30,6 +30,48 @@
 				"isbns": [
 					"9781035330690"
 				]
+			},
+			{
+				"label": "EU Values in Investment Law and Policy",
+				"isbns": [
+					"9780192899576"
+				]
+			},
+			{
+				"label": "Tax, Public Finance, and the Rule of Law",
+				"isbns": [
+					"9781509977819"
+				]
+			},
+			{
+				"label": "Sustaining the Rule of Law",
+				"isbns": [
+					"9781035345465"
+				]
+			},
+			{
+				"label": "Judicial Character in Hard Times",
+				"isbns": [
+					"9781035331925"
+				]
+			},
+			{
+				"label": "Rule of Law in Europe",
+				"isbns": [
+					"9783031612657"
+				]
+			},
+			{
+				"label": "Rule of Law, Technology and Environment",
+				"isbns": [
+					"9783031763496"
+				]
+			},
+			{
+				"label": "Artificial Intelligence and Rule of Law",
+				"isbns": [
+					"9783031973888"
+				]
 			}
-	]
+		]
 }
