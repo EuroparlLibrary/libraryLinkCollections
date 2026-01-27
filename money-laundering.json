@@ -2,33 +2,39 @@
 	"label": "Books on Money Laundering",
 	"description": "A selection of titles on money laundering available from the European Parliament Library.",
 	"list": [{
-			"label": "Money Laundering and Terrorist Financing",
+			"label": "Crypto-Asset Ecosystems and the EU Anti-Money Laundering Framework",
 			"isbns": [
-				"9789819666546"
+				"9783031946981"
 			]
+			},
+			{
+				"label": "Money Laundering and Crypto-Assets",
+				"isbns": [
+					"9783032134813"
+				]
+			},
+			{
+				"label": "Money Laundering and Terrorist Financing: European Union Reforms and External Implications",
+				"isbns": [
+					"9789819666546"
+				]
 			},
 			{
 				"label": "Anti-Money Laundering and the Law",
 				"isbns": [
-					"9781032726588"
+					"9781003466680"
 				]
 			},
 			{
 				"label": "The Next Wave of Global Anti-Money Laundering Enforcement",
 				"isbns": [
-					"9783031058240"
+					""
 				]
 			},
 			{
-				"label": "Automated Suspicion Algorithms Strafverfolgung durch Künstliche Intelligenz am Beispiel der Geldwäsch",
+				"label": "Automated Suspicion Algorithms",
 				"isbns": [
 					"9783756024087"
-				]
-			},
-			{
-				"label": "Crypto-Asset Ecosystems and the EU Anti-Money Laundering Framework",
-				"isbns": [
-					"9783031946981"
 				]
 			}
 		]
