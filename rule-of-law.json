@@ -2,46 +2,34 @@
 	"label": "Books on Rule of Law",
 	"description": "A selection of titles on rule of law available from the European Parliament Library.",
 	"list": [{
-			"label": "The Cambridge companion to the rule of law",
+			"label": "Routledge Handbook of the Rule of Law",
 			"isbns": [
-				"9781108454438"
+				"9781351237185"
 			]
-		},
-		{
-			"label": "The rule of law's anatomy in the EU : foundations and protections",
-			"isbns": [
-				"9781509955091"
-			]
-		},
-		{
-			"label": "AI and the Rule of Law : The Necessary Evolution of a Concept",
-			"isbns": [
-				"9781509963195"
-			]
-		},
-		{
-			"label": "The international rule of law scope, subjects, requirements",
-			"isbns": [
-				"9781789907421"
-			]
-		},
-		{
-			"label": "The EU and the rule of law in international economic relations",
-			"isbns": [
-				"9781839103353"
-			]
-		},
-		{
-			"label": "The politics of the rule of law in the EU polity",
-			"isbns": [
-				"9783030973674"
-			]
-		},
-		{
-			"label": "Fundamental rights challenges",
-			"isbns": [
-				"9783030727987"
-			]
-		}
+			},
+			{
+				"label": "The Rule of Law under Pressure",
+				"isbns": [
+					"9781009460286"
+				]
+			},
+			{
+				"label": "The Rule of Law in Germany",
+				"isbns": [
+					"9781509969302"
+				]
+			},
+			{
+				"label": "The revival of the rule of law issue",
+				"isbns": [
+					"9781839705458"
+				]
+			},
+			{
+				"label": "The Rule of Law under Threat",
+				"isbns": [
+					"9781035330690"
+				]
+			}
 	]
 }
