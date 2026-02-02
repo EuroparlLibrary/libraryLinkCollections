@@ -2,58 +2,46 @@
 	"label": "Books on Terrorism and the EU Counter-Terrorism Policies",
 	"description": "A selection of titles on Terrorism and the EU Counter-Terrorism Policies.",
 	"list": [{
-			"label": "Human Factors in Effective Counter-Terrorism : A Comparative Study",
+			"label": "Terrorismusbekämpfung in der Föderalen Sicherheitsarchitektur",
 			"isbns": [
-				"9781003858317"
+				"9783662722336"
 			]
-		},
-		{
-			"label": "Global terrorism : a reference handbook",
-			"isbns": [
-				"9781440878268"
-			]
-		},
-		{
-			"label": "Research handbook on international law and terrorism",
-			"isbns": [
-				"9781788972222"
-			]
-		},
-		{
-			"label": "Human Dignity and Human Security in Times of Terrorism",
-			"isbns": [
-				"9789462653559"
-			]
-		},
-		{
-			"label": "Global counter-terrorist financing and soft law",
-			"isbns": [
-				"9781789909999"
-			]
-		},
-		{
-			"label": "How should democracies fight terrorism?",
-			"isbns": [
-				"9781509540754"
-			]
-		},
-		{
-			"label": "Countering Terrorist and Criminal Financing : Theory and Practice",
-			"isbns": [
-				"9781032366616"
-			]
-		},
-		{
-			"label": "Routledge handbook of transnational terrorism",
-			"isbns": [
-				"9781003326373"
-			]
-		},
-		{
-			"label": "The evolution of information-sharing in EU counter-terrorism : a post-2015 paradigm shift?",
-			"isbns": [
-				"9781803928302"
-			]
-		}
+			},
+			{
+				"label": "Artificial Intelligence for Global Counter-Terrorism",
+				"isbns": [
+					"9783031992353"
+				]
+			},
+			{
+				"label": "Artificial Intelligence, Counter-Terrorism and the Rule of Law",
+				"isbns": [
+					"9781803928340"
+				]
+			},
+			{
+				"label": "Cybercrime and Cyber Terrorism : A View from the Philosophy of Social Science",
+				"isbns": [
+					"9783031878534"
+				]
+			},
+			{
+				"label": "Organised Criminal Terrorism : An International Law and International Relations Perspective",
+				"isbns": [
+					"9789004424579"
+				]
+			},
+			{
+				"label": "Children's Rights, 'Foreign Fighters', Counter-Terrorism : Children of Nowhere",
+				"isbns": [
+					"9781800377127"
+				]
+			},
+			{
+				"label": "Towards a New Definition of Terrorism : Challenges and Perspectives in a Shifting Paradigm",
+				"isbns": [
+					"9783031587191"
+				]
+			}
 	]
 }
