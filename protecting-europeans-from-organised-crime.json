@@ -2,39 +2,33 @@
 	"label": "Books on Fight Againts Organised Crime",
 	"description": "A selection of titles on fight against organised crime available from the European Parliament Library.",
 	"list": [{
-			"label": "Rethinking Organised Crime",
+			"label": "Organisierte Kriminalität : Systematische Analyse der Phänomenbereiche und mögliche staatliche Reaktionen",
 			"isbns": [
-				"9781802206234"
+				"9783662693827"
 			]
 			},
 			{
-				"label": "Organisierte Kriminalität",
+				"label": "Organised Crime, Criminal Procedure, and Prisons: prosecuting and punishing organised criminal groups",
 				"isbns": [
-					"9783662693827"
+					""
 				]
 			},
 			{
-				"label": "An ontology of organized crime",
+				"label": "Elgar encyclopedia of international sanctions",
 				"isbns": [
-					"9781032780153"
+					"9781035339532"
 				]
 			},
 			{
-				"label": "Corporate Criminal Liability and Sanctions",
+				"label": "Organized Crime and National Security in Spain, Challenges and Responses",
 				"isbns": [
-					"9781003324829"
+					"9781040383452"
 				]
 			},
 			{
-				"label": "EU anti-corruption efforts in the Eastern neighbourhood",
+				"label": "Rethinking Organised Crime",
 				"isbns": [
-					"9780900453861"
-				]
-			},
-			{
-				"label": "Organized Crime and National Security in Spain",
-				"isbns": [
-					"9781040383407"
+					"9781802206234"
 				]
 			}
 	]
