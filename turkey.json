@@ -2,39 +2,9 @@
 	"label": "Books on Turkey",
 	"description": "A selection of titles on Turkey available from the European Parliament Library.",
 	"list": [{
-			"label": "Forced Migration in Turkey : Refugee Perspectives, Organizational Assistance, and Political Embedding",
-			"isbns": [
-				"9781040016374"
-			]
-		},
-		{
-			"label": "EU-Turkey Relations",
-			"isbns": [
-				"9781788113687"
-			]
-		},
-		{
 			"label": "EU-Turkey Relations: Theories, Institutions, and Policies",
 			"isbns": [
 				"9783030708900"
-			]
-		},
-		{
-			"label": "EU, Turkey and counter-terrorism",
-			"isbns": [
-				"9781800379572"
-			]
-		},
-		{
-			"label": "Mapping the Fault Lines in Turkey-US Relations : Making the Vulnerable Partnership",
-			"isbns": [
-				"9780755650774"
-			]
-		},
-		{
-			"label": "Class, Capital, State, and Late Development : The Political Economy of Military Interventions in Turkey",
-			"isbns": [
-				"9789004692190"
 			]
 		},
 		{
@@ -50,9 +20,15 @@
 			]
 		},
 		{
-			"label": "Development and Foreign Policy in Turkey : Rethinking Interconnectedness in a Multipolar World",
+			"label": "The 'New Turkey' in the Broader Middle East : Reflections on International Relations Theory",
 			"isbns": [
-				"9783031121166"
+				"9783032033499"
+			]
+		},
+		{
+			"label": "Authoritarianism Debates: The Ongoing Formation of the State in Turkey",
+			"isbns": [
+				"9783031971594"
 			]
 		}
 	]
