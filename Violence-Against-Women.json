@@ -2,9 +2,9 @@
 	"label": "Books on Violence Against Women",
 	"description": "A selection of titles on violence against women available from the European Parliament Library.",
 	"list": [{
-			"label": "Violence Against Women under European Human Rights Law",
+			"label": "The Borders of Violence : Temporary Migration and Domestic and Family Violence",
 			"isbns": [
-				"9781035346660"
+				"9781003416159"
 			]
 			},
 			{
@@ -18,6 +18,12 @@
 				"isbns": [
 					"9781035342365"
 				]
-			}
+			},
+			{
+			"label": "Violence Against Women under European Human Rights Law",
+			"isbns": [
+				"9781035346660"
+			]
+		}
 	]
 }
