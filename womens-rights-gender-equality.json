@@ -2,52 +2,28 @@
 	"label": "Books on Women's Rights and Gender Equality",
 	"description": "A selection of titles on women's rights and gender equality available from the European Parliament Library.",
 	"list": [{
-			"label": "Measuring Gender Equality",
+			"label": "Gender (In)equality and Social Development, Issues of Health, Education, Environment and Other SDG Implications",
 			"isbns": [
-				"9783031414855"
+				"9789819679799"
 			]
-		},
-		{
-			"label": "Reconstructions of Gender and Information Technology",
-			"isbns": [
-				"9789819951864",
-				"9789819951871"
-			]
-		},
-		{
-			"label": "Gender Equality from a Modern Perspective",
-			"isbns": [
-				"9781000853193"
-			]
-		},
-		{
-			"label": "Law and the Quest for Gender Equality",
-			"isbns": [
-				"9781760465490",
-				"9781760465506"
-			]
-		},
-		{
-			"label": "When Gender Equality Policies in Practice Matter",
-			"isbns": [
-				"9783031441080"
-			]
-		},
-		{
-			"label": "Attaining the 2030 Sustainable Development Goal of Gender Equality",
-			"isbns": [
-				"9781804558348",
-				"9781804558324",
-				"9781804558355"
-			]
-		},
-		{
-			"label": "Feminist Frontiers in Climate Justice",
-			"isbns": [
-				"9781803923789",
-				"9781803923796"
-			]
-		}
-
+			},
+			{
+				"label": "Handbook on Diversity, Equity, and Inclusion in Public Administration",
+				"isbns": [
+					"9781802206173"
+				]
+			},
+			{
+				"label": "Research Handbook on Gender and Diversity in Sport Management",
+				"isbns": [
+					"9781802203691"
+				]
+			},
+			{
+				"label": "When Gender Equality Policies in Practice Matter",
+				"isbns": [
+					"9783031441080"
+				]
+			}
 	]
 }
