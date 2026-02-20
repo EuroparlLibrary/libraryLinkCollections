@@ -2,28 +2,22 @@
 	"label": "Books on Fight Against Harassment",
 	"description": "A selection of titles on fight against harassment available from the European Parliament Library.",
 	"list": [{
-			"label": "Gender and Security in Digital Space",
+			"label": "Toxic Parliaments: And What Can Be Done About Them",
 			"isbns": [
-				"9781000771015"
+				"9783031483288"
 			]
-		},
-		{
-			"label": "Gender-Based Violence and the Law",
-			"isbns": [
-				"9781003815525"
-			]
-		},
-		{
-			"label": "Preventing and combating violence against women and domestic violence",
-			"isbns": [
-				"9781839107757"
-			]
-		},
-		{
-			"label": "Cyberbullying and online harms",
-			"isbns": [
-				"9781000868487"
-			]
-		}
-	]
+			},
+			{
+				"label": "Cyberbullying and Sexting, Regulatory Challenges in the Digital Age",
+				"isbns": [
+					"9781509951376"
+				]
+			},
+			{
+				"label": "Harcèlements au travail : au-delà des clichés",
+				"isbns": [
+					"9782804724672"
+				]
+			}
+		]
 }
