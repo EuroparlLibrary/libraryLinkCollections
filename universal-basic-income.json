@@ -2,53 +2,28 @@
 	"label": "Books on Universal Basic Income",
 	"description": "A selection of titles on universal basic income available from the European Parliament Library.",
 	"list": [{
-			"label": "The Palgrave International Handbook of Basic Income",
+			"label": "Rethinking Income and Money",
 			"isbns": [
-				"9783031410017"
+				"9783031777820"
 			]
 		},
 		{
-			"label": "Debating universal basic income",
+			"label": "The Wealth of Freedom : Radical Republican Political Economy",
 			"isbns": [
-				"9783031175138"
+				"9780191904752"
 			]
 		},
 		{
-			"label": "Universal basic income in historical perspective",
+			"label": "Rethinking Income and Money : Incorporating Technology into Economic Theory",
 			"isbns": [
-				"9783030757069"
+				"9783031777820"
 			]
 		},
 		{
-			"label": "Basic Income--What, Why, and How?",
+			"label": "Creative Social Policy",
 			"isbns": [
-				"9783031142482"
-			]
-		},
-		{
-			"label": "Is basic income within reach?",
-			"isbns": [
-				"9783030660857"
-			]
-		},
-		{
-			"label": "Basic income: a history",
-			"isbns": [
-				"9781839102417"
-			]
-		},
-		{
-			"label": "Political activism and basic income guarantee",
-			"isbns": [
-				"9783030439040"
-			]
-		},
-		{
-			"label": "Experimenting with unconditional basic income",
-			"isbns": [
-				"9781839104855"
+				"9781035321407"
 			]
 		}
-
 	]
 }
