@@ -2,6 +2,24 @@
 	"label": "Books on Sakharov Prize 2016-2020",
 	"description": "A selection of titles on Sakharov Prize 2016-2020 available from the European Parliament Library.",
 	"list": [{
+			"label": "Russia-Ukraine War: Towards Resilient Fighting Power",
+			"isbns": [
+				"9781003351641"
+			]
+		},
+		{
+			"label": "Patriote : mémoires",
+			"isbns": [
+				"9782221256589"
+			]
+		},
+		{
+			"label": "Finding my way",
+			"isbns": [
+				"9781399619349"
+			]
+		},
+		{
 			"label": "Disinformation, narratives and memory politics in Russia and Belarus",
 			"isbns": [
 				"9781000608472"
