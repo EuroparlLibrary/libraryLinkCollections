@@ -2,53 +2,106 @@
 	"label": "Books on Russia's War on Ukraine: Its Origins and Geopolitical Context",
 	"description": "A selection of titles on Russia's War on Ukraine: Its Origins and Geopolitical Context available from the European Parliament Library.",
 	"list": [{
-			"label": "Ukraine: contested nationhood in a European context",
+			"label": "The EU’s Strategic Dilemma in the Ukraine War, Sanctions, Military Aid, and the Struggle for Coherence in Foreign Policy",
 			"isbns": [
-				"9780367199807"
+				"9783032015952"
 			]
 		},
 		{
-			"label": "Politics of Energy Dependency",
+			"label": "European Security: From Ukraine to Washington",
 			"isbns": [
-				"9781442645332"
+				"9781350471313"
 			]
 		},
 		{
-			"label": "The gates of Europe: a history of Ukraine",
+			"label": "War by other means : Western sanctions on Russia and Moscow's response",
 			"isbns": [
-				"9780141980614"
+				"9783031513701"
 			]
 		},
 		{
-			"label": "Analyzing Political Tensions Between Ukraine, Russia, and the EU",
+			"label": "EU Energy and Climate Policy after COVID-19 and the Invasion of Ukraine",
 			"isbns": [
-				"9781799829065"
+				"9781032624822"
 			]
 		},
 		{
-			"label": "Revolution in Orange: The Origins of Ukraine's Democratic Breakthrough",
+			"label": "Dynamik des Ukrainekriegs : Diplomatische Hürden und geopolitische Risiken",
 			"isbns": [
-				"9780870033254"
+				"9783032093240"
 			]
 		},
 		{
-			"label": "Ukraine and Russia: from civilized divorce to uncivil war",
+			"label": "NATO and the War in Ukraine: Geopolitical Context and Long-Term Consequences",
 			"isbns": [
-				"9781108713955"
+				"9783031687792"
 			]
 		},
 		{
-			"label": "European Identities and Foreign Policy Discourses on Russia",
+			"label": "Dynamics of the Ukraine War",
 			"isbns": [
-				"9781138231528"
+				"9783031524448"
 			]
 		},
 		{
-			"label": "Russia-EU Relations and the Common Neighborhood",
+			"label": "International Law after the Ukraine War",
 			"isbns": [
-				"9781138215467"
+				"9781040446843"
+			]
+		},
+		{
+			"label": "The Russia-Ukraine Conflict and Development in Africa",
+			"isbns": [
+				"9783031633331"
+			]
+		},
+		{
+			"label": "Assessing Russia's Actions in Ukraine and Syria, 2014-2022",
+			"isbns": [
+				"9781666962246"
+			]
+		},
+		{
+			"label": "Reflections on the Russia-Ukraine War",
+			"isbns": [
+				"9789400604742"
+			]
+		},
+		{
+			"label": "The Russia-Ukraine War Towards Resilient Fighting Power",
+			"isbns": [
+				"9781003351641"
+			]
+		},
+		{
+			"label": "Handbook on Post-War Reconstruction and Development Economics of Ukraine",
+			"isbns": [
+				"9783031487354"
+			]
+		},
+		{
+			"label": "Das politische System der Ukraine : Institutionen, Akteure, Politikfelder",
+			"isbns": [
+				"9783658474768"
+			]
+		},
+		{
+			"label": "From Ukraine to the European Union and Back: Ukrainians' Return Migration and Reintegration",
+			"isbns": [
+				"9780100365377"
+			]
+		},
+		{
+			"label": "War refugees and the labour market : crisis-driven mobility in the Polish-Ukrainian borderland",
+			"isbns": [
+				"9781003471646"
+			]
+		},
+		{
+			"label": "The Russia-Ukraine War and Its Origins",
+			"isbns": [
+				"9783031987243"
 			]
 		}
-
 	]
 }
