@@ -2,47 +2,65 @@
 	"label": "Books on Arctic and Nordic Dimension",
 	"description": "A selection of titles on Arctic and Nordic Dimension available from the European Parliament Library.",
 	"list": [{
-			"label": "Global Development in the Arctic",
+			"label": "The Routledge Handbook of Arctic Governance",
 			"isbns": [
-				"9781003246015"
+				"9781003371885"
 			]
 		},
 		{
-			"label": "The Routledge handbook of polar Law",
+			"label": "The Palgrave Handbook of Arctic Policy and Politics",
 			"isbns": [
-				"9781003404828"
+				"9783032030313"
 			]
 		},
 		{
-			"label": "Arctic opportunities and challenges",
+			"label": "GlobalArctic: The New Dynamics of Arctic Governance",
 			"isbns": [
-				"9789811912467"
+				"9789819648689"
 			]
 		},
 		{
-			"label": "The security of Iceland and the Arctic 2030",
+			"label": "The Nordic States, NATO and the EU in Arctic Security: a new Nordic balance?",
 			"isbns": [
-				"9783030899486"
+				"9781035333486",
+				"9781035333479"
 			]
 		},
 		{
-			"label": "Global Arctic: an introduction to the multifaceted dynamics of the Arctic",
+			"label": "Sustainable Urban Development in the European Arctic",
 			"isbns": [
-				"9783030812539"
+				"9781003284864"
 			]
 		},
 		{
-			"label": "Arctic Governance Through Conferencing : Actors, Agendas and Arenas",
+			"label": "So you want to own Greenland? Lessons from the vikings to Trump",
 			"isbns": [
-				"9783031233326"
+				"9781805264620"
 			]
 		},
 		{
-			"label": "Supply Chain Operations in the Arctic: Implications for Social Sustainability",
+			"label": "North Pacific Perspectives on the Arctic: looking far north in turbulent times",
 			"isbns": [
-				"9781003218043"
+				"9781035344956"
+			]
+		},
+		{
+			"label": "China-Russia Relations in the Arctic: Friends in the Cold?",
+			"isbns": [
+				"9783031630873"
+			]
+		},
+		{
+			"label": "India in the Arctic: Geopolitical and Economic Engagements",
+			"isbns": [
+				"9789819736409"
+			]
+		},
+		{
+			"label": "Iceland's Arctic Policies and Shifting Geopolitics: Embellished Promise",
+			"isbns": [
+				"9780303140764"
 			]
 		}
-
 	]
 }
