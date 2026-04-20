@@ -2,29 +2,28 @@
 	"label": "Books on Sustainable Development Goal 7: Affordable and Clean Energy",
 	"description": "A selection of titles on Sustainable Development Goal 7: affordable and clean energy available from the European Parliament Library.",
 	"list": [{
-			"label": "Africas Propensity for a Net Zero Energy Transition",
+			"label": "Reconciling Energy Poverty and Climate Change: Universal Energy Access and Net-Zero Emission",
 			"isbns": [
-				"9781040164617"
+				"9789819661459"
 			]
-		},
-		{
-			"label": "Living with Energy Poverty",
-			"isbns": [
-				"9781003805694"
-			]
-		},
-		{
-			"label": "The South Asian Energy Corridor",
-			"isbns": [
-				"9781774914786"
-			]
-		},
-		{
-			"label": "Energy Regulation in Africa",
-			"isbns": [
-				"9783031526770"
-			]
-		}
-
+			},
+			{
+				"label": "Energiearmut im regulierenden Wohlfahrtsstaat: Energieunternehmen als sozialpolitische Akteure im deutsch-britischen Vergleich",
+				"isbns": [
+					"9783658505530"
+				]
+			},
+			{
+				"label": "Energy Poverty in Japan: Unveiling Determinants of Vulnerability and Resilience",
+				"isbns": [
+					"9789819626731"
+				]
+			},
+			{
+				"label": "Energy Regulation in Africa: Dynamics, Challenges, and Opportunities",
+				"isbns": [
+					"9783031526770"
+				]
+			}
 	]
 }
