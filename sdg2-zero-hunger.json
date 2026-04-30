@@ -2,39 +2,57 @@
 	"label": "Books on Sustainable Development Goal 2: Zero Hunger",
 	"description": "A selection of titles on Sustainable Development Goal 2: Zero Hunger available from the European Parliament Library.",
 	"list": [{
-			"label": "Food Security and Nutrition",
+			"label": "Food and Water Security",
 			"isbns": [
-				"9781032736556"
+				"9783032048707"
 			]
 		},
 		{
-			"label": "Handbook on Public Policy and Food Security",
+			"label": "The Law of Food Security",
 			"isbns": [
-				"9781839105449"
+				"9789819536368"
 			]
 		},
 		{
-			"label": "Food Shortage Crisis",
+			"label": "Agri-Informatics and Eco-Friendly Innovations for a Secure Food Future",
 			"isbns": [
-				"9798216171577"
+				"9783032021182"
 			]
 		},
 		{
-			"label": "Higher Education and SDG2: Zero Hunger",
+			"label": "Agriculture and Sustainable Development in Sub-Saharan Africa",
 			"isbns": [
-				"9781836084600"
+				"9783032098818"
 			]
 		},
 		{
-			"label": "The Water, Energy, and Food Security Nexus in Asia and the Pacific",
+			"label": "Routledge Handbook of the un Sustainable Development Goals Research and Policy",
 			"isbns": [
-				"9783031290350"
+				"9781003285472"
 			]
 		},
 		{
-			"label": "Geoinformatics",
+			"label": "Pathways to African Food Security: Challenges, Threats and Opportunities towards 2050",
 			"isbns": [
-				"9781040091241"
+				"9781032649696"
+			]
+		},
+		{
+			"label": "Desert Ecosystems: Rescripting Development Paradigms",
+			"isbns": [
+				"9783032032379"
+			]
+		},
+		{
+			"label": "Fostering Arid Lands Agriculture in the Face of Climate Change",
+			"isbns": [
+				"9783031984907"
+			]
+		},
+		{
+			"label": "Food Security and Islamic Ethics: rights, policies and vulnerable groups",
+			"isbns": [
+				"9781035333585"
 			]
 		}
 	]
