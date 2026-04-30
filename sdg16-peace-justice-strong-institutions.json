@@ -2,33 +2,69 @@
 	"label": "Books on Sustainable Development Goal 16: Peace, Justice and Strong Institutions",
 	"description": "A selection of titles on Sustainable Development Goal 16: Peace, Justice and Strong Institutions available from the European Parliament Library.",
 	"list": [{
-			"label": "Peace Education, Religious Discourse, and Scientific Enquiry: Dialogue and Collaboration from Eastern European Contexts",
+			"label": "Frameworks and Practices Towards a Sustainable and Peaceful Future",
 			"isbns": [
-				"9781003567851"
+				"9789819523108"
 			]
 		},
 		{
-			"label": "Rule of Law in Europe",
+			"label": "Liberal Peacebuilding in Times of Change: The UN, the EU, and the Politics of Continuity",
 			"isbns": [
-				"9783031612657"
+				"9781040682074"
 			]
 		},
 		{
-			"label": "The rule of law under threat : eroding institutions and European remedies",
+			"label": "Contemporary Geopolitical Alignment in the Global South: Security, Peace and Sustainable Development",
 			"isbns": [
-				"9781035330690"
+				"9783031819773"
 			]
 		},
 		{
-			"label": "EU Rule of Law Procedures at the Test Bench : Managing Dissensus in the European Constitutional Landscape",
+			"label": "Sustaining the Rule of Law: the future of judicial independence in Europe",
 			"isbns": [
-				"9783031600081"
+				"9781035345472"
 			]
 		},
 		{
-			"label": "Narrating the Rule of Law: Patterns in East Central European Parliaments",
+			"label": "The Palgrave handbook of peace, conflict and security studies in Africa",
 			"isbns": [
-				"9783031663321"
+				"9783031929243"
+			]
+		},
+		{
+			"label": "Handbook of Social Justice in the Global South",
+			"isbns": [
+				"9781803921150"
+			]
+		},
+		{
+			"label": "Silencing the Guns: Pathways to Sustainable Peace in Postcolonial Africa",
+			"isbns": [
+				"9783031956553"
+			]
+		},
+		{
+			"label": "Can Asians Think of Peace? Essays on Managing Conflict in the Asian Century",
+			"isbns": [
+				"9789819656660"
+			]
+		},
+		{
+			"label": "Expanded BRICS Nations: Peace, Security, Global Economy and Sustainable Development",
+			"isbns": [
+				"9789819669868"
+			]
+		},
+		{
+			"label": "Identity-Based Mass Violence in Urban Contexts",
+			"isbns": [
+				"9783031980688"
+			]
+		},
+		{
+			"label": "Sustaining Access to Justice: new avenues for costs and funding",
+			"isbns": [
+				"9781509981649"
 			]
 		}
 	]
