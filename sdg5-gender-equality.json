@@ -2,15 +2,39 @@
 	"label": "Books on Sustainable Development Goal 5: Gender Equality",
 	"description": "A selection of titles on Sustainable Development Goal 5: Gender Equality available from the European Parliament Library.",
 	"list": [{
-			"label": "The Stalled Revolution: is equality for women an impossible dream",
+			"label": "Women, Work and the Care Economy",
 			"isbns": [
-				"9781835491904"
+				"9781003640189"
 			]
 		},
 		{
 			"label": "Gender and the European Court of Human Rights",
 			"isbns": [
-				"9781040318041"
+				"9781003435099"
+			]
+		},
+		{
+			"label": "Routledge Handbook of the UN Sustainable Development Goals Research and Policy",
+			"isbns": [
+				"9781003285472"
+			]
+		},
+		{
+			"label": "Changing dynamics of gender equity, inclusivity and diversity",
+			"isbns": [
+				"9781036453886"
+			]
+		},
+		{
+			"label": "Digitalization and Women's Rights, Volume 1",
+			"isbns": [
+				"9781040394601"
+			]
+		},
+		{
+			"label": "Emerging Women’s Livelihood Collectives in India: Cases Depicting Agency, Accomplishments and Challenges",
+			"isbns": [
+				"9789819627516"
 			]
 		},
 		{
@@ -18,25 +42,6 @@
 			"isbns": [
 				"9783031834752"
 			]
-		},
-		{
-			"label": "The Uprising of Women in Philanthropy",
-			"isbns": [
-				"9781003330455"
-			]
-		},
-		{
-			"label": "Gender Inequality in the Global Labor Market",
-			"isbns": [
-				"9781032568812"
-			]
-		},
-		{
-			"label": "The Feminist Legislation Project",
-			"isbns": [
-				"9781003372462"
-			]
 		}
-
 	]
 }
