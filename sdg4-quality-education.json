@@ -2,27 +2,45 @@
 	"label": "Books on Sustainable Development Goal 4: Quality Education",
 	"description": "A selection of titles on Sustainable Development Goal 4: Quality Education available from the European Parliament Library.",
 	"list": [{
+			"label": "The Elgar Companion to Management Education and the Sustainable Development Goals",
+			"isbns": [
+				"9781035380268"
+			]
+		},
+		{
+			"label": "'Southern' Europe and beyond in the Mediterranean: critical essays on adult learning and education",
+			"isbns": [
+				"9780900475115"
+			]
+		},
+		{
+			"label": "Integrating Sustainability to Education, Business, and Environmental Energy Solutions",
+			"isbns": [
+				"9783031900464"
+			]
+		},
+		{
+			"label": "Towards Resilient Societies: the Synergy of Religion, Education, Health, Science, and Technology",
+			"isbns": [
+				"9781040414682"
+			]
+		},
+		{
+			"label": "Gender (in)equality and Social Development: Issues of Health, Education, Environment and Other SDG Implications",
+			"isbns": [
+				"9789819679799"
+			]
+		},
+		{
 			"label": "Gender and Education in Central Asia",
 			"isbns": [
 				"9783031753015"
 			]
 		},
 		{
-			"label": "Girls' Education and Empowerment",
+			"label": "Girls' Education and Empowerment: Strategies and Experiences from South Asia",
 			"isbns": [
-				"9781032699172"
-			]
-		},
-		{
-			"label": "Academic Freedom in Africa",
-			"isbns": [
-				"9781032850450"
-			]
-		},
-		{
-			"label": "Digital Analytics Applications for Sustainable Training and Education",
-			"isbns": [
-				"9781774915943"
+				"9781040304457"
 			]
 		}
 	]
