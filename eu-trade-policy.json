@@ -2,40 +2,58 @@
 	"label": "Books on EU Trade Policy",
 	"description": "A selection of titles on EU Trade Policy available from the European Parliament Library.",
 	"list": [{
-			"label": "EU trade agreements and European integration : Commission autonomy or Council control?",
+			"label": "Relations between the EU and East Africa in a changing world order",
 			"isbns": [
-				"9781003819400"
+				"9783756035953"
 			]
-		},
-		{
-			"label": "EU Trade Law",
-			"isbns": [
-				"9781035319664"
-			]
-		},
-		{
-			"label": "EU Trade and Investment Treaty-Making Post-Lisbon",
-			"isbns": [
-				"9781509964666"
-			]
-		},
-		{
-			"label": "EU-UK Trade and Cooperation Agreement",
-			"isbns": [
-				"9781509980680"
-			]
-		},
-		{
-			"label": "EU and US foreign economic policy responses to China",
-			"isbns": [
-				"9781032255552"
-			]
-		},
-		{
-			"label": "Asymmetric Power Relations and International Trade Law",
-			"isbns": [
-				"9781040296271"
-			]
+			},
+			{
+				"label": "CAFTA-DR, European Free Trade Agreements and the Industrial Property System in Central America",
+				"isbns": [
+					"9783031934407"
+				]
+			},
+			{
+				"label": "Post-Colonial Perceptions of the EU's Trade Identity in Vietnamese and Indonesian Media",
+				"isbns": [
+					"9783031952326"
+				]
+			},
+			{
+				"label": "EU trade agreements and European integration : Commission autonomy or Council control?",
+				"isbns": [
+					"9781003819400"
+				]
+			},
+			{
+				"label": "EU Trade Law",
+				"isbns": [
+					"9781035319664"
+				]
+			},
+			{
+				"label": "EU Trade and Investment Treaty-Making Post-Lisbon",
+				"isbns": [
+					"9781509964666"
+				]
+			},
+			{
+				"label": "EU-UK Trade and Cooperation Agreement",
+				"isbns": [
+					"9781509980680"
+				]
+			},
+			{
+				"label": "EU and US foreign economic policy responses to China",
+				"isbns": [
+					"9781032255552"
+				]
+			},
+			{
+				"label": "Asymmetric Power Relations and International Trade Law",
+				"isbns": [
+					"9781040296271"
+				]
 		}
 		]
 }
