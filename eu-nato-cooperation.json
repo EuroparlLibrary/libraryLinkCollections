@@ -2,35 +2,46 @@
 	"label": "Books on EU-NATO Cooperation",
 	"description": "A selection of titles on EU-NATO cooperation available from the European Parliament Library.",
 	"list": [{
-			"label": "The West's Response to the Ukraine War",
+			"label": "Finland in NATO: Perspectives on strategy",
 			"isbns": [
-				"9783031834288"
+				"9781003644569"
 			]
-		},
-		{
-			"label": "European Total Defence",
-			"isbns": [
-				""
-			]
-		},
-		{
-			"label": "Security Order and Strategic Alignment in Europe and the Asia-Pacific",
-			"isbns": [
-				"9781040329962"
-			]
-		},
-		{
-			"label": "Routledge Handbook of NATO",
-			"isbns": [
-				"9781040026267"
-			]
-		},
-		{
-			"label": "Turbulence Across the Sea",
-			"isbns": [
-				"9780472904709"
-			]
-		}
-
+			},
+			{
+				"label": "Die Reaktion des Westens auf den Ukraine-Krieg",
+				"isbns": [
+					"9783032074560"
+				]
+			},
+			{
+				"label": "The Nordic States, NATO and the EU in Arctic Security",
+				"isbns": [
+					"9781035381395"
+				]
+			},
+			{
+				"label": "The West's Response to the Ukraine War",
+				"isbns": [
+					"9783031834288"
+				]
+			},
+			{
+				"label": "European Total Defence: Past, Present and Future",
+				"isbns": [
+					"9781040327418"
+				]
+			},
+			{
+				"label": "European Public Opinion about Security: Who Can Help Us in a Threatening World?",
+				"isbns": [
+					"9783031862632"
+				]
+			},
+			{
+				"label": "The United States and the Future of Europe: Views From the Capitals",
+				"isbns": [
+					"9783031833502"
+				]
+			}
 	]
 }
