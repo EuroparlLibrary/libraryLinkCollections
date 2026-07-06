@@ -2,40 +2,34 @@
 	"label": "Books on Ocean Protection",
 	"description": "A selection of titles on ocean protection available from the European Parliament Library.",
 	"list": [{
-			"label": "Marine Bioprospecting, Biodiversity and Novel Uses of Ocean Resources: New Approaches in International Law",
+			"label": "Managing Marine Plastic Pollution in Norway",
 			"isbns": [
-				"9781509968305"
+				"9781040645802"
 			]
-		},
-		{
-			"label": "Liability and Compensation for Offshore Oil Pollution Damage in the Arctic : Comparing Norwegian and Russian Law.",
-			"isbns": [
-				"9789004548343"
-			]
-		},
-		{
-			"label": "Persistent Organic Pollutants in the Ecosystems of the North Pacific",
-			"isbns": [
-				"9783031448966"
-			]
-		},
-		{
-			"label": "Legal aspects of the recovery of areas degraded by mining in the international seabed",
-			"isbns": [
-				"9783031124921"
-			]
-		},
-		{
-			"label": "Marine Pollution – Monitoring, Management and Mitigation",
-			"isbns": [
-				"9783031101274"
-			]
-		},
-		{
-			"label": "Microplastic Contamination in Aquatic Environments : An Emerging Matter of Environmental Urgency",
-			"isbns": [
-				"9780443153334"
-			]
-		}
+			},
+			{
+				"label": "A Research Agenda for Sustainable Ocean Governance",
+				"isbns": [
+					"9781035325757"
+				]
+			},
+			{
+				"label": "Marine Microplastics and the Quest for Remediation",
+				"isbns": [
+					"9789819689798"
+				]
+			},
+			{
+				"label": "Coral Conservation: Global Evidence for the Effects of Action",
+				"isbns": [
+					"9781805115335"
+				]
+			},
+			{
+				"label": "Threats to Our Ocean Heritage: Deep Sea Mining",
+				"isbns": [
+					"9783031982385"
+				]
+			}
 	]
 }
