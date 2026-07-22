@@ -2,51 +2,33 @@
 	"label": "Books on Human Rights",
 	"description": "A selection of titles on human rights available from the European Parliament Library.",
 	"list": [{
-			"label": "Human Rights and Populism",
+			"label": "International Cooperation under the Human Right to Science",
 			"isbns": [
-				"9781000931181"
+				"9781035363940"
 			]
 		},
 		{
-			"label": "The Wretched of the Global South : Critical Approaches to International Human Rights Law",
+			"label": "Business, Human Rights and Natural Resource Governance: Accountability for a Just Transition",
 			"isbns": [
-				"9789819992751"
+				"9781509970834"
 			]
 		},
 		{
-			"label": "The European Integrated Border Management : Frontex, Human Rights, and International Responsibility",
+			"label": "Regressions in Gender Equality, Women's Human Rights, and Empowerment: The Other Side of the Coin",
 			"isbns": [
-				"9781509964574"
+				"9783032099631"
 			]
 		},
 		{
-			"label": "Business and Human Rights",
+			"label": "Recognising Disability in Higher Education: A Human Rights Perspective",
 			"isbns": [
-				"9789004715158"
+				"9781040616390"
 			]
 		},
 		{
-			"label": "Auftraggeberhaftung in der Lieferkette",
+			"label": "Criminal Justice Reform in Sub-Saharan Africa: Best Practice from Selected Jurisdictions",
 			"isbns": [
-				"9783748947295"
-			]
-		},
-		{
-			"label": "Human Rights and the United Nations",
-			"isbns": [
-				"9781040325964"
-			]
-		},
-		{
-			"label": "Taxation, Human Rights, and Sustainable Development",
-			"isbns": [
-				"9781040355787"
-			]
-		},
-		{
-			"label": "Economic Development and Human Rights in the Contemporary Sub-Saharan Africa",
-			"isbns": [
-				"9783031814006"
+				"9781040874431"
 			]
 		}
 	]
