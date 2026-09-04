@@ -2,40 +2,40 @@
 	"label": "Books on Security in the Sahel",
 	"description": "A selection of titles on security in the Sahel available from the European Parliament Library.",
 	"list": [{
-			"label": "Terrorism and Political Contention : New Perspectives on North Africa and the Sahel Region",
+			"label": "Rural Crime in Africa",
 			"isbns": [
-				"9783031534294"
+				"9783032160812"
 			]
-		},
-		{
-			"label": "Conflict and Poverty in Africa",
-			"isbns": [
-				"9781003425410"
-			]
-		},
-		{
-			"label": "The Palgrave Handbook of (in)security and Transnational Crime in Africa",
-			"isbns": [
-				"9783031747861"
-			]
-		},
-		{
-			"label": "Palgrave Handbook of Terrorism in Africa",
-			"isbns": [
-				"9783031899409"
-			]
-		},
-		{
-			"label": "The French War on Terror",
-			"isbns": [
-				"9781032765211"
-			]
-		},
-		{
-			"label": "Herder-Farmer Conflicts in Africa",
-			"isbns": [
-				"9783031808210"
-			]
-		}
-	]
+			},
+			{
+				"label": "Liberal Peacebuilding in Times of Change: The UN, the EU, and the Politics of Continuity",
+				"isbns": [
+					"9781040682074"
+				]
+			},
+			{
+				"label": "The Palgrave Handbook of (in)security and Transnational Crime in Africa",
+				"isbns": [
+					"9783031747861"
+				]
+			},
+			{
+				"label": "Palgrave Handbook of Terrorism in Africa",
+				"isbns": [
+					"9783031899409"
+				]
+			},
+			{
+				"label": "Resilience, Peacebuilding, and Preventing Violent Extremism: A Complex Systems Perspective on Sustaining Peace",
+				"isbns": [
+					"9781040380895"
+				]
+			},
+			{
+				"label": "Drones in the African Battlespaces",
+				"isbns": [
+					"9783031871474"
+				]
+			}
+		]
 }
