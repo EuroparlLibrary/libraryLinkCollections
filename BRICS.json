@@ -2,34 +2,33 @@
 	"label": "BRICS",
 	"description": "A selection of titles on BRICS available from the European Parliament Library.",
 	"list": [{
-			"label": "Brazil after Bolsonaro",
+			"label": "BRICS Plus",
 			"isbns": [
-				"9781032523309",
-				"9781003407546"
+				"9783032223487"
 			]
 		},
 		{
-			"label": "Civilization-States of China and India: Reshaping the World Order",
+			"label": "The BRICS Legal Cooperation and Perspectives",
 			"isbns": [
-				"9789356405677"
+				"9789819543564"
 			]
 		},
 		{
-			"label": "Human Rights and Corruption in Brazil: Democracy at a Crossroads",
+			"label": "The BRICS and the Transformation of Global Power, Economic Expansion, Political Coordination, and Diplomatic Strategies in a Changing World Order",
 			"isbns": [
-				"9781509982004"
+				"9783032235404"
 			]
 		},
 		{
-			"label": "China's Normative Power in Central and Eastern Europe",
+			"label": "International Trade and Economic Development: Challenges and Opportunities in BRICS",
 			"isbns": [
-				"9781003515272"
+				"9789819588015"
 			]
 		},
 		{
-			"label": "US-India Partnership in the Indo-Pacific: Implications for China",
+			"label": "Expanded BRICS Nations: Peace, Security, Global Economy and Sustainable Development",
 			"isbns": [
-				"9781003585732"
+				"9789819669868"
 			]
 		}
 	]
