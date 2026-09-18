@@ -2,35 +2,34 @@
 	"label": "Books on Democracy Promotion",
 	"description": "A selection of titles on democracy promotion available from the European Parliament Library.",
 	"list": [{
-			"label": "The Americanization of European Union democracy promotion",
+			"label": "Development Cooperation and Good Governance: Between Ambition and Reality",
 			"isbns": [
-				"9781788113182"
+				"9783658499617"
 			]
-		},
-		{
-			"label": "Compliance with Judgments of the European Court of Human Rights: States on a Spectrum of Democratisation",
-			"isbns": [
-				"9789004538214"
-			]
-		},
-		{
-			"label": "EU good governance promotion in the age of democratic decline",
-			"isbns": [
-				"9783031057816"
-			]
-		},
-		{
-			"label": "Aiding Empowerment : Democracy Promotion and Gender Equality in Politics",
-			"isbns": [
-				"9780197694305"
-			]
-		},
-		{
-			"label": "Political Governance and the African Peer Review Mechanism",
-			"isbns": [
-				"9783031859113"
-			]
+			},
+			{
+				"label": "Liberal Peacebuilding in Times of Change: The UN, the EU, and the Politics of Continuity",
+				"isbns": [
+					"9781040682074"
+				]
+			},
+			{
+				"label": "The Human Right to Democracy in Multilevel Systems at a Time of Democratic Backsliding",
+				"isbns": [
+					"9783032016898"
+				]
+			},
+			{
+				"label": "The Routledge Handbook of Anti-Corruption Research and Practice",
+				"isbns": [
+					"9781040355602"
+				]
+			},
+			{
+				"label": "Political Governance and the African Peer Review Mechanism",
+				"isbns": [
+					"9783031859113"
+				]
 		}
-
 	]
 }
