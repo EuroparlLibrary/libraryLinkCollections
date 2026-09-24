@@ -2,35 +2,21 @@
 	"label": "Books on Nuclear Power in the EU",
 	"description": "A selection of titles on nuclear power in the EU available from the European Parliament Library.",
 	"list": [{
-			"label": "Constitutional Discussions on Nuclear Energy in Germany",
+			"label": "Toward a Cooperative Nuclear Safety Framework in East Asia: Lessons from Europe's Experience",
 			"isbns": [
-				"9781040046296"
+				"9789819213276"
 			]
 			},
 			{
-				"label": "The Global Nuclear Landscape",
+				"label": "The European Union's Nuclear Non-Proliferation Policy: Performance and Contestation",
 				"isbns": [
-					"9781032508894"
+					"9781040319338"
 				]
 			},
 			{
-				"label": "Perspectives on Engineering Uncertainty",
+				"label": "Nuclear Power: Technology, Geopolitics, and Economics",
 				"isbns": [
-					"9783031832543", 
-					"9783031832536", 
-					"9783031832543"
-				]
-			},
-			{
-				"label": "Dirty Secrets of Nuclear Power in an Era of Climate Change",
-				"isbns": [
-					"9783031595950"
-				]
-			},
-			{
-				"label": "Intergenerational Democracy, Environmental Justice and the Case of Nuclear Waste",
-				"isbns": [
-					"9781032728018"
+					"9783031998942"
 				]
 			}
 	]
